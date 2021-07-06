@@ -1,3 +1,27 @@
+Package: HoangDinhPhong.ActivatorVietNam
+Architecture: iphoneos-arm
+Version: 1.9.13
+Priority: optional
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.a3tweaks.flipswitch (>= 1.0.16~rc1), com.rpetrich.rocketbootstrap (>= 1.0.9)
+Conflicts: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), sbsettings (<= 3.0.6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, libhide (<< 2.4.1), com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator, com.udevs.activatorhomebuttoncrashfix, eu.rio-doro.actithemefix
+Replaces: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator, com.udevs.activatorhomebuttoncrashfix, eu.rio-doro.actithemefix
+Filename: ./Deb/HoangDinhPhong.ActivatorVietNam_1.9.13_iphoneos-arm.deb
+Size: 1218160
+MD5sum: 706ee99b0ee68c78ca761844eddbe606
+SHA1: 5de9c83892cae2e9dae3b39da72c6c2267713804
+SHA256: 660b9521e444460638a2db09859ce1809de31c955628a8db162edde99cb079ac
+SHA512: a161dd2b810ddea151f3f445f7508a75fd380010bb0ebb4747dc0b61fabc2b437e50cfb92287bec35f8ca7ecc4de6bdc21fa1177bf2e9e299ca695ab58696118
+Description: Cử chỉ tập trung, quản lý nút và phím tắt cho iOS
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+Name: Activator Việt Nam
+Author: Ryan Petrich
+Depiction: http://hoangdinhphong.github.io/info/Activator/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/info/Activator/?p=info
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
 Package: HoangDinhPhong.SourceIconHDP
 Architecture: iphoneos-arm
 Version: 1.0.1
