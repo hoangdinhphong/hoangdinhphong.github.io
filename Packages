@@ -105,6 +105,34 @@ Depiction: http://hoangdinhphong.github.io/Info/AmLichVaDanhNgon/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/AmLichVaDanhNgon/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Analog
+Architecture: iphoneos-arm
+Version: 1.0.22
+Section: Widget động
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Analog_1.0.22_iphoneos-arm.deb
+Size: 1765734
+MD5sum: 99d9b4cb84057204d0b0fbb360eccaa4
+SHA1: 82af530fa59ec55b4ba26adaf4734ff51b319caf
+SHA256: 1108eea84fa9bcdb804330e73b73dc339205c558893ab9bdc572d863a907dbb6
+SHA512: 74cb83a134688351b296a050fc90f868ec04264165ac8ac369069a2e73c410c361d1781f89009abdd30fe0421211d21fa79991ea52548d60c4e8b2402f5ed436
+Description: Tiện ích cho Xen Html.
+ - Yêu cầu cài Xen HTML để sử dụng
+ - Hoạt động trên Màn hình chính
+ - Tính năng gồm có:
+ + Tuỳ chỉnh chiều cao cho thời tiết, nhạc và khung hình nền
+ + Di chuyển vị trí lên xuống cho đồng hồ
+ + Chèn ảnh vào khung nền
+ + Tuỳ chỉnh bật tắt các thành phần
+ + Tuỳ chỉnh bo góc ảnh nền Album, nút điều khiển nhạc và nền biểu tượng thời tiết 4 ngày sau
+ + Tuỳ chỉnh bóng đổ vào trong khung nền
+ + Tất cả các thông số chiều cao và lên xuống đã được giới hạn dành cho các dòng máy khác nhau
+Name: Analog
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Analog/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Analog/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.SourceIconHDP
 Architecture: iphoneos-arm
 Version: 1.0.2
