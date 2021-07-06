@@ -99,19 +99,6 @@ ul li>a,ul li>button{
   z-index: 2;
 }
 
-ul li>a:after,ul li>button:after{
-  position: absolute;
-  top: 50%;
-  right: 15px;
-  width: 10px;
-  height: 13px;
-  margin-top: -6.5px;
-  background-size: 100% 100%
-  content: "";
-  display: block;
-  background: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NSIgaGVpZ2h0PSI5OSI+PHBvbHlnb24gcG9pbnRzPSIzNC43LDQ5LjcgMCw4NC40IDE1LjEsOTkuNSA2NC44LDQ5LjcgNDkuNywzNC43IDE1LjEsMCAwLDE1LjEiIHN0eWxlPSJmaWxsOiNjN2M3Y2MiLz48L3N2Zz4=");
-}
-
 ul li>button{
   font: inherit;
   width: 100%;
@@ -149,4 +136,17 @@ img.icon{
   max-height: 29px;
   min-width: 29px;
   width: 29px;
+}
+
+ul li>a:after,ul li>button:after{
+  position: absolute;
+  top: 50%;
+  right: 15px;
+  width: 10px;
+  height: 13px;
+  margin-top: -6.5px;
+  background-size: 100% 100%
+  content: "";
+  display: block;
+  background: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NSIgaGVpZ2h0PSI5OSI+PHBvbHlnb24gcG9pbnRzPSIzNC43LDQ5LjcgMCw4NC40IDE1LjEsOTkuNSA2NC44LDQ5LjcgNDkuNywzNC43IDE1LjEsMCAwLDE1LjEiIHN0eWxlPSJmaWxsOiNjN2M3Y2MiLz48L3N2Zz4=");
 }

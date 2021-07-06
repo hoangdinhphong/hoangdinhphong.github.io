@@ -128,11 +128,11 @@ Version: 1.0.35
 Section: Widget tĩnh
 Maintainer: Hoàng Đình Phong
 Filename: ./Deb/HoangDinhPhong.Win10Clock_1.0.35_iphoneos-arm.deb
-Size: 39430618
-MD5sum: 6887b8e41e4c8f4decfa94e895b35276
-SHA1: 053566b9dcd5044bef776f86270a738572e25b69
-SHA256: ffae9852ea6da0902458a0c98500f7dd76628f2fb32c597d55ccf91f31fb37e0
-SHA512: 2c996974b6cd56e3e2bc32a110a6e55e4333d041868dd5364cff05bf366d4948a62c81898445135ea01cef5c2b4163919d7aaf1dfdb92af2a08f379021846b51
+Size: 39430626
+MD5sum: 79c47a0fde70eb8ef8acd6d1baf8b991
+SHA1: 616a5d1573636ea9f6eba4db6d6e780b2af9645b
+SHA256: 6aa595e4b40c19fe04170444e2bf5e5e269f0d417227671f9fd6188743093a39
+SHA512: cd5527024528f222b937ca120d573f156fcbc0ca99582b01d967999b4de397525b64d7456b6ad5ed94210c229f953272b62e462a984caf08d9abef6a5dd11f72
 Description: Tiện ích cho Xen Html.
  - Hoạt động trên Màn hình khoá
  - Các thiết lập tuỳ chỉnh trong cài đặt của nó
