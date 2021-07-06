@@ -1,0 +1,22 @@
+Package: HoangDinhPhong.Win10Clock
+Architecture: iphoneos-arm
+Version: 1.0.35
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Win10Clock_1.0.35_iphoneos-arm.deb
+Size: 39430630
+MD5sum: 1a8757923e38b11f9d7dccf9afbaff9b
+SHA1: df6cc5ecf39177f8a5bef26d0a3d385a35c05f88
+SHA256: 87ebe5280fa80713992ab56e90811a62f27206fc22515917432023be612d6a5b
+SHA512: ed3ffcf12c305e5aca3496ba17ee193d12684a4bd52604c388063503c2a90973435a238b47f63023efd61bf889290688c44f525dcab493694a09167c2840c67d
+Description: Tiện ích cho Xen Html.
+ - Hoạt động trên Màn hình khoá
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ + Cập nhật sửa lỗi và thay đổi kiểu pin sóng
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Win 10 Clock
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Win10Clock/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Win10Clock/?p=info
+Icon: file:///Applications/Cydia.app/Sections/Widgets1.png
+
