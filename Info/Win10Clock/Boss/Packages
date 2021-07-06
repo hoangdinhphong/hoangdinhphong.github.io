@@ -1,0 +1,39 @@
+Package: HoangDinhPhong.SourceIconHDP
+Architecture: iphoneos-arm
+Version: 1.0.1
+Essential: yes
+Section: System
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.SourceIconHDP_1.0.1_iphoneos-arm.deb
+Size: 165940
+MD5sum: 0e63ca97b20a20fb3023b2110f60056e
+SHA1: 17de6cf0b65d0ff25906a3f33072a197d9d42849
+SHA256: 8db0ffbd4d89167baf577876fc87410b0e0f11393ed0a5c423bc05afa655fb6f
+SHA512: 3e856a742baa00d672b130dc9ea69e12017cc6ea020833c4a37c6c1f5da6f0291fec965482a8e5c13332992b0344f1be77246b62bc57ad4ac239ee98cd89e97e
+Description: Gói biểu tượng cho nguồn Hoàng Đình Phong
+Name: SourceIconHDP
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/s.png
+
+Package: HoangDinhPhong.Win10Clock
+Architecture: iphoneos-arm
+Version: 1.0.35
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Win10Clock_1.0.35_iphoneos-arm.deb
+Size: 39430618
+MD5sum: 6887b8e41e4c8f4decfa94e895b35276
+SHA1: 053566b9dcd5044bef776f86270a738572e25b69
+SHA256: ffae9852ea6da0902458a0c98500f7dd76628f2fb32c597d55ccf91f31fb37e0
+SHA512: 2c996974b6cd56e3e2bc32a110a6e55e4333d041868dd5364cff05bf366d4948a62c81898445135ea01cef5c2b4163919d7aaf1dfdb92af2a08f379021846b51
+Description: Tiện ích cho Xen Html.
+ - Hoạt động trên Màn hình khoá
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ + Cập nhật sửa lỗi và thay đổi kiểu pin sóng
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Win 10 Clock
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Win10Clock/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Win10Clock/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
