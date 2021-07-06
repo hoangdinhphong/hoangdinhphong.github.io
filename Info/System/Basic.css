@@ -11,10 +11,10 @@ html{
 }
 
 body{
-  font: 14px -apple-system-font,".Helvetica NeueUI","Helvetica Neue",sans-serif;
   margin: 0px 0 35px 0;
   cursor: default;
   -webkit-user-select: none;
+  font: 14px -apple-system-font,".Helvetica NeueUI","Helvetica Neue",sans-serif;
 }
 
 h2,body>p{
@@ -61,7 +61,7 @@ header h1{
 }
 
 ul{
-  margin: 5px 0 35px 0;
+  margin: 5px 0 0px 0;
   list-style: none;
   background: #fff;
 }
