@@ -50,11 +50,11 @@ Section: Tweaks
 Maintainer: Trương Tam Phong
 Depends: mobilesubstrate, preferenceloader
 Filename: ./Deb/HoangDinhPhong.AlertController_1.4.2_iphoneos-arm.deb
-Size: 53476
-MD5sum: e03e4d48c8a6b8d74255e6a971809119
-SHA1: 141f95ba855ec95ca3718a2481cd92a743fdb09e
-SHA256: 381ca3ade8af3b4c4dd1c9eab3dfb7add5f7886ad80e38d16ee0c06959bad36a
-SHA512: 4c5bc9a465a9a2395d3ef2131c772c6c5c89d1b3f6b0afb202f3421884347fc59148da61afe27cd7eff1b93c26cf5517402be80337a2d8c648d1bb326bfaf031
+Size: 53472
+MD5sum: 6e1f23f1f602054f8ad786944bd1e605
+SHA1: 5a7d1bae23cb204967ce4f70c73c4a6f62b5bcf0
+SHA256: 94fc5fc8f2223861a40cacbd1c99fb05d0ccddba61cebb01b28b4c33fb2c4ff3
+SHA512: 74bbc5eb4c5447cf29e695b2f2c256431d12765e8e0eefc064a86e4ecffa2e971a8db9c4a9187c88432e66982e6277e927c354447d9f2b9d658433f2b6a526ff
 Description: Thay đổi kiểu dáng cảnh báo và nhóm bảng hiển thị
  - Cập nhật thêm cài đặt tinh chỉnh
  - Đã sửa lỗi có thể gây ra sự cố do các giá trị (hiện không được sử dụng) từ cài đặt tinh chỉnh cũ
@@ -70,7 +70,6 @@ Description: Thay đổi kiểu dáng cảnh báo và nhóm bảng hiển thị
  - Đã xác nhận hỗ trợ cho iOS 14
  - Liên kết các vấn đề đã thay đổi, nó hiện hướng người dùng đến danh sách các vấn đề thay vì tạo vấn đề mới
  - Mã được sắp xếp lại và định dạng lại, loại bỏ mã không sử dụng
- .
  - Ủng hộ tôi để phát triển mạnh hơn 👌
 Name: Alert Controller Việt Nam
 Author: Tomasz Poliszuk
