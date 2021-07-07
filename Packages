@@ -155,6 +155,28 @@ Depiction: http://hoangdinhphong.github.io/Info/Anime/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/Anime/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.AprilTTP
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.AprilTTP_1.0.0_iphoneos-arm.deb
+Size: 47866714
+MD5sum: e371f360bd68c34c6dea5237e1735d90
+SHA1: f0d96179ebd0991d384fff4450d25bf56ff3df86
+SHA256: ea96b9e14282a6483db674503f7fcc66f7e51cc63fe6cc03e9bce91790512fe9
+SHA512: 01302752411ff9bb1371ba8b12f97b390208a507901fa25373267d25dfd45a51743e3d421a740d05f18d92fdd43706ba407c4c3198daeba48dfda55d961f4208
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính & Màn hình khoá
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ + Lần đầu phát hành
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: April TTP
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/AprilTTP/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/AprilTTP/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.SnowBoard
 Architecture: iphoneos-arm
 Version: 1.4.20~Beta4
