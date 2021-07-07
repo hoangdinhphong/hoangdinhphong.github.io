@@ -194,3 +194,24 @@ Depiction: http://hoangdinhphong.github.io/Info/Win10Clock/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/Win10Clock/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: com.matchstic.xenhtml
+Architecture: iphoneos-arm
+Version: 2.0.1
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: mobilesubstrate
+Filename: ./Deb/HoangDinhPhong.XenHTML_2.0.1_iphoneos-arm.deb
+Size: 8254260
+MD5sum: 8bbe99f45bb2c13619e71072b8dc3e03
+SHA1: d3b64fe56d77363b41d012caeba0c2c63b2d7d08
+SHA256: 70e2831e43c75994660ad4a11101e7f311d29feca449c5e9c54a108a2ca94f6c
+SHA512: d82cfeabb0f2034b03cead3a5b37758111480f9ec80f10a26b2be23b43fe7e0aabf594b2c02e3a28d050bf0166cc8544c65376b9b28009e57253a339daf471c8
+Description: Thêm tiện ích lên màn hình chính và màn hình khoá
+ - Đã dịch sang tiếng Việt sát nghĩa nhất có thể
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Xen HTML Việt Nam
+Author: Matt Clarke
+Depiction: http://hoangdinhphong.github.io/Info/XenHTML/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/XenHTML/?p=info
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
