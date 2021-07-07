@@ -155,6 +155,32 @@ Depiction: http://hoangdinhphong.github.io/Info/Anime/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/Anime/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.SnowBoard
+Architecture: iphoneos-arm
+Version: 1.4.20~Beta4
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./Deb/HoangDinhPhong.SnowBoard_1.4.20~Beta4_iphoneos-arm.deb
+Size: 5767684
+MD5sum: 8a3ad4c1ac965db9e5f74d4740ed5fd6
+SHA1: 73ba0cc24692cf0096c0b2163993c385413b9a29
+SHA256: 2d4f755bc3fabdb5ad82c6bd2409bca7d0e09d660b477c72960ea7e253bc79dc
+SHA512: 6300dd36f1c759234e56ef2825cc3a47cb6d5714d1c49a8e0536f454b97939b1bf40ca42b8c469d7483d373e8d202258d97cb79380cb9ce98da1557cf74972ca
+Description: Tinh chỉnh này dùng thay đổi chủ đề.
+ - Bạn đã nhàm chán với những biểu tượng mặc định? Và đây là tweak giúp bạn thay đổi những biểu tượng đó. Và nó có thêm nhiều tính năng tuyệt vời khác. Cài đặt và trải nghiệm thôi nào 😄
+ - Đã được biên dịch sang tiếng Việt hoàn chỉnh
+ + Cập nhật thêm chức năng cảnh báo những chủ đề nặng với những bức ảnh có kích thước lớn khiến máy bạn ì ạch hơn. Qua tính năng này giúp bạn lựa chọn theme tốt hơn. Và bản cập nhật lần này đã thêm tính ổn định cho iOS 14
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: SnowBoard Việt Nam
+Author: Spark
+Depiction: http://hoangdinhphong.github.io/Info/SnowBoard/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/SnowBoard/?p=info
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
 Package: HoangDinhPhong.SourceIconHDP
 Architecture: iphoneos-arm
 Version: 1.0.2

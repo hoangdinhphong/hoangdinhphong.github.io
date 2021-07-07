@@ -22,6 +22,10 @@ ttp{
   letter-spacing: 0px;
 }
 
+bold{
+  font-weight: 550;
+}
+
 red{
   color: #E50000;
 }
