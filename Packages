@@ -182,13 +182,13 @@ Architecture: iphoneos-arm
 Version: 514
 Section: Themes
 Maintainer: Hoàng Đình Phong
-Depends: hoangdinhphong.nextcarbon
-Filename: ./Deb/HoangDinhPhong.Carbon_514_iphoneos-arm.08-thg 7-2021-10-14-59.deb
-Size: 47826626
-MD5sum: 0e4c1204a835bb52d25409104690c3e2
-SHA1: b68c77e086d059e5402db4b836fba4d1b06ea2af
-SHA256: cab0340e657f1b81d54514cea2076fe598ae99709f52c269412e519562249685
-SHA512: d755b68772104ef431fb1eb02c4beb722a12f6556b280a61d482afc55024fcb0258350ad79aa7247db9f4b86f932ab53f26d0916efe9254253a454098a9e0971
+Depends: hoangdinhphong.extracarbon
+Filename: ./Deb/HoangDinhPhong.Carbon_514_iphoneos-arm.deb
+Size: 47826646
+MD5sum: 47e8524a87ca59733293bf6fe877a884
+SHA1: 58fccc2bcce2b5c7856c07eaa091e9b5a1256208
+SHA256: 930bed43a25b2b765e0d1818672692c9fd4507f5cf6c2025a30f8bf76a72526e
+SHA512: d96a3fcf08acdeacdb5291367e72f94194661ec1cacd366bb54158cb1d3321e9236cb41e0fd63220f1517862fef50c025bdc79e0d0836be056aa3dac474fd357
 Description: Chủ đề màu xám
  - Hoạt động trên SnowBoard. iThemer. Anemone. Iconomatic
  - Gói bao gồm: 513 biểu tượng, 15 AE, 2 Badge, 2 chấm trang, UI âm thanh, UI settings, UI iCleaner Pro, UI iMess, Biểu tượng thanh trạng thái, bàn phím gọi và pass, v.v...
@@ -200,21 +200,21 @@ Depiction: http://hoangdinhphong.github.io/Info/Carbon/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/Carbon/?p=info
 Icon: file:///Applications/Cydia.app/Sections/th.png
 
-Package: HoangDinhPhong.NextCarbon
+Package: HoangDinhPhong.ExtraCarbon
 Architecture: iphoneos-arm
 Version: 514
 Section: Themes
 Maintainer: Hoàng Đình Phong
-Filename: ./Deb/HoangDinhPhong.NextCarbon_514_iphoneos-arm.deb
-Size: 49958662
-MD5sum: 7eb0f6f0a9d15c43cba27df40c45f627
-SHA1: 0186e0f67a107facc3ce8dbae9d1b78d4ffb10ee
-SHA256: c984f5f73077f28addfac59d6ce4a7f76d45b9c5d0a975dff0ecd1105a46da75
-SHA512: 63ea8c770ace10977ac786f6fddd4e5835659d7d35770c7ec7b80efd68b3c5c49218bf7170c7afb38e1d2d393e230108b366092ef2325d21f61829201bb0eb0c
-Description: Gói biểu tượng Carbon
- - Gói này là phần bổ sung biểu tượng cho theme Carbon
+Filename: ./Deb/HoangDinhPhong.ExtraCarbon_514_iphoneos-arm.deb
+Size: 49958702
+MD5sum: 68acdeafe3ce8ac6aa77bcceeb75f760
+SHA1: 99e8cae2d0af8c7f23ab742d3504f09f8aea4251
+SHA256: 89e4c7e646dd7cb5de9ea8139fcd7d12356be927566c97bffbac97d19a311b2d
+SHA512: 56f86b4ef94415e1f8bc0d3f750fc1335939859760a5987a4ac321fd5558aaf545e2676294a0afa2ed5c071061b372bb046e790c2d744c45f8299220d70c1874
+Description: Gói phụ bổ sung cho chủ để Carbon
+ - Gói này là phần bổ sung biểu tượng còn thiếu cho theme Carbon
  - Ủng hộ tôi để phát triển mạnh hơn 👌
-Name: NextCarbon
+Name: ExtraCarbon
 Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/th.png
 
