@@ -177,6 +177,29 @@ Depiction: http://hoangdinhphong.github.io/Info/AprilTTP/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/AprilTTP/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.BigAnalog
+Architecture: iphoneos-arm
+Version: 1.6.0
+Section: Widget động
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.BigAnalog_1.6.0_iphoneos-arm.deb
+Size: 5561106
+MD5sum: 5dc2ba6c318a5e6cea69f36ffa6e4d47
+SHA1: c141149983d2d1e6712b17f4090951cb86980d50
+SHA256: eaa201e423a7149402884d9da6bb100a4521eb96e259699b32363b310f409d38
+SHA512: 9953fa51e7687511d2c3645c49a254c9e27c4335a92254c7aa0670e171350f4361e1bf25d074d51face482783720bfcb470cc1a206a218042d5395d778cd5c9a
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính & Màn hình khoá
+ - Hỗ trợ từ iPhone 4 trở lên
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ + Bản cập nhật thêm tuỳ chỉnh kích cỡ phông chữ, thêm bóng cho đồng hồ, bóng đổ cho giá đỡ ứng dụng và sửa lỗi lệch chữ khi ở chế độ phóng to.
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Big Analog
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/BigAnalog/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/BigAnalog/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Carbon
 Architecture: iphoneos-arm
 Version: 514
