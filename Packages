@@ -200,6 +200,28 @@ Depiction: http://hoangdinhphong.github.io/Info/Carbon/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/Carbon/?p=info
 Icon: file:///Applications/Cydia.app/Sections/th.png
 
+Package: HoangDinhPhong.Cover
+Architecture: iphoneos-arm
+Version: 1.6.6
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Cover_1.6.6_iphoneos-arm.deb
+Size: 45692970
+MD5sum: e5ab6b8c5dcf463cf290824c3b302b39
+SHA1: c5c54357d7008772dc81d0186a44ba10108a913a
+SHA256: 213bcedb4cc2dacf3e0f1d727b5b6dfb9a219128518e70529b1a052acef72814
+SHA512: 1bd47276184c02f4b81bcfd8638a607c36d9e8feb1912967c8a65b6e1c016763604866a6317aa8192d3473ba1d7cb46dfd3eb5fb47bc3aa7fbdfa8aff2e1af6d
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ + Cập nhật sửa lỗi và hoàn thiện lại mọi chi tiết. Thêm nhiều màu cho khung nền. Thay đổi và loại bỏ nhiều chức năng nhằm tối ưu hoá cho tiện ích. Giờ đây những dòng máy từ iPhone 6 tới iPhone X sẽ không còn giật lag và nóng máy như mọi phiên bản trước nữa.
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Cover
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Cover/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Cover/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.ExtraCarbon
 Architecture: iphoneos-arm
 Version: 514
