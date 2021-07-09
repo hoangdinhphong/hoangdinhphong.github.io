@@ -1,0 +1,101 @@
+
+#flakeContainer {
+    position: absolute;
+    top: 0px;
+    width: 414px;
+    height: 1512px;
+    z-index: 0;
+    overflow: hidden;
+}
+
+
+/*
+	This CSS rule is applied to all div elements in the flakeContainer div.
+	It styles and animates each flakeDiv.
+*/
+
+#flakeContainer > div {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    
+    /*
+		We use the following properties to apply the fade and drop animations to each flake.
+		Each of these properties takes two values. These values respectively match a setting
+		for fade and drop.
+    */
+    -webkit-animation-iteration-count: infinite, infinite;
+    -webkit-animation-direction: normal, normal;
+    -webkit-animation-timing-function: linear, ease-in;
+}
+
+
+/*
+	This CSS rule is applied to all img elements directly inside div elements which are
+	directly inside the flakeContainer div. In other words, it matches the 'img' elements
+	inside the flakeDivs which are created in the createAFlake() function.
+*/
+
+#flakeContainer > div > img {
+     position: absolute;
+     width: 18px;
+     height: 18px;
+    /*
+		We use the following properties to adjust the clockwiseSpin or counterclockwiseSpinAndFlip
+		animations on each flake.
+		The createAFlake function in the Flakes.js file determines whether a flake has the 
+		clockwiseSpin or counterclockwiseSpinAndFlip animation.
+    */
+     -webkit-animation-iteration-count: infinite;
+     -webkit-animation-direction: alternate;
+     -webkit-animation-timing-function: ease-in-out;
+     -webkit-transform-origin: 50% -100%;
+}
+
+
+/*
+	Hides a flake towards the very end of the animation
+*/
+
+@-webkit-keyframes fade {
+    /* Show a flake while into or below 95 percent of the animation and hide it, otherwise */
+    0%   { opacity: 1; }
+    95%  { opacity: 1; }
+    100% { opacity: 0; }
+}
+
+
+/*
+	Makes a flake fall from -10 to 812 pixels in the y-axis
+*/
+
+@-webkit-keyframes drop {
+    /* Move a flake to -10 pixels in the y-axis at the start of the animation */
+    0%   { -webkit-transform: translate(0px, -10px); }
+    /* Move a flake to 812 pixels in the y-axis at the end of the animation */
+    100% { -webkit-transform: translate(0px, 1512px); }
+}
+
+
+/*
+	Rotates a flake from -10 to 10 degrees in 2D space
+*/
+
+@-webkit-keyframes clockwiseSpin {
+    /* Rotate a flake by -10 degrees in 2D space at the start of the animation */
+    0%   { -webkit-transform: rotate(-10deg); }
+    /*  Rotate a flake by 10 degrees in 2D space at the end of the animation */
+    100% { -webkit-transform: rotate(10deg); }
+}
+
+
+/*
+	Flips a flake and rotates it from 10 to -10 degrees in 2D space
+*/
+
+@-webkit-keyframes counterclockwiseSpinAndFlip {
+    /* Flip a flake and rotate it by 10 degrees in 2D space at the start of the animation */
+    0%   { -webkit-transform: scale(-1, 1) rotate(100deg); }
+    /* Flip a flake and rotate it by -10 degrees in 2D space at the end of the animation */
+    100% { -webkit-transform: scale(-1, 1) rotate(-10deg); }
+}
