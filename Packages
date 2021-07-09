@@ -304,6 +304,28 @@ Name: ExtraCarbon
 Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/th.png
 
+Package: HoangDinhPhong.LetoPro
+Architecture: iphoneos-arm
+Version: 423
+Section: Themes
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.LetoPro_423_iphoneos-arm.deb
+Size: 48882980
+MD5sum: 609914d67d36c5d7d5307fb6a54ebf58
+SHA1: 819d38f5bf7c255e6c534ba02df2f0f966fa6b8e
+SHA256: b122e02138478288fa846e7afd2ac3013e1f91ab2b1169daec60786a78b01681
+SHA512: bca2b0eeb350be1b7b4ed28f5c64ede53341e714df3ff61f998852f84fda2228fe0fc63161a86ad60d21ef6cb03246d0f571dfca6d9c29f6fa680582f2725e6f
+Description: Giao diện cổ điển với những màu sắc dịu nhẹ
+ - Hoạt động trên SnowBoard, iThemer, Iconomtic, Anemone
+ - Gói bao gồm: 422 biểu tượng ứng dụng, 2 AE, 2 Badge, thư mục, Mask, và đồng hồ
+ + Cập nhật thêm nhiều biểu tượng mới
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: LetoPro
+Author: MtK
+Depiction: http://hoangdinhphong.github.io/Info/LetoPro/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/LetoPro/?p=info
+Icon: file:///Applications/Cydia.app/Sections/th.png
+
 Package: HoangDinhPhong.SnowBoard
 Architecture: iphoneos-arm
 Version: 1.4.20~Beta4
