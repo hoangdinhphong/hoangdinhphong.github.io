@@ -274,13 +274,13 @@ Version: 448
 Section: Themes
 Maintainer: Hoàng Đình Phong
 Filename: ./Deb/HoangDinhPhong.ExtraCGP_448_iphoneos-arm.deb
-Size: 49888908
-MD5sum: c2f12a0fe811b5ce1d618b6aa1262c12
-SHA1: a60eba9caf936a640c5ad6bc1c84484477adb97e
-SHA256: 0a1b5971a85c75b3cf1a57dc37c3196ce5b961b6ba19f37c874bbca6384fa577
-SHA512: b82831652b49303381b58b84fcab35f13d227e7ac08a0f5fd6a68c5a3cc9ad58440d2f5e34cdcce858af71a60dd1e168f196bf1cec50037c2205eb539718f673
+Size: 49888912
+MD5sum: 0b776710c545eb98d561a14fbd43455b
+SHA1: dd38e4c615602306cbaf9a132ecbd5db2107de9e
+SHA256: 02c81f03f00034d28e304e638481e7c9e4a8fca90ddcf5be23e9f9b1d594ab0d
+SHA512: 4fa49da11aa8bb834e506d1b96689044e39ffaee2b620a1dc6dc637a8dbb0b34134d851a95bae0b4cc44e56ae7dd709d7bbc37fe6f2bbffbbe3f990595593b31
 Description: Gói phụ bổ xung cho chủ đề CGP
- - Gói này là phần bổ sung biểu tượng còn thiếu cho theme Carbon
+ - Gói này là phần bổ sung biểu tượng còn thiếu cho theme CGP
  - Ủng hộ tôi để phát triển mạnh hơn 👌
 Name: ExtraCGP
 Author: Hoàng Đình Phong
