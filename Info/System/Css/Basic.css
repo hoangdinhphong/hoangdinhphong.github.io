@@ -7,21 +7,23 @@ body{
   margin: 0px 0 35px 0;
   -webkit-user-select: none;
   text-shadow: 0 2px 2px rgba(255,255,255, 1);
-  font: 15px -apple-system-font,".Helvetica NeueUI","Helvetica Neue",sans-serif;
+  font: 15px -apple-system-font, ".Helvetica NeueUI", "Helvetica Neue", sans-serif;
 }
 
 .bg{
-  padding-top: 25px;
-  padding-left: 4%;
+  position: relative;
+  top: 0;
+  left: 0;
   width: 100%;
   height: 100%;
+  padding-top: 5%;
 }
 
 *{
-  margin: 0;
-  padding: 0;
   border: 0;
   outline: 0;
+  margin: 0;
+  padding: 0;
   box-sizing: border-box;
 }
 
@@ -35,10 +37,42 @@ a,button{
 }
 
 header h1{
-  text-align: center;
   font-size: 14px;
   line-height: 44px;
   font-weight: 500;
+  text-align: center;
+}
+
+ul li{
+  margin-left: 20px;
+  border-bottom: 1px solid #fff;
+}
+
+ul li>p,ul li>a,ul li>button{
+  padding: 13px 15px;
+  margin-left: -15px;
+}
+
+ul li:last-child{
+  border-bottom: 0;
+}
+
+ul li>a,ul li>button{
+  position: relative;
+  display: block;
+  color: #007aff;
+  padding-right: 30px;
+  z-index: 2;
+}
+
+img.icon{
+  width: 29px;
+  height: auto;
+  max-height: 29px;
+  min-width: 29px;
+  border-radius: 8px;
+  margin: -7px 6px -9px -8px;
+  filter: drop-shadow(0px 1px 1px #000A);
 }
 
 ul{
@@ -53,99 +87,12 @@ ul{
   border: 0.5px solid #aaa;
   transform: translateX(-50%);
   box-shadow:
-  inset 0px 0px 10px rgba(0,0,0, 0),
-  0 -1.3px 2.8px 1px rgba(255,255,255, 0.1),
-  0 -6.3px 8.6px 3px rgba(255,255,255, 0.2),
-  0 -8.1px 10.6px 5px rgba(255,255,255, 0.3),
   0 2.3px 3.8px rgba(0, 0, 0, 0.05),
   0 6.3px 10.6px rgba(0, 0, 0, 0.1),
   0 15.1px 25.6px rgba(0, 0, 0, 0.2),
-  0 50px 85px rgba(0, 0, 0, 0.04);
-}
-
-ul:before,ul:after{
-  content: "";
-  display: block;
-  height: 2px;
-  background: #28282800;
-}
-
-ul li{
-  border-bottom: 1px solid #fff;
-  margin-left: 20px;
-}
-
-ul li:last-child{
-  border-bottom: 0;
-}
-
-ul li>p,ul li>a,ul li>button{
-  padding: 13px 15px;
-  margin-left: -15px;
-}
-
-ul li>p+p,ul li>p+a,ul li>p+button,ul li>a+p,ul li>a+a,ul li>a+button,ul li>button+p,ul li>button+a,ul li>button+button{
-  padding-top: 0;
-}
-
-ul li>a,ul li>button{
-  display: block;
-  color: #007aff;
-  padding-right: 30px;
-  position: relative;
-  z-index: 2;
-}
-
-ul li>button{
-  font: inherit;
-  width: 100%;
-  text-align: left;
-}
-
-ul+p{
-  margin-top: 25px;
-}
-
-.cydia body{
-  margin-top: 35px;
-}
-
-.cydia header{
-  display: none;
-}
-
-.cydia header+p{
-  margin-top: -20px;
-}
-
-.depiction{
-  background: transparent;
-}
-
-.depiction body{
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-img.icon{
-  height: auto;
-  margin: -7px 6px -9px -8px;
-  max-height: 29px;
-  min-width: 29px;
-  width: 29px;
-  border-radius: 8px;
-  filter: drop-shadow(0px 1px 1px #000A);
-}
-
-ul li>a:after,ul li>button:after{
-  position: absolute;
-  top: 50%;
-  right: 15px;
-  width: 10px;
-  height: 13px;
-  margin-top: -6.5px;
-  background-size: 100% 100%
-  content: "";
-  display: block;
-  background: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NSIgaGVpZ2h0PSI5OSI+PHBvbHlnb24gcG9pbnRzPSIzNC43LDQ5LjcgMCw4NC40IDE1LjEsOTkuNSA2NC44LDQ5LjcgNDkuNywzNC43IDE1LjEsMCAwLDE1LjEiIHN0eWxlPSJmaWxsOiNjN2M3Y2MiLz48L3N2Zz4=");
+  0 50px 85px rgba(0, 0, 0, 0.04),
+  inset 0px 0px 10px rgba(0,0,0, 0),
+  0 -1.3px 2.8px 1px rgba(255,255,255, 0.1),
+  0 -6.3px 8.6px 3px rgba(255,255,255, 0.2),
+  0 -8.1px 10.6px 5px rgba(255,255,255, 0.3);
 }
