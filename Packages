@@ -412,3 +412,51 @@ Depiction: http://hoangdinhphong.github.io/Info/XenHTML/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/XenHTML/?p=info
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.YouTubeReborn
+Architecture: iphoneos-arm
+Version: 1.0.7.3
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 12.0), com.spark.libsparkcolourpicker
+Conflicts: com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock
+Filename: ./Deb/HoangDinhPhong.YouTubeReborn_1.0.7.3_iphoneos-arm.deb
+Size: 184634
+MD5sum: b173b3cdc3125a6fbd9b3e1156186623
+SHA1: 076e73539d79ef9beb3694c9876eeb8ec122d327
+SHA256: 7887b4b6d7e9686eaa751715ac199311bd1232d947a229d478bd02fca095af0a
+SHA512: 3559a86c3e66f5b915f3093da01996d6703f4e15600c0435c0484e4aa6b62091cfd9a5800fbdd87a6592e2f638160618c21809816979e65780f3e5c392ba292b
+Description: Tuỳ chỉnh YouTube của bạn
+ - Các tuỳ chọn bao gồm: Tuỳ chọn video, thanh tab, lớp phủ, màu sắc. Ẩn các thành phần khác nhau. Thay đổi giao diện sang kiểu iPad. Chặn quảng cáo...
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ + Cập nhật sửa lỗi nâng cấp hỗ trợ YouTube bản mới nhất
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: YouTube Reborn Việt Nam
+Author: SarahH12099
+Depiction: http://hoangdinhphong.github.io/Info/YouTubeReborn/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/YouTubeReborn/?p=info
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
+Package: HoangDinhPhong.YouTubeReborn
+Architecture: iphoneos-arm
+Version: 1.1.0.0
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 12.0), com.spark.libsparkcolourpicker
+Conflicts: com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, com.spicat.youpip, com.ps.youpip, prasa.youtubeplus
+Filename: ./Deb/HoangDinhPhong.YouTubeReborn_1.1.0.0_iphoneos-arm.deb
+Size: 307520
+MD5sum: ae54cbb8fd74b51beb5efd94d5591ffa
+SHA1: 15a4c427642d737d93e7092020cd853267c3de58
+SHA256: 694ef497bc1a6dfc79e4924f91c35492e096f7c199035466ed772028ecdc3cd6
+SHA512: cc67cd293b213f62eb39b6300eb61178c6d0de92726ef672ec058b82c3e7aed960cdd73c544a47493bc3640f429228a70d6e51b25c2693194867dc0e6413e044
+Description: Tuỳ chỉnh YouTube của bạn
+ - Các tuỳ chọn bao gồm: Tuỳ chọn video, thanh tab, lớp phủ, màu sắc. Ẩn các thành phần khác nhau. Thay đổi giao diện sang kiểu iPad. Chặn quảng cáo...
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ + Cập nhật sửa lỗi nâng cấp hỗ trợ YouTube bản mới nhất
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: YouTube Reborn Việt Nam
+Author: SarahH12099
+Depiction: http://hoangdinhphong.github.io/Info/YouTubeReborn/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/YouTubeReborn/?p=info
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
