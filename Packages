@@ -369,6 +369,28 @@ Name: SourceIconHDP
 Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/s.png
 
+Package: HoangDinhPhong.StatusBarWeather
+Architecture: iphoneos-arm
+Version: 1.1.4
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.StatusBarWeather_1.1.4_iphoneos-arm.deb
+Size: 49784988
+MD5sum: 4ebcd0aa1f4de6422e3d79f26d97a3f2
+SHA1: 6300b7112da2a7d91b96d5c5d5399832d9128081
+SHA256: 5918f4050c1245a91b027b69fadf7828f951f5b206e2b53b4986c2408f0e7f06
+SHA512: 1ebb54802f2868fef29ba75b402d02081f73d0ce30fef03d4fd03ccda383fc04c017ece8b607f9b5e4225847838355c302c51ce9ccb70cc9ca34aad6033a8016
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính và Màn hình khoá
+ - Nội dung hiển thị: Lịch dương, lịch âm và thời tiết
+ + Cập nhật thay đổi sang kiểu cài đặt mới
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: StatusBar Weather
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/StatusBarWeather/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/StatusBarWeather/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Win10Clock
 Architecture: iphoneos-arm
 Version: 1.0.35
