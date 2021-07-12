@@ -268,6 +268,28 @@ Depiction: http://hoangdinhphong.github.io/Info/Cover/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/Cover/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Cydown
+Architecture: iphoneos-arm
+Version: 7.1.1
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Filename: ./Deb/HoangDinhPhong.Cydown_7.1.1_iphoneos-arm.deb
+Size: 4303488
+MD5sum: b544a6e42896bbdcc298c1446b2bd278
+SHA1: 9be7785e496c883e84b85b41f133e1d7b3929f78
+SHA256: 919ea5c3f131fdf85b48765a14776e645be9d41cd7339c74a37b6d87ccaf2ddb
+SHA512: 070344e1defea8c4cb54db48eebeb41b5779d476326f909d2a533aaf3e8d260d5d178b61ad68d9b4e33cdeb1858ca324f7dc39bbe8aefbe7fcc665226e061952
+Description: Trình quản lý tải xuống cho Cydia và các tính năng bổ sung!
+ - Tinh chỉnh này rất nhiều chức năng. Chủ yếu là hack tweak trả phí. Nếu bạn chưa biết tới nó hãy dùng thử xem. Nhưng tiếc là nó không hỗ trợ cửa hàng Sileo
+ + Cập nhật thêm tiếng Việt
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: CyDown Việt Nam
+Author: julioverne
+Depiction: http://hoangdinhphong.github.io/Info/Cydown/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Cydown/?p=info
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
 Package: HoangDinhPhong.ExtraCGP
 Architecture: iphoneos-arm
 Version: 448
