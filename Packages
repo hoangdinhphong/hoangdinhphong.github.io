@@ -326,6 +326,29 @@ Name: ExtraCarbon
 Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/th.png
 
+Package: HoangDinhPhong.HDPJuly
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget động
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.HDPJuly_1.0.0_iphoneos-arm.deb
+Size: 23834406
+MD5sum: 2d90d50151890d0dcaca3093f92f70d7
+SHA1: 246eb173058e4598b394d19af2a2a2b462a88cfb
+SHA256: ebf1ec2c2f1d6da562c2a0ae1999023be3ce089c19127490c53a23b669e08a33
+SHA512: 783896bb6e21763cabb3e24e5817fa04eb50e8a1248ba64df8161633900e2a4e9537d84e7d88b7e9dbcd9affc214e7a22d7593a561ec92168862cc4825689a10
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ - Nội dung hiển thị: Thời tiết, Music, lịch âm, lịch dương
+ + Lần đầu phát hành
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: HDP July
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/HDPJuly/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/HDPJuly/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.LetoPro
 Architecture: iphoneos-arm
 Version: 423
