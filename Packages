@@ -372,6 +372,28 @@ Depiction: http://hoangdinhphong.github.io/Info/HDPJuly/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/HDPJuly/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Infinity
+Architecture: iphoneos-arm
+Version: 2.0.4
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Infinity_2.0.4_iphoneos-arm.deb
+Size: 48468254
+MD5sum: d7d7240e89e9fed8e98dc91f38d1a9a6
+SHA1: 83117b097693456c4af4b1eea1e6acd1f635111a
+SHA256: 2132c95fc8cfa519f3642fd6eaea9756cb405a355feb9d3928193cc470cfc2fe
+SHA512: 0eb037fa4695c2fba4910ba0cca34549aa19a6b2fae1ca1fd399ae22e5e18c3e2b0d10f956dbaffc8d90af218802f540ee5edc5bc5e500224a505e41f06b40fa
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính & Màn hình khoá
+ - Nội dung hiển thị: Thời tiết, đồng hồ, lịch âm, lịch dương & pin
+ + Cập nhật thay đổi dạng cài đặt
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Infinity
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Infinity/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Infinity/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.LetoPro
 Architecture: iphoneos-arm
 Version: 423
