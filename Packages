@@ -351,15 +351,15 @@ Icon: file:///Applications/Cydia.app/Sections/w.png
 
 Package: HoangDinhPhong.HDPJuly
 Architecture: iphoneos-arm
-Version: 1.0.08
+Version: 1.0.09
 Section: Widget động
 Maintainer: Hoàng Đình Phong
-Filename: ./Deb/HoangDinhPhong.HDPJuly_1.0.08_iphoneos-arm.deb
-Size: 22874056
-MD5sum: 559e43c34c48698f83d6e3c5fc4ce3e7
-SHA1: 6096df8326fd09791f14d2d1cf03ceeea6fd5123
-SHA256: 4dde8708720b620a2181c8fa8178183da196404d1b327df1e3cf054104a8917e
-SHA512: 9757515542c3e1c3861087eed292781f583cd0f8984c65f71d25c576a6836ab28d2c69cbf6b3e66d75f5d23f5bc026859be172eb89f948ed65e4819686fdeb10
+Filename: ./Deb/HoangDinhPhong.HDPJuly_1.0.09_iphoneos-arm.deb
+Size: 22874130
+MD5sum: 13c5db7aa8edb5ebab1bb851b82c0096
+SHA1: 722687b7ba9afc94fe2ba539804d0dbb1d9f5740
+SHA256: 7b94e4ceecd705448be99718bfcfbadfdeac554aa99f77c18b113b7bd6fd44aa
+SHA512: 57f3732d9714d9b7cb5981bef87cabe7739f0048eebd41e3cb6437786b7b933e7c97b7874549d61b8ff9037d120ceca2bbd042ecd118338cd422d6890ba4cfcd
 Description: Tiện ích dành cho Xen Html.
  - Hoạt động trên Màn hình chính
  - Các thiết lập tuỳ chỉnh trong cài đặt của nó
