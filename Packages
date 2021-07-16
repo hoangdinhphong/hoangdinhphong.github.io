@@ -351,6 +351,29 @@ Icon: file:///Applications/Cydia.app/Sections/w.png
 
 Package: HoangDinhPhong.HDPJuly
 Architecture: iphoneos-arm
+Version: 1.0.08
+Section: Widget động
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.HDPJuly_1.0.08_iphoneos-arm.deb
+Size: 22874056
+MD5sum: 559e43c34c48698f83d6e3c5fc4ce3e7
+SHA1: 6096df8326fd09791f14d2d1cf03ceeea6fd5123
+SHA256: 4dde8708720b620a2181c8fa8178183da196404d1b327df1e3cf054104a8917e
+SHA512: 9757515542c3e1c3861087eed292781f583cd0f8984c65f71d25c576a6836ab28d2c69cbf6b3e66d75f5d23f5bc026859be172eb89f948ed65e4819686fdeb10
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ - Nội dung hiển thị: Thời tiết, Music, lịch âm, lịch dương & thanh pin
+ + Cập nhật mới gồm: Sửa lỗi hao pin. Thêm tuỳ chỉnh thời gian quay ảnh bìa. Thêm tuỳ chỉnh màu sắc các thành phần. Thêm hiện ảnh bìa cho YouTube. Thêm chạm vào ảnh bìa để mở ứng dụng nhạc đang phát & thêm màu viền cho ảnh bìa.
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: HDP July
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/HDPJuly/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/HDPJuly/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.HDPJuly
+Architecture: iphoneos-arm
 Version: 1.0.0
 Section: Widget động
 Maintainer: Hoàng Đình Phong
