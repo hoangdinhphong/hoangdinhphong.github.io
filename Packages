@@ -487,14 +487,14 @@ Icon: file:///Applications/Cydia.app/Sections/th.png
 Package: HoangDinhPhong.SemiRestore
 Architecture: iphoneos-arm
 Version: 1.1.6
-Section: Tweaks
+Section: Utilities
 Maintainer: Hoàng Đình Phong
 Filename: ./Deb/HoangDinhPhong.SemiRestore_1.1.6_iphoneos-arm.deb
-Size: 54892
-MD5sum: c0533783da7d6085a0d7db0365fbf47e
-SHA1: de0419d0efc6e956532455539fff4b150829e7fc
-SHA256: 72d99cc4ae9db77ae27b1d447d7da2dfa240cb2d0d461d44c455fa686a7f107a
-SHA512: c4770478181a353329b3e1d732d88f7f21d14859c2a72e567db2e9ca9bbfe2565f928f8884aa5a7f6e438b38a8330ca5f1dffcf249a35ba3057c9c24e6489cd5
+Size: 54898
+MD5sum: fed0624a099dbf70a596bcdf88b2370e
+SHA1: f24ea5c19a6c0adcda6badeb8374012fec38a893
+SHA256: 41e0c7b8469fcc2b7ccc875c366ab572af448af0e0a43ca4c3e8013ff8db7fc5
+SHA512: 68c9dc220808fce8bc3a97d5f26c1de1e85d269c57655bc65be7cec4ad6348a1da0fb2df83f8b6d50cd812a97dcecbe1985d8907693c35b4716d49d0ef1a1106
 Description: Công cụ gỡ jailbreak sạch 100%
  - Hỗ trợ tất cả các thiết bị từ iOS 11.3 tới iOS 14.7
  - Chạy ứng dụng này sẽ xoá sạch 100% tất cả dữ liệu và khôi phục lại máy về như lúc xuất xưởng
@@ -509,7 +509,7 @@ Name: SemiRestore 11-14
 Author: Pwn20wnd
 Depiction: http://hoangdinhphong.github.io/Info/SemiRestore/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/SemiRestore/?p=info
-Icon: file:///Applications/Cydia.app/Sections/t.png
+Icon: file:///Applications/Cydia.app/Sections/a.png
 
 Package: HoangDinhPhong.SnowBoard
 Architecture: iphoneos-arm
