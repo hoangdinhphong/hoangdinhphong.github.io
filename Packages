@@ -395,6 +395,29 @@ Depiction: http://hoangdinhphong.github.io/Info/HDPJuly/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/HDPJuly/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.HDPJuly
+Architecture: iphoneos-arm
+Version: 1.0.11
+Section: Widget động
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.HDPJuly_1.0.11_iphoneos-arm.deb
+Size: 22873716
+MD5sum: aebe9376e76c556ffd5c93bc36017054
+SHA1: ba99103f37060ceca07388813c59b13f96fd3bbc
+SHA256: 9003aa68174851c590f808b84faa2cf70adfe389856a7ff840548a6281cd0013
+SHA512: b9d28b6c06dc6946ad36a579fe2a69e7dd355897d65bbab4f7303a5b95aa17c41fcffe5f11fe19396de84112d248dc90faf10b64817cfbe915f99616061674f4
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ - Nội dung hiển thị: Thời tiết, Music, lịch âm, lịch dương & thanh pin
+ + Cập nhật mới gồm: Gỡ bỏ quay ảnh bìa Album do quá hao pin. Thay đổi toàn bộ màu nền chính kèm mã màu cho bạn dễ điền màu vào khung nền. Thay đổi nền thanh pin sáng hơn. Thay đổi bóng đổ biểu tượng thời tiết rõ ràng hơn.
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: HDP July
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/HDPJuly/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/HDPJuly/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Infinity
 Architecture: iphoneos-arm
 Version: 2.0.4
@@ -460,6 +483,33 @@ Author: MtK
 Depiction: http://hoangdinhphong.github.io/Info/LetoPro/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/LetoPro/?p=info
 Icon: file:///Applications/Cydia.app/Sections/th.png
+
+Package: HoangDinhPhong.SemiRestore
+Architecture: iphoneos-arm
+Version: 1.1.6
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.SemiRestore_1.1.6_iphoneos-arm.deb
+Size: 54892
+MD5sum: c0533783da7d6085a0d7db0365fbf47e
+SHA1: de0419d0efc6e956532455539fff4b150829e7fc
+SHA256: 72d99cc4ae9db77ae27b1d447d7da2dfa240cb2d0d461d44c455fa686a7f107a
+SHA512: c4770478181a353329b3e1d732d88f7f21d14859c2a72e567db2e9ca9bbfe2565f928f8884aa5a7f6e438b38a8330ca5f1dffcf249a35ba3057c9c24e6489cd5
+Description: Công cụ gỡ jailbreak sạch 100%
+ - Hỗ trợ tất cả các thiết bị từ iOS 11.3 tới iOS 14.7
+ - Chạy ứng dụng này sẽ xoá sạch 100% tất cả dữ liệu và khôi phục lại máy về như lúc xuất xưởng
+ - Yêu cầu sao lưu lại tài liệu trong máy trước khi chạy
+ - Ứng dụng khá đơn giản. Chỉ có một nút nhấn Unjailbreak. Nó sẽ bắt đầu chạy khi bạn xác nhận
+ - Thiết bị sẽ khởi động với một thanh tiến trình gỡ dữ liệu và khôi phục lại toàn bộ hệ thống. Bạn chỉ việc chờ cho đến khi xong
+ - Nếu bị treo Táo trên 5 phút, vui lòng nhấn tổ hợp phím cứng để cho quá trình khôi phục được tiếp tục
+ - Lưu ý! Tắt công Tắc bên dưới là bảo vệ thông tin. Bật công Tắc là để xóa tất cả các thông tin của bạn
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: SemiRestore 11-14
+Author: Pwn20wnd
+Depiction: http://hoangdinhphong.github.io/Info/SemiRestore/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/SemiRestore/?p=info
+Icon: file:///Applications/Cydia.app/Sections/t.png
 
 Package: HoangDinhPhong.SnowBoard
 Architecture: iphoneos-arm
