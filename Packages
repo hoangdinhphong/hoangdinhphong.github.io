@@ -418,6 +418,32 @@ Depiction: http://hoangdinhphong.github.io/Info/HDPJuly/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/HDPJuly/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.HDPJuly
+Architecture: iphoneos-arm
+Version: 1.0.12
+Section: Widget động
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.HDPJuly_1.0.12_iphoneos-arm.deb
+Size: 22959950
+MD5sum: 7ab01b5af39cded23efc840bbe609e4c
+SHA1: 4ffa6a367f5f33674c59e59ddc947b1e541b5aa7
+SHA256: e0a85c94609b304da6f80962ed7557ccf7b4ff3b922c2cdaa2a5f8422975b45b
+SHA512: e2abe94e7514fd0557b091983a4a60d8d881e0360dec89e73f3572407dd62ef0944e49fd796f8c688125bb24fb51d6eddb3ef1d9247079694c8b62a8b1c9d8f6
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ - Nội dung hiển thị: Thời tiết, Music, lịch âm, lịch dương & thanh pin
+ .
+ + Phiên bản 1.0.12: Sửa lỗi phát YouTube chạy nền, chỉ số thời gian không hoạt động khi kéo tua
+ + Phiên bản 1.0.11: Cập nhật mới gồm: Gỡ bỏ quay ảnh bìa Album do quá hao pin. Thay đổi toàn bộ màu nền chính kèm mã màu cho bạn dễ điền màu vào khung nền. Thay đổi nền thanh pin sáng hơn. Thay đổi bóng đổ biểu tượng thời tiết rõ ràng hơn
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: HDP July
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/HDPJuly/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/HDPJuly/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Infinity
 Architecture: iphoneos-arm
 Version: 2.0.4
