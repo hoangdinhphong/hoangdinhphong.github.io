@@ -715,6 +715,29 @@ Depiction: http://hoangdinhphong.github.io/Info/XenHTML/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/XenHTML/?p=info
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.Ybht
+Architecture: iphoneos-arm
+Version: 1.0.6
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Ybht_1.0.6_iphoneos-arm.deb
+Size: 146892
+MD5sum: 921adcc2eebc1ea158b309db78ed890c
+SHA1: 81f9289ee098343ca7fb1b6094362b6fd5234bbe
+SHA256: a142140fd3083a2305f7c55f32eeefdde373df428188dce1ce825421bb1a3141
+SHA512: 9ade83b02d90005b8ba1268869ed99ee6ff842af01181177dce8ab09359ab96c874f2f19894467b32977ba3ee544791f60cc40c30d6e5a78e9ef239451496895
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính & Màn hình khoá
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ + Cập nhật thêm tuỳ chỉnh vách ngăn cho Lịch dương & thêm tuỳ chỉnh độ bo góc khung thời gian
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Ybht
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Ybht/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Ybht/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.YouTubeReborn
 Architecture: iphoneos-arm
 Version: 1.0.7.3
