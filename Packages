@@ -290,6 +290,29 @@ Depiction: http://hoangdinhphong.github.io/Info/Cydown/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/Cydown/?p=info
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.EdwartPro
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.EdwartPro_1.0.2_iphoneos-arm.deb
+Size: 47801220
+MD5sum: 7f673677769be52a4509e849b45f3b50
+SHA1: 9bc9cfa642e7f2d516abf994689e4e46b24a7a4b
+SHA256: 45d0fe38e07c996e4c2e601a030d00e6c314a53ec1bc83cd88b04889db53a023
+SHA512: e8b36e0ad9c2182b9e9433af5c3e322f197164cfefa4b275dfd4b2081838f6e86b5ef4fc1e21861f5e3debdcd6ecf69c35ef0778395197c7869700fdcd2690ec
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính & Màn hình khoá
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ + Cập nhật thu gọn Widget tối đa nhất có thể. Sửa lỗi hiển thị pin không chính xác. Chỉnh bóng đổ cho Tên văn bản dài hơn. Gỡ bỏ bóng đổ biểu tượng thời tiết vì bị nháy kẻ sọc màn hình
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: EdwartPro
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/EdwartPro/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/EdwartPro/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.ExtraCGP
 Architecture: iphoneos-arm
 Version: 448
