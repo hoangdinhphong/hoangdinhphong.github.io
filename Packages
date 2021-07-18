@@ -510,6 +510,28 @@ Depiction: http://hoangdinhphong.github.io/Info/LetoPro/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/LetoPro/?p=info
 Icon: file:///Applications/Cydia.app/Sections/th.png
 
+Package: HoangDinhPhong.Petal
+Architecture: iphoneos-arm
+Version: 1.1.3
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Petal_1.1.3_iphoneos-arm.deb
+Size: 5477442
+MD5sum: 0edd610ff5c385211b9fbd98164f9cd5
+SHA1: 6ac77027a1cdfc6d9cd421a2176f867aa5477a3c
+SHA256: 4815f81e330854b6b39fbc90e2435a84d0fd4a5518b8d4bf0a6d7cefa351ce1e
+SHA512: 46e352304dddbfce2a71a3c62f05d11da1c565b517ea0c1753b906c327924dfa263a0e0741c10aa13a5c3176853f44da447de1cc59b77d6d78864924d8ea829d
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình khoá
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ + Cập nhật thay đổi chế độ cài đặt. Sửa lỗi bị lệch trên các dòng máy iPhone X, Xs, 11, 12 mini
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Petal
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Petal/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Petal/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.SemiRestore
 Architecture: iphoneos-arm
 Version: 1.1.6
