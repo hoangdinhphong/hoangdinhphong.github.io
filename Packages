@@ -371,6 +371,29 @@ Name: ExtraCarbon
 Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/th.png
 
+Package: HoangDinhPhong.Faint
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Faint_1.0.3_iphoneos-arm.deb
+Size: 141812
+MD5sum: 1d85a0ff0469c850e3d1c7eb74953148
+SHA1: 3cbc263a6abffc0ba21954c35e1617b4b7987cff
+SHA256: 352ff69c47f0ad4d4019b69450453cc5afdbf51076c4f5324c11b6b5af8232f7
+SHA512: 924bcfc5683a2d7820ee26ba1df1013bf23a0f48d8109a5cc41895252345be12db51a8a905852eced3add24447c985c405b5d52fca85a519ea288de35d10700e
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính & Màn hình khoá
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ + Cập nhật chuyển sang dạng cài đặt mới. Thêm tuỳ chỉnh màu sắc
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Faint
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Faint/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Faint/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.HDPJuly
 Architecture: iphoneos-arm
 Version: 1.0.03
