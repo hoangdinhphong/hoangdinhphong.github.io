@@ -223,6 +223,28 @@ Depiction: http://hoangdinhphong.github.io/Info/CGP/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/CGP/?p=info
 Icon: file:///Applications/Cydia.app/Sections/th.png
 
+Package: HoangDinhPhong.CPUTool
+Architecture: iphoneos-arm
+Version: 2.0
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: mobilesubstrate, jp.soh.ct
+Filename: ./Deb/HoangDinhPhong.CPUTool_2.0_iphoneos-arm.deb
+Size: 2372
+MD5sum: c8b4478c6f6e7cb7c8f9081a2dce22c8
+SHA1: 489e3de47fc234bf5eafdc7d337cf188dc715640
+SHA256: dfc944d09b3b47db8fdb0d324922f747ec08347e2509ecf6136aaedc282d9e9e
+SHA512: d3eb6d66011dfe4fc078510b7b37d5b89bea736fb7fb544b25061b0b91487f7e157cd096a3b5fd6afbe6919c586cf5733d0b987f93798bc1b162179c0e19c6e0
+Description: Gói tiếng việt dành cho CPUTool
+ - Yêu cầu mua tweak CPUTool tại nguồn Packix trước khi cài gói này
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: CPUTool (Gói tiếng Việt)
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/CPUTool/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/CPUTool/?p=info
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
 Package: HoangDinhPhong.Carbon
 Architecture: iphoneos-arm
 Version: 514
