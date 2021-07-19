@@ -135,6 +135,29 @@ Icon: file:///Applications/Cydia.app/Sections/w.png
 
 Package: HoangDinhPhong.Anime
 Architecture: iphoneos-arm
+Version: 1.0.92
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Anime_1.0.92_iphoneos-arm.deb
+Size: 49523806
+MD5sum: adde20cf0926cebf60bc481f44ab6723
+SHA1: 4486454b1e0a72fac5cfcba3542f6ab05ffd7365
+SHA256: 88d69970d3e209a4c182e10d29d14578db08d3455d16dc5f6d103f1ee70d5c78
+SHA512: c84a248f1cf5a8750e27f83146c041e31325df405ca1d9b0399f6481a869c8bc822c0807efb2a0dd599bc26efecbdbe6734bf2732fe3869366490a4abad27fcf
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ + Cập nhật sửa lỗi lệch chữ trên một số dòng máy
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Anime
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Anime/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Anime/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Anime
+Architecture: iphoneos-arm
 Version: 1.0.9
 Section: Widget tĩnh
 Maintainer: Hoàng Đình Phong
