@@ -313,6 +313,31 @@ Depiction: http://hoangdinhphong.github.io/Info/Cover/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/Cover/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Cover
+Architecture: iphoneos-arm
+Version: 1.6.7
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Cover_1.6.7_iphoneos-arm.deb
+Size: 46761378
+MD5sum: d712cb6a64e592a0d26db1df09c15435
+SHA1: 010874e9394680e0519932ad9d709fcf3e436f1a
+SHA256: 8c65b9aac00237ea93f08c7d7468a53daa51af82c3a500a4a9ee04de8467ff48
+SHA512: 3966ca3040a890518cfacba981df4c5905b378839ec643011ea455b01e8c124f8463952e0bc5aa069cadfabfb22c4307aab990ea13cc34aa89a3821da42aa25f
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ .
+ + Ver 1.6.7: Thêm Font mới. Thêm hiệu ứng Play, Next, Prev vào ảnh bìa bài hát. Thêm chạm vào vòng tròn để mở ứng dụng đang phát nhạc. Thêm ảnh bìa cho YouTube.
+ + Ver 1.6.6: Sửa lỗi và hoàn thiện lại mọi chi tiết. Thêm nhiều màu cho khung nền. Thay đổi và loại bỏ nhiều chức năng nhằm tối ưu hoá cho tiện ích. Giờ đây những dòng máy từ iPhone 6 tới iPhone X sẽ không còn giật lag và nóng máy như mọi phiên bản trước nữa.
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Cover
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Cover/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Cover/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Cydown
 Architecture: iphoneos-arm
 Version: 7.1.1
@@ -466,20 +491,20 @@ Icon: file:///Applications/Cydia.app/Sections/w.png
 
 Package: HoangDinhPhong.FridayTTP
 Architecture: iphoneos-arm
-Version: 1.3.2
+Version: 1.3.3
 Section: Widget tĩnh
 Maintainer: Hoàng Đình Phong
-Filename: ./Deb/HoangDinhPhong.FridayTTP_1.3.2_iphoneos-arm.deb
-Size: 14559362
-MD5sum: 5e1b50e53f9cd5189c3575552d6245f5
-SHA1: 28f070fdb75541fcf1b9997b41ef28bdbb758760
-SHA256: 724c58599f06e2215ec6309304f102843d048dc54be170624ee13cd99a31f732
-SHA512: c08a33d1ec3e3cf486d044302395e7a2fd66061826f1ba1bd12fb8cf6210efc99af1f8c31e8411d28244be3798695bec905d31dc579c54f4971bcef5ee61e3b1
+Filename: ./Deb/HoangDinhPhong.FridayTTP_1.3.3_iphoneos-arm.deb
+Size: 14559360
+MD5sum: c029c7c87baae46469f60788619d61ba
+SHA1: 5761a62807047fa74a5e6abbb16de9e48c6e1845
+SHA256: acd03267cb960ac7db340089a9f69141e4981e51b89abdc696a9ed83fbd75111
+SHA512: 0c1cc5a1311bda50e1e590f815850573c33020541d60918670f6c240d42405c1b990e96655429f3aaaadc67e34c72e2a76aa88832ca0a518a35697a49ec0c36a
 Description: Tiện ích dành cho Xen Html.
  - Hoạt động trên Màn hình chính
  - Nội dung hiển thị gồm: Lịch âm, lịch dương, thời tiết, trình phát nhạc, thanh tìm kiếm, lời chào & ảnh bìa (chạm vào Ngày để thay ảnh bìa)
  .
- + Ver 1.3.2: Sửa lỗi không tự động chuyển ngày tháng khi sang ngày mới. Thêm hiện ảnh bìa khi phát YouTube. Tăng chiều cao Widget cho thoáng hơn. Thay đổi đồng hồ qua nhiệt độ cao và thấp nhất trong ngày vì thanh trạng thái đã có đồng hồ nên hơi thừa
+ + Ver 1.3.3: Sửa lỗi không tự động chuyển ngày tháng khi sang ngày mới. Thêm hiện ảnh bìa khi phát YouTube. Tăng chiều cao Widget cho thoáng hơn. Thay đổi đồng hồ qua nhiệt độ cao và thấp nhất trong ngày vì thanh trạng thái đã có đồng hồ nên hơi thừa
  + Ver 1.3.0: Thay đổi sang dạng cài đặt mới. Loại bỏ chế độ lớn và vừa. Gỡ bỏ thanh trạng thái. Thêm chạm vào ảnh thời tiết hoặc ảnh Album để mở ứng dụng đang phát nhạc. Thêm hiệu ứng chuyển bài và tạm dừng. Hỗ trợ thêm các dòng máy từ iPhone 6 tới iPhone X
  .
  - Ủng hộ tôi để phát triển mạnh hơn 👌
