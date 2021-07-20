@@ -464,6 +464,31 @@ Depiction: http://hoangdinhphong.github.io/Info/FridayTTP/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/FridayTTP/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.FridayTTP
+Architecture: iphoneos-arm
+Version: 1.3.2
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.FridayTTP_1.3.2_iphoneos-arm.deb
+Size: 14559362
+MD5sum: 5e1b50e53f9cd5189c3575552d6245f5
+SHA1: 28f070fdb75541fcf1b9997b41ef28bdbb758760
+SHA256: 724c58599f06e2215ec6309304f102843d048dc54be170624ee13cd99a31f732
+SHA512: c08a33d1ec3e3cf486d044302395e7a2fd66061826f1ba1bd12fb8cf6210efc99af1f8c31e8411d28244be3798695bec905d31dc579c54f4971bcef5ee61e3b1
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính
+ - Nội dung hiển thị gồm: Lịch âm, lịch dương, thời tiết, trình phát nhạc, thanh tìm kiếm, lời chào & ảnh bìa (chạm vào Ngày để thay ảnh bìa)
+ .
+ + Ver 1.3.2: Sửa lỗi không tự động chuyển ngày tháng khi sang ngày mới. Thêm hiện ảnh bìa khi phát YouTube. Tăng chiều cao Widget cho thoáng hơn. Thay đổi đồng hồ qua nhiệt độ cao và thấp nhất trong ngày vì thanh trạng thái đã có đồng hồ nên hơi thừa
+ + Ver 1.3.0: Thay đổi sang dạng cài đặt mới. Loại bỏ chế độ lớn và vừa. Gỡ bỏ thanh trạng thái. Thêm chạm vào ảnh thời tiết hoặc ảnh Album để mở ứng dụng đang phát nhạc. Thêm hiệu ứng chuyển bài và tạm dừng. Hỗ trợ thêm các dòng máy từ iPhone 6 tới iPhone X
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Friday TTP
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/FridayTTP/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/FridayTTP/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.HDPJuly
 Architecture: iphoneos-arm
 Version: 1.0.03
@@ -574,6 +599,33 @@ Description: Tiện ích dành cho Xen Html.
  .
  + Phiên bản 1.0.12: Sửa lỗi phát YouTube chạy nền, chỉ số thời gian không hoạt động khi kéo tua
  + Phiên bản 1.0.11: Cập nhật mới gồm: Gỡ bỏ quay ảnh bìa Album do quá hao pin. Thay đổi toàn bộ màu nền chính kèm mã màu cho bạn dễ điền màu vào khung nền. Thay đổi nền thanh pin sáng hơn. Thay đổi bóng đổ biểu tượng thời tiết rõ ràng hơn
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: HDP July
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/HDPJuly/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/HDPJuly/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.HDPJuly
+Architecture: iphoneos-arm
+Version: 1.0.13
+Section: Widget động
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.HDPJuly_1.0.13_iphoneos-arm.deb
+Size: 24323788
+MD5sum: c72eb14b800545761497e7f49b243547
+SHA1: 627be96778abb3ee2d29e82a631483ac807c335d
+SHA256: 044d7b63438db6b797455e18dea6bb4816168d9189006b63b870e594a387970d
+SHA512: 6529e7ebcd9a9cdc8cf3cd33bf068d697f51667fba3caa8bbc79710113fe8bb1f2749c3789620bf5f40687deef4cdd08c3ec396272feb85272ec7b976da0d68b
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ - Nội dung hiển thị: Thời tiết, Music, lịch âm, lịch dương & thanh pin
+ .
+ + Ver 1.0.13: Sửa lỗi không tự động chuyển ngày tháng khi sang ngày mới
+ + Ver 1.0.12: Sửa lỗi phát YouTube chạy nền, chỉ số thời gian không hoạt động khi kéo tua
+ + Ver 1.0.11: Cập nhật mới gồm: Gỡ bỏ quay ảnh bìa Album do quá hao pin. Thay đổi toàn bộ màu nền chính kèm mã màu cho bạn dễ điền màu vào khung nền. Thay đổi nền thanh pin sáng hơn. Thay đổi bóng đổ biểu tượng thời tiết rõ ràng hơn
  .
  - Ủng hộ tôi để phát triển mạnh hơn 👌
 Name: HDP July
