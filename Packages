@@ -887,6 +887,30 @@ Depiction: http://hoangdinhphong.github.io/Info/StatusBarWeather/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/StatusBarWeather/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.T9Dialer
+Architecture: iphoneos-arm
+Version: 1.2.0
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker, firmware (>= 11.1.2)
+Filename: ./Deb/HoangDinhPhong.T9Dialer_1.2.0_iphoneos-arm.deb
+Size: 68278
+MD5sum: 67eec507871f6d13a14c2b353a0f6ca7
+SHA1: 01561815624c5235063a9a0e5b8b15158455d793
+SHA256: 8c757d1afe06f82d13d692cf049160b78b0c25b5e9c57c1713d5bc7046e64f01
+SHA512: b143f9b963d7e9b0eeb9a1fb4b6aadb76622d99a6566103cab3ca3fe05fe318b21359304fc30385889c787cbae35deda6eb5b08b9839ce0371d1c38cefc87595
+Description: Hiển thị tìm kiếm theo tên hoặc số điện thoại
+ - Hỗ trợ ứng dụng Điện thoại mặc định
+ - Tuỳ chỉnh gồm có: Hiện tab bàn phím khi khởi chạy. Chuyển trường số lên trên. Phản hồi rung khi nhấn phím. Ưu tiên tên trước họ sau. Tìm kiếm theo số điện thoại. Màu chữ nhập liệu
+ + Cập nhật nâng cấp sửa lỗi
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: T9Dialer Việt Nam
+Author: Jordan Koch
+Depiction: http://hoangdinhphong.github.io/Info/T9Dialer/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/T9Dialer/?p=info
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
 Package: HoangDinhPhong.Win10Clock
 Architecture: iphoneos-arm
 Version: 1.0.35
