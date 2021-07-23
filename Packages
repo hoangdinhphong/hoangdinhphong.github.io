@@ -985,11 +985,11 @@ Version: 1.0.5
 Section: Widget tĩnh
 Maintainer: Hoàng Đình Phong
 Filename: ./Deb/HoangDinhPhong.StarDock_1.0.5_iphoneos-arm.deb
-Size: 23774542
-MD5sum: 6b38af9631444c01892c9c9f215a5bdf
-SHA1: 526e404f1fa1c2dca03d096564aac648cfb31ef1
-SHA256: 1153bdbed74d429887d926b563f81dec6d1ae9c929b2052f9acb2700a08df9b0
-SHA512: 19e74be7cb2ccb2f4f218aaadc5333ee87b9784c31655d08f1c7db4a8315eea860eb9a0ffa0be699290ca6cfce6becec4cf876449b2e3ffcbffe3e273bab8413
+Size: 25467096
+MD5sum: 82c30c284099b1b65d1f25424540e5a2
+SHA1: 17afe3a1754ca3e34f45dc8b75654d9049b4aac7
+SHA256: 88281614c32d918d9a50c31dd771e3e0e976831b919454c3f2c49e7f0a3b0ad1
+SHA512: cd2cb22cab8d21a40f17e48e636dc91c7ab97cb4aa7b2c1b0742a94239f6e31b709e16bd5b5e2d23c142621739b4e3fe532e1bdb3b9a7b3e8ffb64f8071904a9
 Description: Tiện ích dành cho Xen Html.
  - Hoạt động trên Màn hình chính & Màn hình khoá
  - Nội dung hiển thị: Đồng hồ. Lịch âm. Lịch dương. Thời tiết. Trình phát nhạc
