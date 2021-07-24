@@ -1070,6 +1070,30 @@ Depiction: http://hoangdinhphong.github.io/Info/T9Dialer/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/T9Dialer/?p=info
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.TapMe
+Architecture: iphoneos-arm
+Version: 1.3.0
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: mobilesubstrate
+Filename: ./Deb/HoangDinhPhong.TapMe_1.3.0_iphoneos-arm.deb
+Size: 4998800
+MD5sum: aaa2cdaf339c80ed4d7d337813db90cf
+SHA1: 45c31ca6a33c6c51ab16b1ccc9caaf528d828962
+SHA256: 2b829253f57b252097472859d24c9102c3b6858cdc2a89ae8282fd68a8738f3d
+SHA512: 28783d3d41107a032f91e4aa230d72a0679872610822b127676fdb0dcc5c9e6bf48bb405abaf7f9450afb69d4194d757b39a84b6617007badf32097320d3ef2b
+Description: Phát âm thanh và rung khi mở ứng dụng hoặc thư mục của bạn
+ - Nội dung cài đặt gồm: Rung phản hồi gồm nhẹ, vừa & mạnh. Lựa chọn âm thanh phát ra.
+ - Lưu ý: Âm thanh không hoạt động ở chế độ im lặng
+ + Bây giờ bạn có thể xem trước kiểu phản hồi rung và âm thanh trong cài đặt của TapMe
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: TapMe
+Author: alex_png
+Depiction: http://hoangdinhphong.github.io/Info/TapMe/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/TapMe/?p=info
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
 Package: HoangDinhPhong.Win10Clock
 Architecture: iphoneos-arm
 Version: 1.0.35
