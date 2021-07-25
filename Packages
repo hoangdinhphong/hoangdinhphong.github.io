@@ -659,6 +659,29 @@ Depiction: http://hoangdinhphong.github.io/Info/HDPJuly/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/HDPJuly/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.HTCClock
+Architecture: iphoneos-arm
+Version: 1.2.2
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.HTCClock_1.2.2_iphoneos-arm.deb
+Size: 25075362
+MD5sum: ab470320faa0edbd248af9c2f9049921
+SHA1: 2d4e7297e3cc6e3582eecbb598f30dad49a83cf0
+SHA256: d05d72d4d937d51fd809b57163ff59ded4b7c1a662931bf0a761b249a1bcc2bf
+SHA512: d1755e09e6bc95378da77cabcef434898f6214692bdd37d848d6c74a2dccd567a171c6e6695bfd29f7e839ea04493a43d612b2d5ad2baeb91e4846a5f4011550
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính & Màn hình khoá
+ - Nội dung hiển thị: Đồng hồ. Lịch. Thời tiết
+ + Cập nhật hỗ trợ từ iPhone 5 tới 12 Pro Max. Chuyển sang dạng cài đặt mới. Thêm ngôn ngữ. Thêm chọn gói biểu tượng thời tiết. Thêm chỉnh tỉ lệ. Thêm đổi phông chữ
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: HTC Clock
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/HTCClock/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/HTCClock/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Infinity
 Architecture: iphoneos-arm
 Version: 2.0.4
