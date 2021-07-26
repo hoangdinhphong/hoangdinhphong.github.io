@@ -360,6 +360,32 @@ Depiction: http://hoangdinhphong.github.io/Info/Cydown/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/Cydown/?p=info
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.DockOne
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.DockOne_1.0.0_iphoneos-arm.deb
+Size: 2384
+MD5sum: f1cff3afd65e8742d8fe0114a68f4823
+SHA1: 260cf346053ec42756e206cc0b7b3097b72e8be6
+SHA256: 1ec9223310296df569dae8da62041b92eb7432ad51d35e6ed533ccc060caa39c
+SHA512: 7c7fbcb2dd78aa840b989c33566210af211d4d35ac33fd52888a5e642c13cb9b4514c75e4157c6cc6dd8c9caec0e81be7ea174b5d679d50971bb559a40cd718e
+Description: Tiện ích cho Xen Html.
+ - Yêu cầu cài Xen HTML để sử dụng
+ - Hoạt động trên Màn hình chính
+ - iOS hỗ trợ: 10.0 trở lên
+ .
+ - Nội dung cài đặt:
+ + Tuỳ chỉnh kiểu dáng, màu sắc, kích cỡ cho viền Dock
+ + Tuỳ chỉnh độ mờ đục và độ bo góc nền Dock
+ + Tuỳ chỉnh kích cỡ chiều cao và chiều rộng thanh Dock
+Name: DockOne
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/DockOne/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/DockOne/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.EdwartPro
 Architecture: iphoneos-arm
 Version: 1.0.2
