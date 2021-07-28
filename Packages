@@ -1037,6 +1037,29 @@ Depiction: http://hoangdinhphong.github.io/Info/Shuffle/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/Shuffle/?p=info
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.SixLs
+Architecture: iphoneos-arm
+Version: 1.0.4
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.SixLs_1.0.4_iphoneos-arm.deb
+Size: 914072
+MD5sum: 9826d70f42b666328734a92f15004abb
+SHA1: 1f9c00d3213bb68792fa89b73eb943aa446a2cb1
+SHA256: 746994034e0e6f38011cc37a7382e91ab26b6629171b841ad9f40ced5aae11be
+SHA512: a866c1660a414c3cfe7f2936eac4c3454986ce1e286e2809ff627a78d66f147497016e721880ef3dc5b822373135aca96f0fa3899b8e2a5f8934f9f3cba2ca09
+Description: Tiện ích cho Xen Html.
+ - Thiết màn hình khoá giống iOS6
+ - Yêu cầu cài Xen HTML để sử dụng
+ - Hoạt động trên Màn hình khoá
+ - iOS hỗ trợ: 10.0 trở lên
+ - Lần đầu phát hành
+Name: Six Ls
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/SixLs/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/SixLs/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.SnowBoard
 Architecture: iphoneos-arm
 Version: 1.4.20~Beta4
