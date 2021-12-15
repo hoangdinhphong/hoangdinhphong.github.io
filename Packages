@@ -1,0 +1,1481 @@
+Package: HoangDinhPhong.ActivatorVietNam
+Architecture: iphoneos-arm
+Version: 1.9.13
+Priority: optional
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.a3tweaks.flipswitch (>= 1.0.16~rc1), com.rpetrich.rocketbootstrap (>= 1.0.9)
+Conflicts: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), sbsettings (<= 3.0.6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, libhide (<< 2.4.1), com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator, com.udevs.activatorhomebuttoncrashfix, eu.rio-doro.actithemefix
+Replaces: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator, com.udevs.activatorhomebuttoncrashfix, eu.rio-doro.actithemefix
+Filename: ./Deb/HoangDinhPhong.ActivatorVietNam_1.9.13_iphoneos-arm.deb
+Size: 1218158
+MD5sum: a93b6afbb3aa3da5a8eb6906e2f18240
+SHA1: dc56a872ec4cc2f608bbec653f5e0df809de1255
+SHA256: 0cf436e5b6459cd15d7e6a76910527b7dd13f443768b67cfb75dcfbdffcfe831
+SHA512: 88b846426dd48b440b034c7963d8c5d3739591e2d796105e3d7cfee04f9f9a2b57129f317ee81a052fd76f1b061b4290b16d247dff92cd54e60454a5703a5c56
+Description: Cử chỉ tập trung, quản lý nút và phím tắt cho iOS
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+Name: Activator Việt Nam
+Author: Ryan Petrich
+Depiction: http://hoangdinhphong.github.io/Info/Activator/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Activator/?p=info
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
+Package: HoangDinhPhong.Aerelys
+Architecture: iphoneos-arm
+Version: 1.1.8
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Aerelys_1.1.8_iphoneos-arm.deb
+Size: 1167630
+MD5sum: 812e5234a2dcbeeea3d466773f05ab76
+SHA1: c7a35f49cb4d5f67a5f01c0571eb28c16cba5bb7
+SHA256: 3f22e2e0135bfb3390b49259a49f53e672e283ea26272c571f26d774a1b3dca6
+SHA512: 704bff83ab0af0fca4234056b5e845d1faa7e7504d9f0b6a6fbd6d3cd72d16bd775116fec84da91e0d5cf67122756e5106dc4c780f653ccc20128f88a609af1f
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Aerelys
+Author: HĐP & CodeOne88
+Depiction: http://hoangdinhphong.github.io/Info/Aerelys/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Aerelys/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.AlertController
+Architecture: iphoneos-arm
+Version: 1.4.2
+Section: Tweaks
+Maintainer: Trương Tam Phong
+Depends: mobilesubstrate, preferenceloader
+Filename: ./Deb/HoangDinhPhong.AlertController_1.4.2_iphoneos-arm.deb
+Size: 53472
+MD5sum: 337bb57ac0c3cec3ffd6f1ec3b01849f
+SHA1: 118cc103e07f66df1c1a02b1caec5a02b0613007
+SHA256: f8e6edb576d8e75fb1e95bb2c98c40588132ebe40b1fa696e13766d8108d3940
+SHA512: cf97138656d7c3f8e01a3b1276ff2ef89006ce6d126792b93396da61fce587e2897cb1a6a505d2d1bac304fb3eea10ddfc699429a3e063a0f25cfe258eac6b6a
+Description: Thay đổi kiểu dáng cảnh báo và nhóm bảng hiển thị
+ - Cập nhật thêm cài đặt tinh chỉnh
+ - Đã sửa lỗi có thể gây ra sự cố do các giá trị (hiện không được sử dụng) từ cài đặt tinh chỉnh cũ
+ - Chia kiểu giao diện người dùng để kiểm soát riêng sự xuất hiện của Bảng thông báo và Hành động
+ - Đã thêm khả năng thay đổi kiểu Cảnh báo thành Trang tính hành động
+ - Thêm khả năng kiểm soát kích thước phông chữ tiêu đề (riêng cho Bảng thông báo và Hành động)
+ - Thêm khả năng kiểm soát kích thước phông chữ tin nhắn (riêng cho Bảng thông báo và Hành động)
+ - Thêm khả năng kiểm soát khả năng hiển thị của dấu phân cách trong Bảng hành động
+ - Thêm khả năng chọn kích thước nút (nhỏ / lớn riêng biệt cho Bảng thông báo và Hành động)
+ - Thêm khả năng hợp nhất nút hủy với phần còn lại của danh sách trong Bảng hành động
+ - Thêm khả năng đặt lại cài đặt
+ - Đã thêm hỗ trợ cho iOS 12 (hiện không có tùy chọn "ẩn dấu phân cách" và "kiểu giao diện người dùng")
+ - Đã xác nhận hỗ trợ cho iOS 14
+ - Liên kết các vấn đề đã thay đổi, nó hiện hướng người dùng đến danh sách các vấn đề thay vì tạo vấn đề mới
+ - Mã được sắp xếp lại và định dạng lại, loại bỏ mã không sử dụng
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Alert Controller Việt Nam
+Author: Tomasz Poliszuk
+Depiction: http://hoangdinhphong.github.io/Info/AlertController/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/AlertController/?p=info
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
+Package: HoangDinhPhong.AmLichVaDanhNgon
+Architecture: iphoneos-arm
+Version: 1.8.8-1
+Section: Widget động
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.AmLichVaDanhNgon_1.8.8-1_iphoneos-arm.deb
+Size: 654762
+MD5sum: e15e84c3c0714f5ac4dd131341a5c594
+SHA1: c2c335f0736ec697eb07272d388f71649cbb78a5
+SHA256: 38b58cc09b3eeb7305707bec017a2db14eaeda42437be5542594e3bd470d2bb4
+SHA512: 14605ddf7a0d1d5cc140e2f0c8dabc324bea1880d4b8273e6dff4665b29e10f4ba2088882d9807506461a617dd507d9b882c5e0eefa3504f0574355421a86644
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình khoá
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ + Cập nhật sửa lỗi tắt thanh pin không hiển thị danh ngôn.
+ + Thêm tuỳ chỉnh màu sắc, kiểu dáng chữ, cỡ phông, phóng to, ... vào cài đặt
+ + Thêm danh ngôn về tình yêu
+ + Thêm thanh pin đổi màu theo nấc 10% đổi 1 lần
+ + Thêm công tắc bật tắt các thành phần
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Âm Lịch & Danh Ngôn
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/AmLichVaDanhNgon/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/AmLichVaDanhNgon/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Analog
+Architecture: iphoneos-arm
+Version: 1.0.22
+Section: Widget động
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Analog_1.0.22_iphoneos-arm.deb
+Size: 1765734
+MD5sum: 99d9b4cb84057204d0b0fbb360eccaa4
+SHA1: 82af530fa59ec55b4ba26adaf4734ff51b319caf
+SHA256: 1108eea84fa9bcdb804330e73b73dc339205c558893ab9bdc572d863a907dbb6
+SHA512: 74cb83a134688351b296a050fc90f868ec04264165ac8ac369069a2e73c410c361d1781f89009abdd30fe0421211d21fa79991ea52548d60c4e8b2402f5ed436
+Description: Tiện ích cho Xen Html.
+ - Yêu cầu cài Xen HTML để sử dụng
+ - Hoạt động trên Màn hình chính
+ - Tính năng gồm có:
+ + Tuỳ chỉnh chiều cao cho thời tiết, nhạc và khung hình nền
+ + Di chuyển vị trí lên xuống cho đồng hồ
+ + Chèn ảnh vào khung nền
+ + Tuỳ chỉnh bật tắt các thành phần
+ + Tuỳ chỉnh bo góc ảnh nền Album, nút điều khiển nhạc và nền biểu tượng thời tiết 4 ngày sau
+ + Tuỳ chỉnh bóng đổ vào trong khung nền
+ + Tất cả các thông số chiều cao và lên xuống đã được giới hạn dành cho các dòng máy khác nhau
+Name: Analog
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Analog/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Analog/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Anime
+Architecture: iphoneos-arm
+Version: 1.0.92
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Anime_1.0.92_iphoneos-arm.deb
+Size: 49523806
+MD5sum: adde20cf0926cebf60bc481f44ab6723
+SHA1: 4486454b1e0a72fac5cfcba3542f6ab05ffd7365
+SHA256: 88d69970d3e209a4c182e10d29d14578db08d3455d16dc5f6d103f1ee70d5c78
+SHA512: c84a248f1cf5a8750e27f83146c041e31325df405ca1d9b0399f6481a869c8bc822c0807efb2a0dd599bc26efecbdbe6734bf2732fe3869366490a4abad27fcf
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ + Cập nhật sửa lỗi lệch chữ trên một số dòng máy
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Anime
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Anime/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Anime/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Anime
+Architecture: iphoneos-arm
+Version: 1.0.9
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Anime_1.0.9_iphoneos-arm.deb
+Size: 49491732
+MD5sum: a13eecade86aed9d972485dd48c7b9ed
+SHA1: 0c4594cb96216d6de6c7d0143598eb5d434f185f
+SHA256: 0625eee1d7d2e5cfe9111fc96f5ad32db998b0882af1ce531ea7dc7c4f601f49
+SHA512: a9b0d3684e7c25b8080687a33cbfa181d2e065df7b7a919613129f741f3240680dbfe3c7c59d6a09ebdbe130c739bbd9ce1bacc05565cf39bbede0fb96799281
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ + Cập nhật thêm chỉnh màu văn bản chính, văn bản thời gian: đồng hồ, ngày tháng và năm
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Anime
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Anime/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Anime/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.AprilTTP
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.AprilTTP_1.0.0_iphoneos-arm.deb
+Size: 47866714
+MD5sum: e371f360bd68c34c6dea5237e1735d90
+SHA1: f0d96179ebd0991d384fff4450d25bf56ff3df86
+SHA256: ea96b9e14282a6483db674503f7fcc66f7e51cc63fe6cc03e9bce91790512fe9
+SHA512: 01302752411ff9bb1371ba8b12f97b390208a507901fa25373267d25dfd45a51743e3d421a740d05f18d92fdd43706ba407c4c3198daeba48dfda55d961f4208
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính & Màn hình khoá
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ + Lần đầu phát hành
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: April TTP
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/AprilTTP/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/AprilTTP/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.BigAnalog
+Architecture: iphoneos-arm
+Version: 1.6.0
+Section: Widget động
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.BigAnalog_1.6.0_iphoneos-arm.deb
+Size: 5561106
+MD5sum: 5dc2ba6c318a5e6cea69f36ffa6e4d47
+SHA1: c141149983d2d1e6712b17f4090951cb86980d50
+SHA256: eaa201e423a7149402884d9da6bb100a4521eb96e259699b32363b310f409d38
+SHA512: 9953fa51e7687511d2c3645c49a254c9e27c4335a92254c7aa0670e171350f4361e1bf25d074d51face482783720bfcb470cc1a206a218042d5395d778cd5c9a
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính & Màn hình khoá
+ - Hỗ trợ từ iPhone 4 trở lên
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ + Bản cập nhật thêm tuỳ chỉnh kích cỡ phông chữ, thêm bóng cho đồng hồ, bóng đổ cho giá đỡ ứng dụng và sửa lỗi lệch chữ khi ở chế độ phóng to.
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Big Analog
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/BigAnalog/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/BigAnalog/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.CGP
+Architecture: iphoneos-arm
+Version: 448
+Section: Themes
+Maintainer: Hoàng Đình Phong
+Depends: hoangdinhphong.extracgp
+Filename: ./Deb/HoangDinhPhong.CGP_448_iphoneos-arm.deb
+Size: 44065940
+MD5sum: 7f9ca05ff3b96fd066a78425e898c893
+SHA1: 5662617e887a58bc103ceee0f4243a4ecd580aaf
+SHA256: 264bced750c01c25aebd0b3f0a481561d8c8da5f80c6ed61c126a58ac8e2cf85
+SHA512: 8475b935b2f99718612b5ada5c96e04eab387a542c4937f560da75ad0cfacc8dabb14a03deab920956d52f2422812640f51c636b589a88c8b62490f70b944070
+Description: Chủ đề màu Gold
+ - Được thay đổi màu sắc từ chủ đề Carbon
+ - Gói bao gồm: 448 biểu tượng cho ứng dụng, 5 AE, 3 Badge, 2 thư mục, 2 UI Settings, 2 dấu chấm trang, nền Dock, UI âm thanh, UI iCleaner Pro, UI âm thanh, công tắc on off.
+ + Cập nhật thêm nhiều biểu tượng
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: CGP
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/CGP/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/CGP/?p=info
+Icon: file:///Applications/Cydia.app/Sections/th.png
+
+Package: HoangDinhPhong.CPUTool
+Architecture: iphoneos-arm
+Version: 2.0
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: mobilesubstrate, jp.soh.ct
+Filename: ./Deb/HoangDinhPhong.CPUTool_2.0_iphoneos-arm.deb
+Size: 2372
+MD5sum: c8b4478c6f6e7cb7c8f9081a2dce22c8
+SHA1: 489e3de47fc234bf5eafdc7d337cf188dc715640
+SHA256: dfc944d09b3b47db8fdb0d324922f747ec08347e2509ecf6136aaedc282d9e9e
+SHA512: d3eb6d66011dfe4fc078510b7b37d5b89bea736fb7fb544b25061b0b91487f7e157cd096a3b5fd6afbe6919c586cf5733d0b987f93798bc1b162179c0e19c6e0
+Description: Gói tiếng việt dành cho CPUTool
+ - Yêu cầu mua tweak CPUTool tại nguồn Packix trước khi cài gói này
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: CPUTool (Gói tiếng Việt)
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/CPUTool/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/CPUTool/?p=info
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
+Package: HoangDinhPhong.Carbon
+Architecture: iphoneos-arm
+Version: 514
+Section: Themes
+Maintainer: Hoàng Đình Phong
+Depends: hoangdinhphong.extracarbon
+Filename: ./Deb/HoangDinhPhong.Carbon_514_iphoneos-arm.deb
+Size: 47826646
+MD5sum: 47e8524a87ca59733293bf6fe877a884
+SHA1: 58fccc2bcce2b5c7856c07eaa091e9b5a1256208
+SHA256: 930bed43a25b2b765e0d1818672692c9fd4507f5cf6c2025a30f8bf76a72526e
+SHA512: d96a3fcf08acdeacdb5291367e72f94194661ec1cacd366bb54158cb1d3321e9236cb41e0fd63220f1517862fef50c025bdc79e0d0836be056aa3dac474fd357
+Description: Chủ đề màu xám
+ - Hoạt động trên SnowBoard. iThemer. Anemone. Iconomatic
+ - Gói bao gồm: 513 biểu tượng, 15 AE, 2 Badge, 2 chấm trang, UI âm thanh, UI settings, UI iCleaner Pro, UI iMess, Biểu tượng thanh trạng thái, bàn phím gọi và pass, v.v...
+ + Lần đầu phát hành
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Carbon
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Carbon/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Carbon/?p=info
+Icon: file:///Applications/Cydia.app/Sections/th.png
+
+Package: HoangDinhPhong.Cover
+Architecture: iphoneos-arm
+Version: 1.6.6
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Cover_1.6.6_iphoneos-arm.deb
+Size: 45692970
+MD5sum: e5ab6b8c5dcf463cf290824c3b302b39
+SHA1: c5c54357d7008772dc81d0186a44ba10108a913a
+SHA256: 213bcedb4cc2dacf3e0f1d727b5b6dfb9a219128518e70529b1a052acef72814
+SHA512: 1bd47276184c02f4b81bcfd8638a607c36d9e8feb1912967c8a65b6e1c016763604866a6317aa8192d3473ba1d7cb46dfd3eb5fb47bc3aa7fbdfa8aff2e1af6d
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ + Cập nhật sửa lỗi và hoàn thiện lại mọi chi tiết. Thêm nhiều màu cho khung nền. Thay đổi và loại bỏ nhiều chức năng nhằm tối ưu hoá cho tiện ích. Giờ đây những dòng máy từ iPhone 6 tới iPhone X sẽ không còn giật lag và nóng máy như mọi phiên bản trước nữa.
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Cover
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Cover/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Cover/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Cover
+Architecture: iphoneos-arm
+Version: 1.6.7
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Cover_1.6.7_iphoneos-arm.deb
+Size: 46761378
+MD5sum: d712cb6a64e592a0d26db1df09c15435
+SHA1: 010874e9394680e0519932ad9d709fcf3e436f1a
+SHA256: 8c65b9aac00237ea93f08c7d7468a53daa51af82c3a500a4a9ee04de8467ff48
+SHA512: 3966ca3040a890518cfacba981df4c5905b378839ec643011ea455b01e8c124f8463952e0bc5aa069cadfabfb22c4307aab990ea13cc34aa89a3821da42aa25f
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ .
+ + Ver 1.6.7: Thêm Font mới. Thêm hiệu ứng Play, Next, Prev vào ảnh bìa bài hát. Thêm chạm vào vòng tròn để mở ứng dụng đang phát nhạc. Thêm ảnh bìa cho YouTube.
+ + Ver 1.6.6: Sửa lỗi và hoàn thiện lại mọi chi tiết. Thêm nhiều màu cho khung nền. Thay đổi và loại bỏ nhiều chức năng nhằm tối ưu hoá cho tiện ích. Giờ đây những dòng máy từ iPhone 6 tới iPhone X sẽ không còn giật lag và nóng máy như mọi phiên bản trước nữa.
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Cover
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Cover/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Cover/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Cydown
+Architecture: iphoneos-arm
+Version: 7.1.1
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Filename: ./Deb/HoangDinhPhong.Cydown_7.1.1_iphoneos-arm.deb
+Size: 4303488
+MD5sum: b544a6e42896bbdcc298c1446b2bd278
+SHA1: 9be7785e496c883e84b85b41f133e1d7b3929f78
+SHA256: 919ea5c3f131fdf85b48765a14776e645be9d41cd7339c74a37b6d87ccaf2ddb
+SHA512: 070344e1defea8c4cb54db48eebeb41b5779d476326f909d2a533aaf3e8d260d5d178b61ad68d9b4e33cdeb1858ca324f7dc39bbe8aefbe7fcc665226e061952
+Description: Trình quản lý tải xuống cho Cydia và các tính năng bổ sung!
+ - Tinh chỉnh này rất nhiều chức năng. Chủ yếu là hack tweak trả phí. Nếu bạn chưa biết tới nó hãy dùng thử xem. Nhưng tiếc là nó không hỗ trợ cửa hàng Sileo
+ + Cập nhật thêm tiếng Việt
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: CyDown Việt Nam
+Author: julioverne
+Depiction: http://hoangdinhphong.github.io/Info/Cydown/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Cydown/?p=info
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
+Package: HoangDinhPhong.Cydown
+Architecture: iphoneos-arm
+Version: 7.1.2
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Filename: ./Deb/HoangDinhPhong.Cydown_7.1.2_iphoneos-arm.deb
+Size: 4305972
+MD5sum: 5a0756cbf113b7bd73d507aa07692b06
+SHA1: 706cdecc7082048005a70788580503b5869909e4
+SHA256: 480a5c337b59e8e6d635344e8b7074810cc9bd90e89aa11da7537e19073cbdd2
+SHA512: 172963ceb0e8a2e275a29eb10d04fa6335e2512dd2732ae0549237ba953787c5db5228ce9fb1a3e0ca13c4a2206013b4c09fcf7e28e7a5a5ab6a6d73c54557e2
+Description: Trình quản lý tải xuống cho Cydia và các tính năng bổ sung!
+ - Tinh chỉnh này rất nhiều chức năng. Chủ yếu là hack tweak trả phí. Nếu bạn chưa biết tới nó hãy dùng thử xem. Nhưng tiếc là nó không hỗ trợ cửa hàng Sileo
+ + Cập nhật: Khắc phục sự cố khởi động Cydia trong các phiên bản iOS gần đây.
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: CyDown Việt Nam
+Author: julioverne
+Depiction: http://hoangdinhphong.github.io/Info/Cydown/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Cydown/?p=info
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
+Package: HoangDinhPhong.DockOne
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.DockOne_1.0.0_iphoneos-arm.deb
+Size: 2384
+MD5sum: f1cff3afd65e8742d8fe0114a68f4823
+SHA1: 260cf346053ec42756e206cc0b7b3097b72e8be6
+SHA256: 1ec9223310296df569dae8da62041b92eb7432ad51d35e6ed533ccc060caa39c
+SHA512: 7c7fbcb2dd78aa840b989c33566210af211d4d35ac33fd52888a5e642c13cb9b4514c75e4157c6cc6dd8c9caec0e81be7ea174b5d679d50971bb559a40cd718e
+Description: Tiện ích cho Xen Html.
+ - Yêu cầu cài Xen HTML để sử dụng
+ - Hoạt động trên Màn hình chính
+ - iOS hỗ trợ: 10.0 trở lên
+ .
+ - Nội dung cài đặt:
+ + Tuỳ chỉnh kiểu dáng, màu sắc, kích cỡ cho viền Dock
+ + Tuỳ chỉnh độ mờ đục và độ bo góc nền Dock
+ + Tuỳ chỉnh kích cỡ chiều cao và chiều rộng thanh Dock
+Name: DockOne
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/DockOne/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/DockOne/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.DockOne
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.DockOne_1.0.1_iphoneos-arm.deb
+Size: 2286
+MD5sum: a3217787e61c86b376c18c39d9bb5c13
+SHA1: dc8bdace766149de6c7af8a4da02dd2dfceaa03b
+SHA256: cf033705f4c6f919aa57b9ebcbe7ddd0ef0ee1d9aba6faa3b4d4315dd152457d
+SHA512: e01bd65dda9c12f2424a76d72cf8c33bfb0b3a0f58afe6952c9350df44ca9081dadd10b2295f8ab8c8adbd7b5b6d27b739950b49574d83b4a8236b6b6b69e8df
+Description: Tiện ích cho Xen Html.
+ - Yêu cầu cài Xen HTML để sử dụng
+ - Hoạt động trên Màn hình chính
+ - iOS hỗ trợ: 10.0 trở lên
+ .
+ - Nội dung cài đặt:
+ + Tuỳ chỉnh kiểu dáng, màu sắc, kích cỡ cho viền Dock
+ + Tuỳ chỉnh độ mờ đục và độ bo góc nền Dock
+ + Tuỳ chỉnh kích cỡ chiều cao và chiều rộng thanh Dock
+Name: DockOne
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/DockOne/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/DockOne/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.EdwartPro
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.EdwartPro_1.0.2_iphoneos-arm.deb
+Size: 47801220
+MD5sum: 7f673677769be52a4509e849b45f3b50
+SHA1: 9bc9cfa642e7f2d516abf994689e4e46b24a7a4b
+SHA256: 45d0fe38e07c996e4c2e601a030d00e6c314a53ec1bc83cd88b04889db53a023
+SHA512: e8b36e0ad9c2182b9e9433af5c3e322f197164cfefa4b275dfd4b2081838f6e86b5ef4fc1e21861f5e3debdcd6ecf69c35ef0778395197c7869700fdcd2690ec
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính & Màn hình khoá
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ + Cập nhật thu gọn Widget tối đa nhất có thể. Sửa lỗi hiển thị pin không chính xác. Chỉnh bóng đổ cho Tên văn bản dài hơn. Gỡ bỏ bóng đổ biểu tượng thời tiết vì bị nháy kẻ sọc màn hình
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: EdwartPro
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/EdwartPro/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/EdwartPro/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.ExtraCGP
+Architecture: iphoneos-arm
+Version: 448
+Section: Themes
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.ExtraCGP_448_iphoneos-arm.deb
+Size: 49888912
+MD5sum: 0b776710c545eb98d561a14fbd43455b
+SHA1: dd38e4c615602306cbaf9a132ecbd5db2107de9e
+SHA256: 02c81f03f00034d28e304e638481e7c9e4a8fca90ddcf5be23e9f9b1d594ab0d
+SHA512: 4fa49da11aa8bb834e506d1b96689044e39ffaee2b620a1dc6dc637a8dbb0b34134d851a95bae0b4cc44e56ae7dd709d7bbc37fe6f2bbffbbe3f990595593b31
+Description: Gói phụ bổ xung cho chủ đề CGP
+ - Gói này là phần bổ sung biểu tượng còn thiếu cho theme CGP
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: ExtraCGP
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/th.png
+
+Package: HoangDinhPhong.ExtraCarbon
+Architecture: iphoneos-arm
+Version: 514
+Section: Themes
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.ExtraCarbon_514_iphoneos-arm.deb
+Size: 49958702
+MD5sum: 68acdeafe3ce8ac6aa77bcceeb75f760
+SHA1: 99e8cae2d0af8c7f23ab742d3504f09f8aea4251
+SHA256: 89e4c7e646dd7cb5de9ea8139fcd7d12356be927566c97bffbac97d19a311b2d
+SHA512: 56f86b4ef94415e1f8bc0d3f750fc1335939859760a5987a4ac321fd5558aaf545e2676294a0afa2ed5c071061b372bb046e790c2d744c45f8299220d70c1874
+Description: Gói phụ bổ sung cho chủ để Carbon
+ - Gói này là phần bổ sung biểu tượng còn thiếu cho theme Carbon
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: ExtraCarbon
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/th.png
+
+Package: HoangDinhPhong.Faint
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Faint_1.0.3_iphoneos-arm.deb
+Size: 141812
+MD5sum: 1d85a0ff0469c850e3d1c7eb74953148
+SHA1: 3cbc263a6abffc0ba21954c35e1617b4b7987cff
+SHA256: 352ff69c47f0ad4d4019b69450453cc5afdbf51076c4f5324c11b6b5af8232f7
+SHA512: 924bcfc5683a2d7820ee26ba1df1013bf23a0f48d8109a5cc41895252345be12db51a8a905852eced3add24447c985c405b5d52fca85a519ea288de35d10700e
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính & Màn hình khoá
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ + Cập nhật chuyển sang dạng cài đặt mới. Thêm tuỳ chỉnh màu sắc
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Faint
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Faint/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Faint/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.FlyingBirds
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widget động
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.FlyingBirds_1.0.1_iphoneos-arm.deb
+Size: 104978
+MD5sum: 2f42eb8468e3601fd85a4be3495a0b1a
+SHA1: 75053ad70974f6e4b577dabddd7da2bbb568362b
+SHA256: 1ace9dadc89e111274f462146e35a3b48c8730b9341836ff342294779792beba
+SHA512: afa48f99f643940847eb4949e39ce3a246805768c9da74d3e2c9d77c5213954edc9d99122415956beda92b1fdfc85a2c5242efd9801cc0a0d922d0b0d55b803c
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính và Màn hình khoá
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ + Cập nhật chuyển sang dạng cài đặt mới
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Flying Birds
+Author: Quốc Huy
+Depiction: http://hoangdinhphong.github.io/Info/FlyingBirds/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/FlyingBirds/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.FridayTTP
+Architecture: iphoneos-arm
+Version: 1.3.0
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.FridayTTP_1.3.0_iphoneos-arm.deb
+Size: 14559568
+MD5sum: 20bd2d0e16f67f198f61f0ca912e2f79
+SHA1: 2b680eea67c23e8779c65189bbe611ae23419cc9
+SHA256: 28b2eec47376238cb9b60fbe180439700da98df33dbdb49bd77c278a7cf53569
+SHA512: fb12399fa52243d4edbf06e4248112b4b782f89a4996d9cb5236887684cf7715f48c35e6ead871fa682fac190043bb11f1103ae94a3f4969e32406741ded03ba
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính
+ - Nội dung hiển thị gồm: Lịch âm, lịch dương, thời tiết, trình phát nhạc, thanh tìm kiếm, lời chào & ảnh bìa (chạm vào Ngày để thay ảnh bìa)
+ .
+ + Cập nhật thay đổi sang dạng cài đặt mới. Loại bỏ chế độ lớn và vừa. Gỡ bỏ thanh trạng thái. Thêm chạm vào ảnh thời tiết hoặc ảnh Album để mở ứng dụng đang phát nhạc. Thêm hiệu ứng chuyển bài và tạm dừng. Hỗ trợ thêm các dòng máy từ iPhone 6 tới iPhone X
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Friday TTP
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/FridayTTP/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/FridayTTP/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.FridayTTP
+Architecture: iphoneos-arm
+Version: 1.3.3
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.FridayTTP_1.3.3_iphoneos-arm.deb
+Size: 14559360
+MD5sum: c029c7c87baae46469f60788619d61ba
+SHA1: 5761a62807047fa74a5e6abbb16de9e48c6e1845
+SHA256: acd03267cb960ac7db340089a9f69141e4981e51b89abdc696a9ed83fbd75111
+SHA512: 0c1cc5a1311bda50e1e590f815850573c33020541d60918670f6c240d42405c1b990e96655429f3aaaadc67e34c72e2a76aa88832ca0a518a35697a49ec0c36a
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính
+ - Nội dung hiển thị gồm: Lịch âm, lịch dương, thời tiết, trình phát nhạc, thanh tìm kiếm, lời chào & ảnh bìa (chạm vào Ngày để thay ảnh bìa)
+ .
+ + Ver 1.3.3: Sửa lỗi không tự động chuyển ngày tháng khi sang ngày mới. Thêm hiện ảnh bìa khi phát YouTube. Tăng chiều cao Widget cho thoáng hơn. Thay đổi đồng hồ qua nhiệt độ cao và thấp nhất trong ngày vì thanh trạng thái đã có đồng hồ nên hơi thừa
+ + Ver 1.3.0: Thay đổi sang dạng cài đặt mới. Loại bỏ chế độ lớn và vừa. Gỡ bỏ thanh trạng thái. Thêm chạm vào ảnh thời tiết hoặc ảnh Album để mở ứng dụng đang phát nhạc. Thêm hiệu ứng chuyển bài và tạm dừng. Hỗ trợ thêm các dòng máy từ iPhone 6 tới iPhone X
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Friday TTP
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/FridayTTP/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/FridayTTP/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.HDPJuly
+Architecture: iphoneos-arm
+Version: 1.0.03
+Section: Widget động
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.HDPJuly_1.0.03_iphoneos-arm.deb
+Size: 23834342
+MD5sum: 32f2275e6d8c069e90e9fe8253a79fa4
+SHA1: 836f4f4655e174246c5ed7203d1d1590201a55f6
+SHA256: 3cd9f2c55fe16904dd4d4de6040cc292b881fda0a74bc26e2192189960405cbc
+SHA512: c4edad7398926769962f476dad3d5d084a510a260ef95909d9b6a82d033b444ab2564add083fd41974897083322d228a14290ff503188c6025f7a1776d1564ed
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ - Nội dung hiển thị: Thời tiết, Music, lịch âm, lịch dương & thanh pin
+ + Cập nhật sửa lỗi và thay đổi lại kích cỡ phông chữ cho 1 số dòng máy dưới iPhone X
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: HDP July
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/HDPJuly/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/HDPJuly/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.HDPJuly
+Architecture: iphoneos-arm
+Version: 1.0.09
+Section: Widget động
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.HDPJuly_1.0.09_iphoneos-arm.deb
+Size: 22874130
+MD5sum: 13c5db7aa8edb5ebab1bb851b82c0096
+SHA1: 722687b7ba9afc94fe2ba539804d0dbb1d9f5740
+SHA256: 7b94e4ceecd705448be99718bfcfbadfdeac554aa99f77c18b113b7bd6fd44aa
+SHA512: 57f3732d9714d9b7cb5981bef87cabe7739f0048eebd41e3cb6437786b7b933e7c97b7874549d61b8ff9037d120ceca2bbd042ecd118338cd422d6890ba4cfcd
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ - Nội dung hiển thị: Thời tiết, Music, lịch âm, lịch dương & thanh pin
+ + Cập nhật mới gồm: Sửa lỗi hao pin. Thêm tuỳ chỉnh thời gian quay ảnh bìa. Thêm tuỳ chỉnh màu sắc các thành phần. Thêm hiện ảnh bìa cho YouTube. Thêm chạm vào ảnh bìa để mở ứng dụng nhạc đang phát & thêm màu viền cho ảnh bìa.
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: HDP July
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/HDPJuly/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/HDPJuly/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.HDPJuly
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget động
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.HDPJuly_1.0.0_iphoneos-arm.deb
+Size: 23834406
+MD5sum: 2d90d50151890d0dcaca3093f92f70d7
+SHA1: 246eb173058e4598b394d19af2a2a2b462a88cfb
+SHA256: ebf1ec2c2f1d6da562c2a0ae1999023be3ce089c19127490c53a23b669e08a33
+SHA512: 783896bb6e21763cabb3e24e5817fa04eb50e8a1248ba64df8161633900e2a4e9537d84e7d88b7e9dbcd9affc214e7a22d7593a561ec92168862cc4825689a10
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ - Nội dung hiển thị: Thời tiết, Music, lịch âm, lịch dương
+ + Lần đầu phát hành
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: HDP July
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/HDPJuly/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/HDPJuly/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.HDPJuly
+Architecture: iphoneos-arm
+Version: 1.0.11
+Section: Widget động
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.HDPJuly_1.0.11_iphoneos-arm.deb
+Size: 22873716
+MD5sum: aebe9376e76c556ffd5c93bc36017054
+SHA1: ba99103f37060ceca07388813c59b13f96fd3bbc
+SHA256: 9003aa68174851c590f808b84faa2cf70adfe389856a7ff840548a6281cd0013
+SHA512: b9d28b6c06dc6946ad36a579fe2a69e7dd355897d65bbab4f7303a5b95aa17c41fcffe5f11fe19396de84112d248dc90faf10b64817cfbe915f99616061674f4
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ - Nội dung hiển thị: Thời tiết, Music, lịch âm, lịch dương & thanh pin
+ + Cập nhật mới gồm: Gỡ bỏ quay ảnh bìa Album do quá hao pin. Thay đổi toàn bộ màu nền chính kèm mã màu cho bạn dễ điền màu vào khung nền. Thay đổi nền thanh pin sáng hơn. Thay đổi bóng đổ biểu tượng thời tiết rõ ràng hơn.
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: HDP July
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/HDPJuly/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/HDPJuly/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.HDPJuly
+Architecture: iphoneos-arm
+Version: 1.0.12
+Section: Widget động
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.HDPJuly_1.0.12_iphoneos-arm.deb
+Size: 22959950
+MD5sum: 7ab01b5af39cded23efc840bbe609e4c
+SHA1: 4ffa6a367f5f33674c59e59ddc947b1e541b5aa7
+SHA256: e0a85c94609b304da6f80962ed7557ccf7b4ff3b922c2cdaa2a5f8422975b45b
+SHA512: e2abe94e7514fd0557b091983a4a60d8d881e0360dec89e73f3572407dd62ef0944e49fd796f8c688125bb24fb51d6eddb3ef1d9247079694c8b62a8b1c9d8f6
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ - Nội dung hiển thị: Thời tiết, Music, lịch âm, lịch dương & thanh pin
+ .
+ + Phiên bản 1.0.12: Sửa lỗi phát YouTube chạy nền, chỉ số thời gian không hoạt động khi kéo tua
+ + Phiên bản 1.0.11: Cập nhật mới gồm: Gỡ bỏ quay ảnh bìa Album do quá hao pin. Thay đổi toàn bộ màu nền chính kèm mã màu cho bạn dễ điền màu vào khung nền. Thay đổi nền thanh pin sáng hơn. Thay đổi bóng đổ biểu tượng thời tiết rõ ràng hơn
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: HDP July
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/HDPJuly/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/HDPJuly/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.HDPJuly
+Architecture: iphoneos-arm
+Version: 1.0.13
+Section: Widget động
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.HDPJuly_1.0.13_iphoneos-arm.deb
+Size: 24323788
+MD5sum: c72eb14b800545761497e7f49b243547
+SHA1: 627be96778abb3ee2d29e82a631483ac807c335d
+SHA256: 044d7b63438db6b797455e18dea6bb4816168d9189006b63b870e594a387970d
+SHA512: 6529e7ebcd9a9cdc8cf3cd33bf068d697f51667fba3caa8bbc79710113fe8bb1f2749c3789620bf5f40687deef4cdd08c3ec396272feb85272ec7b976da0d68b
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ - Nội dung hiển thị: Thời tiết, Music, lịch âm, lịch dương & thanh pin
+ .
+ + Ver 1.0.13: Sửa lỗi không tự động chuyển ngày tháng khi sang ngày mới
+ + Ver 1.0.12: Sửa lỗi phát YouTube chạy nền, chỉ số thời gian không hoạt động khi kéo tua
+ + Ver 1.0.11: Cập nhật mới gồm: Gỡ bỏ quay ảnh bìa Album do quá hao pin. Thay đổi toàn bộ màu nền chính kèm mã màu cho bạn dễ điền màu vào khung nền. Thay đổi nền thanh pin sáng hơn. Thay đổi bóng đổ biểu tượng thời tiết rõ ràng hơn
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: HDP July
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/HDPJuly/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/HDPJuly/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.HTCClock
+Architecture: iphoneos-arm
+Version: 1.2.2
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.HTCClock_1.2.2_iphoneos-arm.deb
+Size: 25075362
+MD5sum: ab470320faa0edbd248af9c2f9049921
+SHA1: 2d4e7297e3cc6e3582eecbb598f30dad49a83cf0
+SHA256: d05d72d4d937d51fd809b57163ff59ded4b7c1a662931bf0a761b249a1bcc2bf
+SHA512: d1755e09e6bc95378da77cabcef434898f6214692bdd37d848d6c74a2dccd567a171c6e6695bfd29f7e839ea04493a43d612b2d5ad2baeb91e4846a5f4011550
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính & Màn hình khoá
+ - Nội dung hiển thị: Đồng hồ. Lịch. Thời tiết
+ + Cập nhật hỗ trợ từ iPhone 5 tới 12 Pro Max. Chuyển sang dạng cài đặt mới. Thêm ngôn ngữ. Thêm chọn gói biểu tượng thời tiết. Thêm chỉnh tỉ lệ. Thêm đổi phông chữ
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: HTC Clock
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/HTCClock/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/HTCClock/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.HTCClock
+Architecture: iphoneos-arm
+Version: 1.2.3
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.HTCClock_1.2.3_iphoneos-arm.deb
+Size: 24298606
+MD5sum: 94511ea65c5142acc1e966a8f01bb180
+SHA1: 1837dcc1aa042b683b6b60d6d59bb956a241fc7e
+SHA256: 8ff3a00374937376b8f3eec36313fad5905cf004aa145e7895a959d57b3394d4
+SHA512: 1317cbde3cb9a3169901a79118e6eaccdc7d7f20ca7f0dcf5664c25a2b6adde41447140e68f780ea27b38697470e72f5ce9d6c5a3b70babc2b08380882c71b15
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính & Màn hình khoá
+ - Nội dung hiển thị: Đồng hồ. Lịch. Thời tiết
+ .
+ + Phiên bản 1.2.3: Gỡ bỏ tuỳ chỉnh thay phông vì bị lỗi lệch đồng hồ trên iOS 13 và iOS 14
+ .
+ + Phiên bản 1.2.2: Hỗ trợ từ iPhone 5 tới 12 Pro Max. Chuyển sang dạng cài đặt mới. Thêm ngôn ngữ. Thêm chọn gói biểu tượng thời tiết. Thêm chỉnh tỉ lệ. Thêm đổi phông chữ
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: HTC Clock
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/HTCClock/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/HTCClock/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Infinity
+Architecture: iphoneos-arm
+Version: 2.0.4
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Infinity_2.0.4_iphoneos-arm.deb
+Size: 48468254
+MD5sum: d7d7240e89e9fed8e98dc91f38d1a9a6
+SHA1: 83117b097693456c4af4b1eea1e6acd1f635111a
+SHA256: 2132c95fc8cfa519f3642fd6eaea9756cb405a355feb9d3928193cc470cfc2fe
+SHA512: 0eb037fa4695c2fba4910ba0cca34549aa19a6b2fae1ca1fd399ae22e5e18c3e2b0d10f956dbaffc8d90af218802f540ee5edc5bc5e500224a505e41f06b40fa
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính & Màn hình khoá
+ - Nội dung hiển thị: Thời tiết, đồng hồ, lịch âm, lịch dương & pin
+ + Cập nhật thay đổi dạng cài đặt
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Infinity
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Infinity/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Infinity/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Infinity
+Architecture: iphoneos-arm
+Version: 2.0.5
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Infinity_2.0.5_iphoneos-arm.deb
+Size: 48468326
+MD5sum: 33192d32ea968324009db2412b7e36a2
+SHA1: dd8f4802041aaf8da0a9ca9eccbc07e4d70922c1
+SHA256: 834f0018501133ad58d34c89a0a298b41a4bdb6b3c309ca52fa7e0072f7f42e8
+SHA512: ef7197aace74c558125c21b35a3988e5222d89d3636902d10843862272d9922141370792a30bae9125a592c2d05b76e82eca7b46bf5b37ee10c528acf1dc5da7
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính & Màn hình khoá
+ - Nội dung hiển thị: Thời tiết, đồng hồ, lịch âm, lịch dương & pin
+ + Cập nhật thay đổi dạng cài đặt
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Infinity
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Infinity/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Infinity/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Juno
+Architecture: iphoneos-arm
+Version: 422
+Section: Themes
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Juno_422_iphoneos-arm.deb
+Size: 48667340
+MD5sum: 2b0221a3abfcd2897abaebc4c6f3f96f
+SHA1: 546e324ac7fd86a18aa36c470800806e3efd4754
+SHA256: 87a76fa802f6bd3e71410885ea3f9dc862a74424b3c8dde3295ef3b18800f3cb
+SHA512: 511324e60d20c32e8b8c334b2b33d5da3c621760baf85f09612021e1d329fdf77a5dd1e67804d59595c97c0810dd4f9c3b9ca57cdcc459497d0f718c1de0b253
+Description: Một chủ đề nhiều màu sắc
+ - Hoạt động trên SnowBoard. iThemer. Anemone. Iconomatic
+ - Gói bao gồm: 422 biểu tượng, 3 AE, 3 Badge, 3 nền Dock & 2 kiểu Respring
+ + Thêm nhiều biểu tượng mới
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Juno
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Juno/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Juno/?p=info
+Icon: file:///Applications/Cydia.app/Sections/th.png
+
+Package: HoangDinhPhong.LetoPro
+Architecture: iphoneos-arm
+Version: 423
+Section: Themes
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.LetoPro_423_iphoneos-arm.deb
+Size: 48882980
+MD5sum: 609914d67d36c5d7d5307fb6a54ebf58
+SHA1: 819d38f5bf7c255e6c534ba02df2f0f966fa6b8e
+SHA256: b122e02138478288fa846e7afd2ac3013e1f91ab2b1169daec60786a78b01681
+SHA512: bca2b0eeb350be1b7b4ed28f5c64ede53341e714df3ff61f998852f84fda2228fe0fc63161a86ad60d21ef6cb03246d0f571dfca6d9c29f6fa680582f2725e6f
+Description: Giao diện cổ điển với những màu sắc dịu nhẹ
+ - Hoạt động trên SnowBoard, iThemer, Iconomtic, Anemone
+ - Gói bao gồm: 422 biểu tượng ứng dụng, 2 AE, 2 Badge, thư mục, Mask, và đồng hồ
+ + Cập nhật thêm nhiều biểu tượng mới
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: LetoPro
+Author: MtK
+Depiction: http://hoangdinhphong.github.io/Info/LetoPro/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/LetoPro/?p=info
+Icon: file:///Applications/Cydia.app/Sections/th.png
+
+Package: HoangDinhPhong.LineColor
+Architecture: iphoneos-arm
+Version: 1.0.5
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.LineColor_1.0.5_iphoneos-arm.deb
+Size: 25362900
+MD5sum: 8b602d27ec2432b6b7a9a8a17aea9cb0
+SHA1: 264a99064e2c5859896b27bf115661f3a1d4b6ce
+SHA256: 07e8659a431a1ba1ebe2b12eac9abf9ed9dca855e89ac54b1627eafd43500f03
+SHA512: ab7a9821ddfa4fa81bf162348de8656567a9833cacb26c1824bb9e5a92bb08b5c200b0dcaadadd954ef48e3c093a3adde0ed1a7147a29db41d0bc821711355da
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính
+ - Nội dung hiển thị: Lịch. Thời tiết. Trình phát nhạc & tên văn bản
+ + Cập nhật thêm cảm ứng vào ảnh bìa để mở ứng dụng đang phát nhạc. Thêm hiện ảnh bìa cho YouTube. Hỗ trợ thêm từ iPhone 6 tới iPhone X.
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Line Color
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/LineColor/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/LineColor/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Lynx
+Architecture: iphoneos-arm
+Version: 1.9.5-3
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: mobilesubstrate, firmware (>= 12.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker
+Filename: ./Deb/HoangDinhPhong.Lynx_1.9.5-3_iphoneos-arm.deb
+Size: 1383870
+MD5sum: ca1183f2378f0084939ab8a232b13312
+SHA1: 3e6cb0ac429c60ebf7d8b06626578d87c7e42cbb
+SHA256: 41d916c94f2eca75fc831c96edf981b0f30badd234e27523fcfe4bba8660f132
+SHA512: 603fec0ce2de94d34e49dd8f9a70dc9753a78266acee38e4c8d55ec11a5f68dd0a496ed33bab53c30bb83d531cca5279ad4f96bd7ce11acae8f5a66f0c4232f9
+Description: Tùy chỉnh ẩn các thể loại cho hệ thống
+ - Tinh chỉnh này ẩn mọi thứ cho toàn hệ thống, ứng dụng bên thứ ba. Và thêm nhiều chức năng tuyệt vời khác
+ .
+ + Cập nhật cố định âm thanh sạc. Thêm tùy chọn để đổi tên các biểu tượng trên màn hình chính (iOS 13). Thêm tùy chọn khoá màn hình khi đặt úp máy. Thêm tùy chọn bật tắt rung khi cắm sạc (iOS 13). Đã sửa các lỗi khác nhau trên iOS 12. Cố định đồng hồ không bị ẩn khi cắm sạc
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Lynx Việt Nam
+Author: MTAC
+Depiction: http://hoangdinhphong.github.io/Info/Lynx/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Lynx/?p=info
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
+Package: HoangDinhPhong.MuDark
+Architecture: iphoneos-arm
+Version: 1.0.61
+Section: Widget động
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.MuDark_1.0.61_iphoneos-arm.deb
+Size: 16297208
+MD5sum: 12262cdffed915480bcd77855740aca4
+SHA1: 9c78a07c12ecae13bb2e6623ffb952208163e16e
+SHA256: 7542e7eb008c36583ebd6ac435b04289e5831262fdcfb620b648c2168db4f164
+SHA512: 848efce60ef4c038b63d851d9a47579c685b680450c6459f28b305c4c2beef5ddba60f3dad916d4491140503a539f679c4b64312e4679e52bca39d955003065a
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính
+ - Nội dung hiển thị: Lịch. Thời tiết. Trình phát nhạc & Pin
+ + Cập nhật: Thêm chạm vào ảnh album mở ứng dụng đang phát nhạc. Hỗ trợ thêm các dòng máy từ iPhone 6 tới iPhone 8 Plus. Thêm hiện ảnh bìa cho YouTube
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: MuDark
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/MuDark/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/MuDark/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.NanoBanners
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: mobilesubstrate
+Filename: ./Deb/HoangDinhPhong.NanoBanners_1.1.1_iphoneos-arm.deb
+Size: 161608
+MD5sum: 4a93a4587f87d5548a1f71fd8d8b83fb
+SHA1: fe5ef2b75ec5a526301f059f7618ced9be101f7b
+SHA256: 83104602faa43a23cab606bb5208322b41d254d969bd3bd4d4485f2b48af8676
+SHA512: 09b786a75f2a16f19378e4cd2fac06bcd1d11f7f41814d642b0e9267616fde52f95ab0ae7440daa5fff13b6a39598feabb6c989722131dcf4c8b6b68e3f51db7
+Description: Thu gọn thông báo cho iOS 13.0 - 13.7
+ - Hoạt động trên Màn hình chính và trong ứng dụng
+ - Nội dung cài đặt gồm: Độ trễ ẩn thông báo & Thời gian cuộn chữ
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: NanoBanners13 Việt Nam
+Author: Nepeta
+Depiction: http://hoangdinhphong.github.io/Info/NanoBanners/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/NanoBanners/?p=info
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
+Package: HoangDinhPhong.Petal
+Architecture: iphoneos-arm
+Version: 1.1.3
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Petal_1.1.3_iphoneos-arm.deb
+Size: 5477442
+MD5sum: 0edd610ff5c385211b9fbd98164f9cd5
+SHA1: 6ac77027a1cdfc6d9cd421a2176f867aa5477a3c
+SHA256: 4815f81e330854b6b39fbc90e2435a84d0fd4a5518b8d4bf0a6d7cefa351ce1e
+SHA512: 46e352304dddbfce2a71a3c62f05d11da1c565b517ea0c1753b906c327924dfa263a0e0741c10aa13a5c3176853f44da447de1cc59b77d6d78864924d8ea829d
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình khoá
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ + Cập nhật thay đổi chế độ cài đặt. Sửa lỗi bị lệch trên các dòng máy iPhone X, Xs, 11, 12 mini
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Petal
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Petal/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Petal/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.PicoBanners
+Architecture: iphoneos-arm
+Version: 0.0.1b2-7
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>= 12.0), firmware (<= 12.4.3), mobilesubstrate
+Filename: ./Deb/HoangDinhPhong.PicoBanners_0.0.1b2-7_iphoneos-arm.deb
+Size: 72794
+MD5sum: 58f9d0f042d082c106db5bb02b910f77
+SHA1: b08129b1715129cd60b4ad7c80518d3e384b20bb
+SHA256: 5a536054896ea8f1b94c080e9b4beaf3fb8eee5cedbbffac6966acd1d8a5872d
+SHA512: 9a5b7b422339a817cc067f01c42203a6ff917816b00c07134d4595d1ec3c05edd43433847bbb5c2c5d42708b1233533655655d72d21ba049b030bce125e6dbd0
+Description: Thu nhỏ thanh thông báo trên màn hình chính và trong ứng dụng
+ - Hỗ trợ riêng cho iOS 12.0 - 12.4.3
+ - Không có tuỳ chỉnh trong cài đặt
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: PicoBanners
+Author: Michele Primavera
+Depiction: http://hoangdinhphong.github.io/Info/PicoBanners/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/PicoBanners/?p=info
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
+Package: HoangDinhPhong.SemiRestore
+Architecture: iphoneos-arm
+Version: 1.1.6
+Section: Utilities
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.SemiRestore_1.1.6_iphoneos-arm.deb
+Size: 54898
+MD5sum: fed0624a099dbf70a596bcdf88b2370e
+SHA1: f24ea5c19a6c0adcda6badeb8374012fec38a893
+SHA256: 41e0c7b8469fcc2b7ccc875c366ab572af448af0e0a43ca4c3e8013ff8db7fc5
+SHA512: 68c9dc220808fce8bc3a97d5f26c1de1e85d269c57655bc65be7cec4ad6348a1da0fb2df83f8b6d50cd812a97dcecbe1985d8907693c35b4716d49d0ef1a1106
+Description: Công cụ gỡ jailbreak sạch 100%
+ - Hỗ trợ tất cả các thiết bị từ iOS 11.3 tới iOS 14.7
+ - Chạy ứng dụng này sẽ xoá sạch 100% tất cả dữ liệu và khôi phục lại máy về như lúc xuất xưởng
+ - Yêu cầu sao lưu lại tài liệu trong máy trước khi chạy
+ - Ứng dụng khá đơn giản. Chỉ có một nút nhấn Unjailbreak. Nó sẽ bắt đầu chạy khi bạn xác nhận
+ - Thiết bị sẽ khởi động với một thanh tiến trình gỡ dữ liệu và khôi phục lại toàn bộ hệ thống. Bạn chỉ việc chờ cho đến khi xong
+ - Nếu bị treo Táo trên 5 phút, vui lòng nhấn tổ hợp phím cứng để cho quá trình khôi phục được tiếp tục
+ - Lưu ý! Tắt công Tắc bên dưới là bảo vệ thông tin. Bật công Tắc là để xóa tất cả các thông tin của bạn
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: SemiRestore 11-14
+Author: Pwn20wnd
+Depiction: http://hoangdinhphong.github.io/Info/SemiRestore/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/SemiRestore/?p=info
+Icon: file:///Applications/Cydia.app/Sections/a.png
+
+Package: HoangDinhPhong.Shuffle
+Architecture: iphoneos-arm
+Version: 1.2.9
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: com.creaturecoding.libcspreferences
+Filename: ./Deb/HoangDinhPhong.Shuffle_1.2.9_iphoneos-arm.deb
+Size: 390898
+MD5sum: 72765b062befe0e8a7a46bf3655b79af
+SHA1: d44d2898d404af7e1b68eb6250af24cf889264c8
+SHA256: 0d4c113d7302e718394b699ba0cd5d4cd8724bb49d494d326adbd0d6e75b2bf3
+SHA512: 69be5df359c114aed3f9fa8e34a5acf2a7ba8aa8b8d4df776498ff7a97469488b26022eded85b016757ac5f667c4fda36a989e3663b4b4317aaee9871e92cb5d
+Description: Gom Tweaks và ứng dụng vào các thư mục riêng trong Cài đặt
+ - Chèn ảnh vào Cài đặt
+ - Sắp xếp di chuyển lên xuống theo sở thích
+ + Cập nhật thêm tùy chọn Bo tròn các góc cho các nhóm trong bảng hiển thị. Thêm tuỳ chọn Vị trí mục chứa sẽ di chuyển lên cao khi giá trị số nhỏ đi và ngược lại
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Shuffle Việt Nam
+Author: CreatureSurvive
+Depiction: http://hoangdinhphong.github.io/Info/Shuffle/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Shuffle/?p=info
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
+Package: HoangDinhPhong.SixLs
+Architecture: iphoneos-arm
+Version: 1.0.4
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.SixLs_1.0.4_iphoneos-arm.deb
+Size: 914072
+MD5sum: 9826d70f42b666328734a92f15004abb
+SHA1: 1f9c00d3213bb68792fa89b73eb943aa446a2cb1
+SHA256: 746994034e0e6f38011cc37a7382e91ab26b6629171b841ad9f40ced5aae11be
+SHA512: a866c1660a414c3cfe7f2936eac4c3454986ce1e286e2809ff627a78d66f147497016e721880ef3dc5b822373135aca96f0fa3899b8e2a5f8934f9f3cba2ca09
+Description: Tiện ích cho Xen Html.
+ - Thiết màn hình khoá giống iOS6
+ - Yêu cầu cài Xen HTML để sử dụng
+ - Hoạt động trên Màn hình khoá
+ - iOS hỗ trợ: 10.0 trở lên
+ - Lần đầu phát hành
+Name: Six Ls
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/SixLs/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/SixLs/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.SixLs
+Architecture: iphoneos-arm
+Version: 1.0.5
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.SixLs_1.0.5_iphoneos-arm.deb
+Size: 914008
+MD5sum: 9d7618ab6ee249689fd08da2c8e2c64d
+SHA1: ed4529565eef80253045d425d8ccdd2c7756d6b6
+SHA256: 5c3d4dba5d9f826c1f593c4129567964ca100f1ae2531f6468bc614bf209c01b
+SHA512: e97c446131d9c7e5a19a86ccfa8e12fb843861ce691d38f154161a478fc7c1b0f86991d5b4d57f41790737dda3a8f16a46a35d55c98e0776a4dca734ec329598
+Description: Tiện ích cho Xen Html.
+ - Thiết màn hình khoá giống iOS6
+ - Yêu cầu cài Xen HTML để sử dụng
+ - Hoạt động trên Màn hình khoá
+ - iOS hỗ trợ: 10.0 trở lên
+ - Cập nhật sửa lỗi & hỗ trợ thêm một số dòng máy
+Name: Six Ls
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/SixLs/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/SixLs/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.SixLs
+Architecture: iphoneos-arm
+Version: 1.0.61
+Section: Widget động
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.SixLs_1.0.61_iphoneos-arm.deb
+Size: 914574
+MD5sum: a20719fedf04051687b3f2fb622c8fcf
+SHA1: d80c286d51b15ef87e7555d36c28d0e6cf2e9192
+SHA256: 07e98ffd06b99c94f4edd6baaabf048a9d10745654a3d585bd5e5665057255f0
+SHA512: 3b80ef4b3d10f50e88c45acfd7ac8ec0208bfa459c6dd658c94a8f04810e220b51bd9f7e652bb8d163906bb2637c083af0e24f7dba3c2c3d503fe4b74571947b
+Description: Tiện ích cho Xen Html.
+ - Thiết màn hình khoá giống iOS6
+ - Yêu cầu cài Xen HTML để sử dụng
+ - Hoạt động trên Màn hình khoá
+ - iOS hỗ trợ: 10.0 trở lên
+ - Phiên bản 1.0.61: Thêm tuỳ chỉnh chế độ sáng & tối
+ - Phiên bản 1.0.5: Cập nhật sửa lỗi & hỗ trợ thêm một số dòng máy
+Name: Six Ls
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/SixLs/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/SixLs/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.SixLs
+Architecture: iphoneos-arm
+Version: 1.0.72
+Section: Widget động
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.SixLs_1.0.72_iphoneos-arm.deb
+Size: 21481316
+MD5sum: 7fe5cfdfa020538d4a11d5cc5ff81669
+SHA1: 105415963e5be4d65d7ed209fd75c24358339e6e
+SHA256: 1436713db37f169649c5bb773c6e32b0d919661d3e5773c57d0821369c44c719
+SHA512: b976ae0e025c3819741997d7db4ebdb65d2f9c4547d1871ee58c345949e39a8d756e2c986dfcafae182736b7bf1a1f80068af2fbea7ba2882d5116a449f370f8
+Description: Tiện ích cho Xen Html.
+ - Thiết màn hình khoá giống iOS6
+ - Yêu cầu cài Xen HTML để sử dụng
+ - Hoạt động trên Màn hình khoá
+ - iOS hỗ trợ: 10.0 trở lên
+ - Phiên bản 1.0.72: Thêm thời tiết & thanh Pin
+ - Phiên bản 1.0.61: Thêm tuỳ chỉnh chế độ sáng & tối
+ - Phiên bản 1.0.5: Sửa lỗi & hỗ trợ thêm một số dòng máy
+Name: Six Ls
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/SixLs/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/SixLs/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.SixLs
+Architecture: iphoneos-arm
+Version: 1.0.76
+Section: Widget động
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.SixLs_1.0.76_iphoneos-arm.deb
+Size: 21483610
+MD5sum: bfdfbd645cab485baeea5d7bb394a6a4
+SHA1: f410abd2ac284932300f7057547937854ec186a4
+SHA256: 6c9098d1926f24e6b0830a4dc25fd055951589920e4d70940087147563482211
+SHA512: c73e40971f8fd5891d2b45c5554bad3ced63fa18371e9e5de94a226d1bf2d778a4623a1fcbc1b890b18fc5e5eeaf323a8dad17f21b7e2df4a24d7cae107b8ed5
+Description: Tiện ích cho Xen Html.
+ - Thiết màn hình khoá giống iOS6
+ - Yêu cầu cài Xen HTML để sử dụng
+ - Hoạt động trên Màn hình khoá
+ - iOS hỗ trợ: 10.0 trở lên
+ - Phiên bản 1.0.76: Thêm lịch âm & khả năng có mưa
+ - Phiên bản 1.0.72: Thêm thời tiết & thanh Pin. Nâng khung giờ lên cao cho dòng iPhone X trở lên
+ - Phiên bản 1.0.61: Thêm tuỳ chỉnh chế độ sáng & tối
+ - Phiên bản 1.0.5: Sửa lỗi & hỗ trợ thêm một số dòng máy
+Name: Six Ls
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/SixLs/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/SixLs/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.SixLs
+Architecture: iphoneos-arm
+Version: 1.0.80
+Section: Widget động
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.SixLs_1.0.80_iphoneos-arm.deb
+Size: 21483850
+MD5sum: e865fd5c6260628f4bf166b1cb093102
+SHA1: 9c14d6be7facba5684c1bca7eb9f4b34ea12673b
+SHA256: 55e3a2b8e2d31ddad6faad2f647a72d2645714470d144b7f6de02485fb34bc14
+SHA512: ec30a8109d512aedf7901b738675d361b8c567e3989b9a3cc60d09dc266ad65b3cbcdfa9c1b278cbe78d7e6be099880130d9b2b82015770cd0336ef7eca3eba1
+Description: Tiện ích cho Xen Html.
+ - Thiết màn hình khoá giống iOS6
+ - Yêu cầu cài Xen HTML để sử dụng
+ - Hoạt động trên Màn hình khoá
+ - iOS hỗ trợ: 10.0 trở lên
+ - Phiên bản 1.0.80: Thêm chỉ báo sạc pin. Thu gọn, căn chỉnh & làm đẹp lại
+ - Phiên bản 1.0.76: Thêm lịch âm & khả năng có mưa
+ - Phiên bản 1.0.72: Thêm thời tiết & thanh Pin. Nâng khung giờ lên cao cho dòng iPhone X trở lên
+ - Phiên bản 1.0.61: Thêm tuỳ chỉnh chế độ sáng & tối
+ - Phiên bản 1.0.5: Sửa lỗi & hỗ trợ thêm một số dòng máy
+Name: Six Ls
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/SixLs/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/SixLs/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.SnowBoard
+Architecture: iphoneos-arm
+Version: 1.4.20~Beta4
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./Deb/HoangDinhPhong.SnowBoard_1.4.20~Beta4_iphoneos-arm.deb
+Size: 5767684
+MD5sum: 8a3ad4c1ac965db9e5f74d4740ed5fd6
+SHA1: 73ba0cc24692cf0096c0b2163993c385413b9a29
+SHA256: 2d4f755bc3fabdb5ad82c6bd2409bca7d0e09d660b477c72960ea7e253bc79dc
+SHA512: 6300dd36f1c759234e56ef2825cc3a47cb6d5714d1c49a8e0536f454b97939b1bf40ca42b8c469d7483d373e8d202258d97cb79380cb9ce98da1557cf74972ca
+Description: Tinh chỉnh này dùng thay đổi chủ đề.
+ - Bạn đã nhàm chán với những biểu tượng mặc định? Và đây là tweak giúp bạn thay đổi những biểu tượng đó. Và nó có thêm nhiều tính năng tuyệt vời khác. Cài đặt và trải nghiệm thôi nào 😄
+ - Đã được biên dịch sang tiếng Việt hoàn chỉnh
+ + Cập nhật thêm chức năng cảnh báo những chủ đề nặng với những bức ảnh có kích thước lớn khiến máy bạn ì ạch hơn. Qua tính năng này giúp bạn lựa chọn theme tốt hơn. Và bản cập nhật lần này đã thêm tính ổn định cho iOS 14
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: SnowBoard Việt Nam
+Author: Spark
+Depiction: http://hoangdinhphong.github.io/Info/SnowBoard/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/SnowBoard/?p=info
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
+Package: HoangDinhPhong.SourceIconHDP
+Architecture: iphoneos-arm
+Version: 1.0.2
+Essential: yes
+Section: System
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.SourceIconHDP_1.0.2_iphoneos-arm.deb
+Size: 90790
+MD5sum: 4fc638b050912161d625e6361f4d2127
+SHA1: 9096f9d1c109c5e100efd17ffba4903041ed25d4
+SHA256: cb9ab5e3a0cb4b6f1db50dbd25e8a72aeeac7b5be550ee2eb76019b8b6448595
+SHA512: 3abd11e13fbdae6213a8a5d96662d4d69802b80430935163ac77e02437e12bc73412f07f40d839c27de749d30e67c4646c5f08d06c67aeaf2be3ddfd85f9cb43
+Description: Gói biểu tượng cho nguồn Hoàng Đình Phong
+Name: SourceIconHDP
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/s.png
+
+Package: HoangDinhPhong.StarDock
+Architecture: iphoneos-arm
+Version: 1.0.5
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.StarDock_1.0.5_iphoneos-arm.deb
+Size: 25467096
+MD5sum: 82c30c284099b1b65d1f25424540e5a2
+SHA1: 17afe3a1754ca3e34f45dc8b75654d9049b4aac7
+SHA256: 88281614c32d918d9a50c31dd771e3e0e976831b919454c3f2c49e7f0a3b0ad1
+SHA512: cd2cb22cab8d21a40f17e48e636dc91c7ab97cb4aa7b2c1b0742a94239f6e31b709e16bd5b5e2d23c142621739b4e3fe532e1bdb3b9a7b3e8ffb64f8071904a9
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính & Màn hình khoá
+ - Nội dung hiển thị: Đồng hồ. Lịch âm. Lịch dương. Thời tiết. Trình phát nhạc
+ + Cập nhật thêm nhiệt độ cao thấp. Thêm âm lịch. Thêm trình phát nhạc. Thay đổi sang dạng cài đặt mới. Và thêm nhiều tuỳ chỉnh khác...
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: StarDock
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/StarDock/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/StarDock/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.StatusBarWeather
+Architecture: iphoneos-arm
+Version: 1.1.4
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.StatusBarWeather_1.1.4_iphoneos-arm.deb
+Size: 49784988
+MD5sum: 4ebcd0aa1f4de6422e3d79f26d97a3f2
+SHA1: 6300b7112da2a7d91b96d5c5d5399832d9128081
+SHA256: 5918f4050c1245a91b027b69fadf7828f951f5b206e2b53b4986c2408f0e7f06
+SHA512: 1ebb54802f2868fef29ba75b402d02081f73d0ce30fef03d4fd03ccda383fc04c017ece8b607f9b5e4225847838355c302c51ce9ccb70cc9ca34aad6033a8016
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính và Màn hình khoá
+ - Nội dung hiển thị: Lịch dương, lịch âm và thời tiết
+ + Cập nhật thay đổi sang kiểu cài đặt mới
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: StatusBar Weather
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/StatusBarWeather/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/StatusBarWeather/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.SystemInfo
+Architecture: iphoneos-arm
+Version: 2.7.2-2
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: mobilesubstrate
+Filename: ./Deb/HoangDinhPhong.SystemInfo_2.7.2-2_iphoneos-arm.deb
+Size: 427922
+MD5sum: a1bdddfc38dffcd9646f44969237ab26
+SHA1: 8e6290ae899e7c49b60680ad68c30078a111041e
+SHA256: eacbaf537e76350abd0fd42aa5ae1968b0bc890a13864cff2f6868e89b84cbf6
+SHA512: ccafd550f858ba21a3c4d8a49459310d5cc9a83a16cfd83b3c9c3e7346bea76b4c6a609a96f46d776f390811ac525b5afb3f9fd7e0f6e3f2d2b55c1ddf45bb74
+Description: Thông tin hệ thống trong ứng dụng Cài đặt -> Cài đặt chung -> Giới thiệu và các phần khác. Đặt boot-nonce, lưu SHSH, thông tin pin, v.v.
+ + Cập nhật khắc phục sự cố iofbres trong khi cố gắng thiết lập đặt lại độ phân giải trên unc0ver. Khắc phục sự cố chế độ xem pin ứng dụng trên thiết bị A12
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: SystemInfo Việt Nam
+Author: ARX8x
+Depiction: http://hoangdinhphong.github.io/Info/SystemInfo/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/SystemInfo/?p=info
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
+Package: HoangDinhPhong.T9Dialer
+Architecture: iphoneos-arm
+Version: 1.2.0
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker, firmware (>= 11.1.2)
+Filename: ./Deb/HoangDinhPhong.T9Dialer_1.2.0_iphoneos-arm.deb
+Size: 68278
+MD5sum: 67eec507871f6d13a14c2b353a0f6ca7
+SHA1: 01561815624c5235063a9a0e5b8b15158455d793
+SHA256: 8c757d1afe06f82d13d692cf049160b78b0c25b5e9c57c1713d5bc7046e64f01
+SHA512: b143f9b963d7e9b0eeb9a1fb4b6aadb76622d99a6566103cab3ca3fe05fe318b21359304fc30385889c787cbae35deda6eb5b08b9839ce0371d1c38cefc87595
+Description: Hiển thị tìm kiếm theo tên hoặc số điện thoại
+ - Hỗ trợ ứng dụng Điện thoại mặc định
+ - Tuỳ chỉnh gồm có: Hiện tab bàn phím khi khởi chạy. Chuyển trường số lên trên. Phản hồi rung khi nhấn phím. Ưu tiên tên trước họ sau. Tìm kiếm theo số điện thoại. Màu chữ nhập liệu
+ + Cập nhật nâng cấp sửa lỗi
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: T9Dialer Việt Nam
+Author: Jordan Koch
+Depiction: http://hoangdinhphong.github.io/Info/T9Dialer/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/T9Dialer/?p=info
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
+Package: HoangDinhPhong.TapMe
+Architecture: iphoneos-arm
+Version: 1.3.0
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: mobilesubstrate
+Filename: ./Deb/HoangDinhPhong.TapMe_1.3.0_iphoneos-arm.deb
+Size: 4998800
+MD5sum: aaa2cdaf339c80ed4d7d337813db90cf
+SHA1: 45c31ca6a33c6c51ab16b1ccc9caaf528d828962
+SHA256: 2b829253f57b252097472859d24c9102c3b6858cdc2a89ae8282fd68a8738f3d
+SHA512: 28783d3d41107a032f91e4aa230d72a0679872610822b127676fdb0dcc5c9e6bf48bb405abaf7f9450afb69d4194d757b39a84b6617007badf32097320d3ef2b
+Description: Phát âm thanh và rung khi mở ứng dụng hoặc thư mục của bạn
+ - Nội dung cài đặt gồm: Rung phản hồi gồm nhẹ, vừa & mạnh. Lựa chọn âm thanh phát ra.
+ - Lưu ý: Âm thanh không hoạt động ở chế độ im lặng
+ + Bây giờ bạn có thể xem trước kiểu phản hồi rung và âm thanh trong cài đặt của TapMe
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: TapMe
+Author: alex_png
+Depiction: http://hoangdinhphong.github.io/Info/TapMe/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/TapMe/?p=info
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
+Package: HoangDinhPhong.Win10Clock
+Architecture: iphoneos-arm
+Version: 1.0.35
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Win10Clock_1.0.35_iphoneos-arm.deb
+Size: 39430626
+MD5sum: 79c47a0fde70eb8ef8acd6d1baf8b991
+SHA1: 616a5d1573636ea9f6eba4db6d6e780b2af9645b
+SHA256: 6aa595e4b40c19fe04170444e2bf5e5e269f0d417227671f9fd6188743093a39
+SHA512: cd5527024528f222b937ca120d573f156fcbc0ca99582b01d967999b4de397525b64d7456b6ad5ed94210c229f953272b62e462a984caf08d9abef6a5dd11f72
+Description: Tiện ích cho Xen Html.
+ - Hoạt động trên Màn hình khoá
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ + Cập nhật sửa lỗi và thay đổi kiểu pin sóng
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Win 10 Clock
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Win10Clock/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Win10Clock/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: com.matchstic.xenhtml
+Architecture: iphoneos-arm
+Version: 2.0.1
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: mobilesubstrate
+Filename: ./Deb/HoangDinhPhong.XenHTML_2.0.1_iphoneos-arm.deb
+Size: 8254260
+MD5sum: 8bbe99f45bb2c13619e71072b8dc3e03
+SHA1: d3b64fe56d77363b41d012caeba0c2c63b2d7d08
+SHA256: 70e2831e43c75994660ad4a11101e7f311d29feca449c5e9c54a108a2ca94f6c
+SHA512: d82cfeabb0f2034b03cead3a5b37758111480f9ec80f10a26b2be23b43fe7e0aabf594b2c02e3a28d050bf0166cc8544c65376b9b28009e57253a339daf471c8
+Description: Thêm tiện ích lên màn hình chính và màn hình khoá
+ - Đã dịch sang tiếng Việt sát nghĩa nhất có thể
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Xen HTML Việt Nam
+Author: Matt Clarke
+Depiction: http://hoangdinhphong.github.io/Info/XenHTML/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/XenHTML/?p=info
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
+Package: HoangDinhPhong.Ybht
+Architecture: iphoneos-arm
+Version: 1.0.6
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Ybht_1.0.6_iphoneos-arm.deb
+Size: 146892
+MD5sum: 921adcc2eebc1ea158b309db78ed890c
+SHA1: 81f9289ee098343ca7fb1b6094362b6fd5234bbe
+SHA256: a142140fd3083a2305f7c55f32eeefdde373df428188dce1ce825421bb1a3141
+SHA512: 9ade83b02d90005b8ba1268869ed99ee6ff842af01181177dce8ab09359ab96c874f2f19894467b32977ba3ee544791f60cc40c30d6e5a78e9ef239451496895
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính & Màn hình khoá
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ + Cập nhật thêm tuỳ chỉnh vách ngăn cho Lịch dương & thêm tuỳ chỉnh độ bo góc khung thời gian
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Ybht
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Ybht/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Ybht/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.YouTubeReborn
+Architecture: iphoneos-arm
+Version: 1.0.7.3
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 12.0), com.spark.libsparkcolourpicker
+Conflicts: com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock
+Filename: ./Deb/HoangDinhPhong.YouTubeReborn_1.0.7.3_iphoneos-arm.deb
+Size: 184634
+MD5sum: b173b3cdc3125a6fbd9b3e1156186623
+SHA1: 076e73539d79ef9beb3694c9876eeb8ec122d327
+SHA256: 7887b4b6d7e9686eaa751715ac199311bd1232d947a229d478bd02fca095af0a
+SHA512: 3559a86c3e66f5b915f3093da01996d6703f4e15600c0435c0484e4aa6b62091cfd9a5800fbdd87a6592e2f638160618c21809816979e65780f3e5c392ba292b
+Description: Tuỳ chỉnh YouTube của bạn
+ - Các tuỳ chọn bao gồm: Tuỳ chọn video, thanh tab, lớp phủ, màu sắc. Ẩn các thành phần khác nhau. Thay đổi giao diện sang kiểu iPad. Chặn quảng cáo...
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ + Cập nhật sửa lỗi nâng cấp hỗ trợ YouTube bản mới nhất
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: YouTube Reborn Việt Nam
+Author: SarahH12099
+Depiction: http://hoangdinhphong.github.io/Info/YouTubeReborn/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/YouTubeReborn/?p=info
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
+Package: HoangDinhPhong.YouTubeReborn
+Architecture: iphoneos-arm
+Version: 1.1.0.0
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 12.0), com.spark.libsparkcolourpicker
+Conflicts: com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, com.spicat.youpip, com.ps.youpip, prasa.youtubeplus
+Filename: ./Deb/HoangDinhPhong.YouTubeReborn_1.1.0.0_iphoneos-arm.deb
+Size: 307520
+MD5sum: ae54cbb8fd74b51beb5efd94d5591ffa
+SHA1: 15a4c427642d737d93e7092020cd853267c3de58
+SHA256: 694ef497bc1a6dfc79e4924f91c35492e096f7c199035466ed772028ecdc3cd6
+SHA512: cc67cd293b213f62eb39b6300eb61178c6d0de92726ef672ec058b82c3e7aed960cdd73c544a47493bc3640f429228a70d6e51b25c2693194867dc0e6413e044
+Description: Tuỳ chỉnh YouTube của bạn
+ - Các tuỳ chọn bao gồm: Tuỳ chọn video, thanh tab, lớp phủ, màu sắc. Ẩn các thành phần khác nhau. Thay đổi giao diện sang kiểu iPad. Chặn quảng cáo...
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ + Cập nhật sửa lỗi nâng cấp hỗ trợ YouTube bản mới nhất
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: YouTube Reborn Việt Nam
+Author: SarahH12099
+Depiction: http://hoangdinhphong.github.io/Info/YouTubeReborn/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/YouTubeReborn/?p=info
+Icon: file:///Applications/Cydia.app/Sections/t.png
+

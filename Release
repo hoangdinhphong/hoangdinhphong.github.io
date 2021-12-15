@@ -1,0 +1,11 @@
+Origin: Hoàng Đình Phong
+Label: Hoàng Đình Phong
+Suite: stable
+Version: 1.0
+Codename: ios
+Architecture: iphoneos-arm
+Components: main
+Description: Hoàng Đình Phong
+MD5Sum:
+ 41a2401908efc624b16d657ce6d5bdaa 76221 Packages
+ ef3e4d566a3694ddde4ceefbd40ab352 17330 Packages.bz2
