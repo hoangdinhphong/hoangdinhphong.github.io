@@ -1341,6 +1341,27 @@ Depiction: http://hoangdinhphong.github.io/Info/T9Dialer/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/T9Dialer/?p=info
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.TTP1508
+Architecture: iphoneos-arm
+Version: 1.0.24
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.TTP1508_1.0.24_iphoneos-arm.deb
+Size: 2537328
+MD5sum: eecc8c382f1f5e578ec05f059e099dde
+SHA1: da9a2e93b3f8b81a2a32cbbd44c5492d220fcd1a
+SHA256: 90432d0a1ab7a45c6b559228a7d7102a0ad031315eee16f15ae0d4c932757482
+SHA512: c9c3024b5534d24fa7daa0493d63a22c02af95efb235253fd0ad42ab4c7b3a683dd053099933c93dd17eaf53f62aa72ac3bd8dc861b55c111f044116deb504d5
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: TTP 1508
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/TTP1508/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/TTP1508/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.TapMe
 Architecture: iphoneos-arm
 Version: 1.3.0
