@@ -43,6 +43,27 @@ Depiction: http://hoangdinhphong.github.io/Info/Aerelys/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/Aerelys/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Aerelys
+Architecture: iphoneos-arm
+Version: 1.1.9
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Aerelys_1.1.9_iphoneos-arm.deb
+Size: 1167702
+MD5sum: 5ff97b30c5a453b3e1a4b5a9044d671a
+SHA1: a502b1e33485e3b0270413ca58790550d67c759d
+SHA256: d8cab18f1a8d18bd0c739bb16a3ddb3a04fc16fcddf5f1364e6e32df662900fe
+SHA512: 01aa2406a42aeaeb3f48db207b84bb78412a5b022323fb4e927b894423218f4b2f87ea1538788444efd992eff5afc91edf3ef68f2fb662c00d260bbedd6ca63c
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Aerelys
+Author: HĐP & CodeOne88
+Depiction: http://hoangdinhphong.github.io/Info/Aerelys/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Aerelys/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.AlertController
 Architecture: iphoneos-arm
 Version: 1.4.2
