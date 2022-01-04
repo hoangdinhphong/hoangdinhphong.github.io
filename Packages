@@ -455,6 +455,28 @@ Depiction: http://hoangdinhphong.github.io/Info/DockOne/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/DockOne/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.DodoVietNam
+Architecture: iphoneos-arm
+Version: 2.4.1
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, preferenceloader, com.peterdev.libpddokdo
+Filename: ./Deb/HoangDinhPhong.DodoVietNam_2.4.1_iphoneos-arm.deb
+Size: 388090
+MD5sum: 75c38de0d55e343e482259f0ffc0b6ed
+SHA1: d521d011dad6813df90cd62763d1fd22bfc54119
+SHA256: babf6e1272adee2481b1159ea88d402910d920a0de8750b18c93b6edb24962a0
+SHA512: 176d7da20774b715e77dd85f0d1799b1869d786b6648a4df99330f29ae13ead50a33c339f3769bd1e0478d21b8c80fbba07891e43a2d9d0e0d5f3b7d2792cae0
+Description: Tinh chỉnh cho Màn hình khoá
+ - Hoạt động trên Màn hình khoá
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Dodo Việt Nam
+Author: Ginsu
+Depiction: http://hoangdinhphong.github.io/Info/Dodo/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Dodo/?p=info
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
 Package: HoangDinhPhong.EdwartPro
 Architecture: iphoneos-arm
 Version: 1.0.2
