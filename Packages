@@ -477,6 +477,28 @@ Depiction: http://hoangdinhphong.github.io/Info/Dodo/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/Dodo/?p=info
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.DodoVietNam
+Architecture: iphoneos-arm
+Version: 2.4.2
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, preferenceloader, HoangDinhPhong.libPDDokdo
+Filename: ./Deb/HoangDinhPhong.DodoVietNam_2.4.2_iphoneos-arm.deb
+Size: 388088
+MD5sum: 36294b253d119ace45a7eba9cbafc27d
+SHA1: 7bcd26274bf68ea53164b3701cb2860110c1a5d8
+SHA256: 3c4abe449ff73994a75d71710daa8e4bac5ef6eda2372f64bbdf776826c7dd85
+SHA512: 8bd3d083ce884a07e0bf3121a6c9dd505c9b9a399e4e574095de478b3cb843e739e0d302ece557fe9b29ed2e63a59c7daeb9760764820db965f9e46cc2ba792c
+Description: Tinh chỉnh cho Màn hình khoá
+ - Hoạt động trên Màn hình khoá
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Dodo Việt Nam
+Author: Ginsu
+Depiction: http://hoangdinhphong.github.io/Info/Dodo/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Dodo/?p=info
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
 Package: HoangDinhPhong.EdwartPro
 Architecture: iphoneos-arm
 Version: 1.0.2
@@ -1542,4 +1564,20 @@ Author: SarahH12099
 Depiction: http://hoangdinhphong.github.io/Info/YouTubeReborn/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/YouTubeReborn/?p=info
 Icon: file:///Applications/Cydia.app/Sections/t.png
+
+Package: HoangDinhPhong.libPDDokdo
+Architecture: iphoneos-arm
+Version: 1.3
+Section: System
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.libPDDokdo_1.3_iphoneos-arm.deb
+Size: 10772
+MD5sum: 3fbd2186158bb9c8e89f67607dcdea31
+SHA1: 0eb2e3d68f29d55478c5e528d07deebe755e1978
+SHA256: 9025d20291f2b9b7604cf392fff508a91d17968b6fe656c49225199b5f7774b4
+SHA512: 300ea583fc56ad65a91e1efa7819bf7dfc6ff50a00debcdc64310c61df99a135d3f6ecedc38c4835f830b46d48c2520d996813a9c062da0a00007c4830c46cf5
+Description: Gói hỗ trợ thời tiết cho tinh chỉnh Dodo
+Name: libPDDokdo
+Author: Soongyu Kwon
+Icon: file:///Applications/Cydia.app/Sections/s.png
 
