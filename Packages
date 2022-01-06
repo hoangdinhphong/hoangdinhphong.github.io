@@ -199,6 +199,26 @@ Depiction: http://hoangdinhphong.github.io/Info/Anime/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/Anime/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.AppDataVN
+Architecture: iphoneos-arm
+Version: 1.3.6
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Filename: ./Deb/HoangDinhPhong.AppDataVN_1.3.6_iphoneos-arm.deb
+Size: 269618
+MD5sum: 43915630b75bbef00500e48b7cee7d04
+SHA1: ccf3f4ef1cf3470302829255e22768ff4eae8696
+SHA256: 2236bcde4ed0972041fc2be60c7bc94f356a04657ec5e4d3c0f72224b8476c54
+SHA512: 52a76e317c9e21dba7cb96261f79b441534f3db3a4e25b4d0f2be8bc31a265a62b2ed2e953db4c078c4beec0f79e8bf6f12308ee5f2a76c0eb49d64606f47178
+Description: Xem & Quản lý Dữ liệu ứng dụng từ Màn hình chính của bạn
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: AppData Việt Nam
+Author: Fouad Raheb
+Depiction: http://hoangdinhphong.github.io/Info/AppData/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/AppData/?p=info
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
 Package: HoangDinhPhong.AprilTTP
 Architecture: iphoneos-arm
 Version: 1.0.0
