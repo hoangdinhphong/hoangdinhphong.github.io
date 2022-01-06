@@ -1272,6 +1272,27 @@ Depiction: http://hoangdinhphong.github.io/Info/SixLs/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/SixLs/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.SkinnyMenuVN
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: mobilesubstrate, com.foxfort.libfoxfortutils
+Filename: ./Deb/HoangDinhPhong.SkinnyMenuVN_1.0.0_iphoneos-arm.deb
+Size: 22416
+MD5sum: 5b660b1a5f5fb92564efed2f295c33b4
+SHA1: 2cb06cf17ea78efc553518c4a8b54aef237881bc
+SHA256: aad3e77f4e273401bc2df10fa9fbcdd0a31b2663195a520cf5c74cffc31a023f
+SHA512: d8027a040e4a5d70f824e941c70721bc90f854e1ece9e01f329ecd1a2eea50fbd9d006cfb3fa7f5607751ff493b159e111b3f9f763749f2d4a94879b1cdcede6
+Description: Xóa chia sẻ và tra cứu khỏi menu
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: SkinnyMenu Việt Nam
+Author: FoxfortMobile
+Depiction: http://hoangdinhphong.github.io/Info/SkinnyMenu/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/SkinnyMenu/?p=info
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
 Package: HoangDinhPhong.SnowBoard
 Architecture: iphoneos-arm
 Version: 1.4.20~Beta4
