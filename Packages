@@ -1093,6 +1093,26 @@ Depiction: http://hoangdinhphong.github.io/Info/PicoBanners/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/PicoBanners/?p=info
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.ScreenRecordingWithSound
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: mobilesubstrate
+Filename: ./Deb/HoangDinhPhong.ScreenRecordingWithSound_1.0.0_iphoneos-arm.deb
+Size: 4430
+MD5sum: 0c68d6afd85957217a3fe0fd7bb6e1fc
+SHA1: d37744a3cc880787806c5493e45e6320a089a654
+SHA256: 04cbb34490d8288a67cf71707e2dd836bf825ec6b9666d2e5499968f70ec32cd
+SHA512: f3e962defd08c461de92719fb34d70b1141c24389ede06ae5d53309ada07bba8412dd3899237aadf1b89da31057aa6c5d284edabdafbff09d96e596be261247b
+Description: Cho phép ghi lại âm thanh trong ứng dụng Nhạc khi quay màn hình
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Screen Recording With Sound
+Author: Jun Elvin
+Depiction: http://hoangdinhphong.github.io/Info/ScreenRecording/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/ScreenRecording/?p=info
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
 Package: HoangDinhPhong.SemiRestore
 Architecture: iphoneos-arm
 Version: 1.1.6
