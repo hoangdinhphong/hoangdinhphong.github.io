@@ -867,6 +867,27 @@ Depiction: http://hoangdinhphong.github.io/Info/HTCClock/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/HTCClock/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.ILoveTime
+Architecture: iphoneos-arm
+Version: 1.9.0
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.ILoveTime_1.9.0_iphoneos-arm.deb
+Size: 44066
+MD5sum: a97b2cb9425398b68cfe762a34107ed2
+SHA1: cffa14f23a71c52777648d42102281df48da9b4b
+SHA256: 93ce7df0c530b4090358ef089eb6f3e9166897e97f605defe1471fd32cbb0c7f
+SHA512: 1f4e6765420c2aa3d33f1aa030fd33863cab2a621ba101c0470be18a269b1080a1ed8cbdb59892f4e179270b19900965969307ccb01e185b08a8e2ed3fa0e7e9
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính & Màn hình khoá
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: I Love Time
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/ILoveTime/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/ILoveTime/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Infinity
 Architecture: iphoneos-arm
 Version: 2.0.4
