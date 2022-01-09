@@ -1048,6 +1048,25 @@ Depiction: http://hoangdinhphong.github.io/Info/NanoBanners/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/NanoBanners/?p=info
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.NiceBarX13VN
+Architecture: iphoneos-arm
+Version: 1.0.2.5
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.NiceBarX13VN_1.0.2.5_iphoneos-arm.deb
+Size: 20954
+MD5sum: 075b7de592686fe851ea84b0ca1bd747
+SHA1: 23cd1c650fd9d82792d3dfe6cda989801f75cd6f
+SHA256: 1d303df6eba76179267026f5b196ccf5541d2f06b3dd651085fa88348f785d6a
+SHA512: 2a0d605257ccf895cd6639108fcacc158aba97c51603597a7b0a207e8f0e62b3f5e1f3eb02c8d37948392f8b4330f7276cd1cf9960c3666443efb59ad32e7782
+Description: Biên dịch lại cho tinh chỉnh NiceBarX iOS 13
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: NiceBarX 13 gói tiếng Việt chuẩn
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/NiceBarX13VN/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/NiceBarX13VN/?p=info
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
 Package: HoangDinhPhong.Petal
 Architecture: iphoneos-arm
 Version: 1.1.3
@@ -1301,6 +1320,34 @@ Description: Tiện ích cho Xen Html.
  - Yêu cầu cài Xen HTML để sử dụng
  - Hoạt động trên Màn hình khoá
  - iOS hỗ trợ: 10.0 trở lên
+ - Phiên bản 1.0.80: Thêm chỉ báo sạc pin. Thu gọn, căn chỉnh & làm đẹp lại
+ - Phiên bản 1.0.76: Thêm lịch âm & khả năng có mưa
+ - Phiên bản 1.0.72: Thêm thời tiết & thanh Pin. Nâng khung giờ lên cao cho dòng iPhone X trở lên
+ - Phiên bản 1.0.61: Thêm tuỳ chỉnh chế độ sáng & tối
+ - Phiên bản 1.0.5: Sửa lỗi & hỗ trợ thêm một số dòng máy
+Name: Six Ls
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/SixLs/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/SixLs/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.SixLs
+Architecture: iphoneos-arm
+Version: 1.0.81
+Section: Widget động
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.SixLs_1.0.81_iphoneos-arm.deb
+Size: 21483954
+MD5sum: 2ac594b5b8e1616be767094fcbc38fbc
+SHA1: 6fcea5d9a2b3f4f60f791528adc381ca17014431
+SHA256: 88ba6afd88a28c830b1aefbc73c433a420e20d8b631d9eb9a08282a9aa4f8c7e
+SHA512: 2bd0b85e8c38709f5d39b59d1d104a23973ef3c41a546d758b4475c88dcea5fef05c98bc67ea6f5f1300498a8ac50c0a567f6355101ecd0f3c3bb4cd88940ddb
+Description: Tiện ích cho Xen Html.
+ - Thiết màn hình khoá giống iOS6
+ - Yêu cầu cài Xen HTML để sử dụng
+ - Hoạt động trên Màn hình khoá
+ - iOS hỗ trợ: 10.0 trở lên
+ - Phiên bản 1.0.81: Sửa lỗi nền mờ đục bị lệch trên iOS 13 trở lên
  - Phiên bản 1.0.80: Thêm chỉ báo sạc pin. Thu gọn, căn chỉnh & làm đẹp lại
  - Phiên bản 1.0.76: Thêm lịch âm & khả năng có mưa
  - Phiên bản 1.0.72: Thêm thời tiết & thanh Pin. Nâng khung giờ lên cao cho dòng iPhone X trở lên
