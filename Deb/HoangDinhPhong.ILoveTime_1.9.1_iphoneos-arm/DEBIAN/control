@@ -1,0 +1,14 @@
+Package: HoangDinhPhong.FutureWeather
+Name: Future Weather
+Architecture: iphoneos-arm
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính & Màn hình khoá
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Maintainer: Hoàng Đình Phong
+Author: Hoàng Đình Phong
+Section: Widget tĩnh
+Version: 1.0.0
+Depiction: http://hoangdinhphong.github.io/Info/FutureWeather/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/FutureWeather/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png

@@ -189,7 +189,7 @@ img{
 .screenshot-viewer img{
   width: auto;
   height: 82%;
-  overflow: hidden;
+  Aoverflow: hidden;
   border-radius: 20px;
   display: inline-block;
   -webkit-box-reflect: below 0em -webkit-gradient(linear,left top, left bottom, from(transparent), color-stop(80%, transparent), to(rgba(0,0,0, 0.3)));
