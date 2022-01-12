@@ -694,6 +694,28 @@ Depiction: http://hoangdinhphong.github.io/Info/FutureWeather/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/FutureWeather/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.FutureWeather
+Architecture: iphoneos-arm
+Version: 1.0.8
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.FutureWeather_1.0.8_iphoneos-arm.deb
+Size: 26561798
+MD5sum: 9fd8e67b19d5fbb173ff633069c43de7
+SHA1: 29b36b786dbacb91333c772c2d1f8bbde31366ab
+SHA256: 0f13f4af60c489424fa63ea4b76f5b05cc59c8e5e3d0c7f4ec9128ad6a9c8436
+SHA512: f2a7f0f3f19a05509fd4473283bac253e26b2df06302d7cdcb49579bbd8195cefc8411e5444fb9a5587f39fb1609f1674fee9e5f277d46fda505f6bed650d703
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính & Màn hình khoá
+ - Bản cập nhật gồm có: Sửa lỗi lệch vị trí. Thêm tuỳ chọn ngôn ngữ. Thêm thay đổi màu sắc cho văn bản. Thêm bật tắt các thành phần. Thêm 2 gói biểu tượng thời tiết mới. Thêm dung lượng pin. Thêm nhiệt độ cao thấp cho các ngày sau.
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Future Weather
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/FutureWeather/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/FutureWeather/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.HDPJuly
 Architecture: iphoneos-arm
 Version: 1.0.03
