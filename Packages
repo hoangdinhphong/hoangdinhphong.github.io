@@ -1041,6 +1041,28 @@ Depiction: http://hoangdinhphong.github.io/Info/Juno/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/Juno/?p=info
 Icon: file:///Applications/Cydia.app/Sections/th.png
 
+Package: HoangDinhPhong.KingDarkness
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.KingDarkness_1.0.0_iphoneos-arm.deb
+Size: 1326664
+MD5sum: bcecb00029dabdcce30ab65f2b71167e
+SHA1: db89888474bbff2839c4863a9aa8d903e39e1f67
+SHA256: 0c6b81fca529c9872a9cb8942624b88bb1f69251106ac5442e1b9d3b00317339
+SHA512: df907f3e5c8e3ec4ba7dec0d1a8c9becf7bdb0d57394df46ddedb5774f8bb667fe48e95a8fe7e9b57fed0121f1134309d14c7937f906d1d63d3d2931acae4888
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ + Lần đầu phát hành
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: King Darkness
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/KingDarkness/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/KingDarkness/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.LetoPro
 Architecture: iphoneos-arm
 Version: 423
