@@ -86,6 +86,28 @@ Depiction: http://hoangdinhphong.github.io/Info/Airy/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/Airy/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Airy
+Architecture: iphoneos-arm
+Version: 1.0.4
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Airy_1.0.4_iphoneos-arm.deb
+Size: 274782
+MD5sum: f68253d0e228350a575085d40a22f280
+SHA1: 805bbe93a5a0fb4687ab376ab37fe5c9c759f6c0
+SHA256: bb9771da5dec956b1c1328272bb9677911f2139f33dfc96a189b0deffef4c0c8
+SHA512: 107213edbc9d5dc31275d69048aa967880c63fa099e52a62ba65ebab30c0cdc18b011c910aadb1ac68ea13c1445b58de1dcd3576a7b94e1f9a41df1b06c67afd
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ + Thêm khung chứa ứng dụng. Thêm 2 chế độ Sáng và Tối.
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Airy
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Airy/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Airy/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.AlertController
 Architecture: iphoneos-arm
 Version: 1.4.2
