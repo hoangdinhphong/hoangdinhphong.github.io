@@ -180,11 +180,11 @@ Version: 1.1.5
 Section: Widget tĩnh
 Maintainer: Hoàng Đình Phong
 Filename: ./Deb/HoangDinhPhong.Airy_1.1.5_iphoneos-arm.deb
-Size: 32037558
-MD5sum: 6cba17499103c4f748a76f5ddac66016
-SHA1: 5243ac08fa795980e86e6497f4f4111deeb2a3a4
-SHA256: 05abb6e6b8e5e1033f2f1d18cbb1b668593de15327c9a0096e74847f00c1c257
-SHA512: 2714d90d7fb6e70250700db777f6dec668984f55d0e316a4759fad0f369c46c15f62e29aec7de1093d64df4702c4d577c7653520398a769746445024f9f6e3f1
+Size: 32037542
+MD5sum: e259dc7077144b406359942ea2679ae9
+SHA1: 96336c13973fffb40921a56e808e98c4189dc105
+SHA256: b698a4b656832ba521b1cb77fbf21e15751e037f4c500f124a51c6d756351ccb
+SHA512: a0dff9e81accc4624fd06b571ab7a31197b6c8402acfd35d9c6bbfeaa4ce1dfd35dd05192bb8ed8bd8f8c6c21ba786100c70e7f02da36a96872f575626643a10
 Description: Tiện ích dành cho Xen Html.
  - Hoạt động trên Màn hình chính
  - Các thiết lập tuỳ chỉnh trong cài đặt của nó
