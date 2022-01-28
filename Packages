@@ -514,6 +514,28 @@ Depiction: http://hoangdinhphong.github.io/Info/Carbon/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/Carbon/?p=info
 Icon: file:///Applications/Cydia.app/Sections/th.png
 
+Package: HoangDinhPhong.ClassicWatches
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget động
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.ClassicWatches_1.0.0_iphoneos-arm.deb
+Size: 144984
+MD5sum: 1137e82734784ac5fc0a6995244e42d7
+SHA1: e7e85e3f05dba86cd224f6b0aa78b541745a53f7
+SHA256: 34a8526fa65893b0b792084627a3b13eb370a29967d52712e56229a12938b0ed
+SHA512: e852464fbd7ef89e2a2a1c7f1334d298def3da5deb55672bdf890fa79f2de082995a75193321f7f940c0750934acd681946022bf0f83a7998cc19d9290e8d9df
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính & Màn hình khoá
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ + Lần đầu phát hành
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Classic Watches
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/ClassicWatches/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/ClassicWatches/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Cover
 Architecture: iphoneos-arm
 Version: 1.6.6
