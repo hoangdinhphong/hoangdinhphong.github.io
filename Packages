@@ -220,6 +220,35 @@ Icon: file:///Applications/Cydia.app/Sections/w.png
 
 Package: HoangDinhPhong.Airy
 Architecture: iphoneos-arm
+Version: 1.1.71
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Airy_1.1.71_iphoneos-arm.deb
+Size: 32037652
+MD5sum: 37a82ac94faa6475ee55ef2aed26a032
+SHA1: 7957d9d87aec10dbb1bf53a0cd7edcc437fcfe5a
+SHA256: 06acdfb0a3c725e1a5dcbee1bb73206468e8fa6b0ef524952fe0a6dfc7710f13
+SHA512: 780c69a9561142143b531531710342cb7b1d90bfc2b75cc3de050764769d1fb9b279d081af8011d9eed30efbee27003562650180f310696a45963dbb36c6b047
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ + 1.1.71: Sửa lỗi lịch tháng
+ + 1.1.7: Thêm tuỳ chỉnh cỡ phông cho lịch tháng
+ + 1.1.6: Thêm chỉnh màu cho viền quả pin. Thêm chỉnh màu cho thứ trong tuần. Sửa lỗi đổi màu cho Ngày hôm nay. Thêm tuỳ chỉnh Font cho đồng hồ. Thêm thời gian 24 giờ. Thêm chọn gói biểu tượng thời tiết. Thêm chỉnh màu cho pin. Sửa lỗi lịch âm không tự động chuyển ngày
+ + 1.1.0: Thêm tuỳ chỉnh màu văn bản các thành phần. Thêm thay đổi phông chữ. Thêm lịch âm. Sửa lỗi cho iPhone 6, 7, 8 & SE 2020
+ + 1.0.7: Thêm tuy chỉnh cài đặt màu sắc. Thêm 2 chế độ Sáng nổi & Tối nổi
+ + 1.0.5: Hỗ trợ từ iPhone 4 trở lên. Thêm tuỳ chỉnh bo góc các nền
+ + 1.0.4: Thêm khung chứa ứng dụng. Thêm 2 chế độ Sáng & Tối
+ + 1.0.0: Lần đầu phát hành
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Airy
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Airy/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Airy/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Airy
+Architecture: iphoneos-arm
 Version: 1.1.7
 Section: Widget tĩnh
 Maintainer: Hoàng Đình Phong
