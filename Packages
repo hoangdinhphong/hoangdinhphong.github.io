@@ -64,6 +64,28 @@ Depiction: http://hoangdinhphong.github.io/Info/Aerelys/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/Aerelys/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Agena
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Agena_1.0.0_iphoneos-arm.deb
+Size: 19150328
+MD5sum: dd7313a0526d4b86d72aa263e0fc1d3b
+SHA1: 51c9a978e20a4daaaa005834d87932286231c6e2
+SHA256: 6c194349e7de75bf7a7a7e48c3a0bac82d17de9a9aa98417ce62ec4abd5da23b
+SHA512: 6d24ea10088f39680b8575b654857a1fdaa8056e101a7c1ac7d0eb822a10d70a2185ecbe815f3f16b9b3f6b08785a61f65a02930b10047f5df6a646bde8535b8
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ + 1.0.0: Lần đầu phát hành
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Agena
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Agena/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Agena/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Airy
 Architecture: iphoneos-arm
 Version: 1.0.0
