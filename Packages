@@ -1493,6 +1493,28 @@ Depiction: http://hoangdinhphong.github.io/Info/Petal/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/Petal/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Petal
+Architecture: iphoneos-arm
+Version: 1.1.4
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Petal_1.1.4_iphoneos-arm.deb
+Size: 5509136
+MD5sum: b80b6e3c4f152680226fdda0f8dcb6cd
+SHA1: 2ba74856b7a452f6d03a5b77b1358e036c0a6df4
+SHA256: 2cc102b5e77878e536b8bb108154cf48917b2df0f04cac4fbe4967e7e0385989
+SHA512: 0a64e7710a37818e4159c91c6aef3d7578c2b503462f8f6734d3238e22ea44d0155fb46f3753e1f713701c67abb922694c8667f0bb2f2e283873b6b073235887
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình khoá
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ + Cập nhật thay đổi chế độ cài đặt. Sửa lỗi bị lệch trên các dòng máy iPhone Plus, X, Xs, 11, 12 mini
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Petal
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Petal/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Petal/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.PicoBanners
 Architecture: iphoneos-arm
 Version: 0.0.1b2-7
