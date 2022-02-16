@@ -1493,6 +1493,28 @@ Depiction: http://hoangdinhphong.github.io/Info/NiceBarX13VN/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/NiceBarX13VN/?p=info
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.Peak
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Peak_1.0.0_iphoneos-arm.deb
+Size: 22549104
+MD5sum: cf00d741e3db16984cace8d48088f036
+SHA1: 421393ca0a80fcb9c740081ec2669c22b4c842f5
+SHA256: 7b5abcbdb7264a985fecc8100c4fbb24ee75729c4630f9969b3f872df51a2c60
+SHA512: 1c1795cbcc4d1de67f9c9f331a82365ae4a53b2200c025aac9bcd9f821d61ee55e26a335a97ccdd71fea75d291b7fce5757391d268f77a9f95ede6990b9fd72c
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính & Màn hình khoá
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ + 1.0.0: Lần đầu phát hành
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Peak
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Peak/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Peak/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Petal
 Architecture: iphoneos-arm
 Version: 1.1.3
