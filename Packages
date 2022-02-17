@@ -1542,6 +1542,31 @@ Icon: file:///Applications/Cydia.app/Sections/w.png
 
 Package: HoangDinhPhong.Peak
 Architecture: iphoneos-arm
+Version: 1.0.082
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Peak_1.0.082_iphoneos-arm.deb
+Size: 22551630
+MD5sum: a1a7673f06c0a4057d203b7969e24ef5
+SHA1: a3104fa59ea350b3a49bf138cc9e3cedfe60ce4e
+SHA256: 1c309b78103f52d6718647d95643d93b369dfe96bff9260eac5063384de60fb3
+SHA512: f6436d80ecb022c14441c069bf6e6303a7b22b2e97f1e2804243826dc2aeb1c2a6e0b40119639ea02ef417445d38e88789adfd9c8661ea00149b687e9a0004b2
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính & Màn hình khoá
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ + 1.0.082: Sửa lỗi khi nhấn giữ vào khoảng trống trên màn hình chính bị ẩn tiện ích. Thêm lại thời gian cập nhật thời tiết
+ + 1.0.071: Sửa lỗi đồng hồ
+ + 1.0.07: Sửa vài lỗi nhỏ. Thay thế thời gian cập nhật thời tiết bằng Lịch âm. Thêm tuỳ chỉnh màu. Thêm gạch chân cho lời chào. Thêm độ nhoà cho khung nền Pin & Lịch âm. Thêm bật tắt cho tên, lời chào & thời tiết. Chỉnh lại một số chỗ cho đẹp hơn
+ + 1.0.0: Lần đầu phát hành
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Peak
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Peak/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Peak/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Peak
+Architecture: iphoneos-arm
 Version: 1.0.0
 Section: Widget tĩnh
 Maintainer: Hoàng Đình Phong
