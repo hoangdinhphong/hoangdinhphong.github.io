@@ -1364,15 +1364,15 @@ Icon: file:///Applications/Cydia.app/Sections/th.png
 
 Package: HoangDinhPhong.Lightly
 Architecture: iphoneos-arm
-Version: 1.0.0
+Version: 1.0.01
 Section: Widget tĩnh
 Maintainer: Hoàng Đình Phong
-Filename: ./Deb/HoangDinhPhong.Lightly_1.0.0_iphoneos-arm.deb
-Size: 14798326
-MD5sum: 9602abdc601d6ff615885618bc31cd8c
-SHA1: dad3010a7118afae92dc391f9754751ed4f3929f
-SHA256: 458f25c3f059571c17122765f6e4367a81780b9b01a89e839c0f08661e75e4fb
-SHA512: 9a3c3ef8bdbe6efc890febdfecfddd22ade45387543b5a35ef5eac41050f61703eff52b5e0f5ef1acc452fc950f524d5df6da66069090c0c2d323a9078aacf44
+Filename: ./Deb/HoangDinhPhong.Lightly_1.0.01_iphoneos-arm.deb
+Size: 14798292
+MD5sum: 3d9eff408b746fe8f96eb7bf95afc188
+SHA1: 3c2b7904feadf27f357e2255b36d4cba6a7a7f0d
+SHA256: b7f25c4c07c875c80fc4c952697c62fb315bcaf2ca91a02d8259fb71137d4c65
+SHA512: 10f9a359a5749981cb1c3c8d1f45cced17cc31c68ccd6be4fe610a540a2bcad78ef6c667ecbd3856ee9f45a47205b5ed996e5e2f3880f252b205b50aa31dd705
 Description: Tiện ích dành cho Xen Html.
  - Hoạt động trên Màn hình chính
  - Các thiết lập tuỳ chỉnh trong cài đặt của nó
