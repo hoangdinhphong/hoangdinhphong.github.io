@@ -1654,6 +1654,28 @@ Depiction: http://hoangdinhphong.github.io/Info/PicoBanners/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/PicoBanners/?p=info
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.Plane
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Plane_1.0.0_iphoneos-arm.deb
+Size: 45205512
+MD5sum: 31ab709a1b3fb2d5153d44fc0cab50db
+SHA1: 3afc03fbea9106d3e9fcb284a141a8b0110c34ce
+SHA256: e2373e4f7d7170ae159cdd4ca5cea5dd2298b5ff21afe777b5ee12fbaad6e98b
+SHA512: 06911fae6959d3b7b2b57749dc3a379d3817132eb0294889d5f964422dea717a8c53a1e48a942a398a256f6257f688653238b0ab83b49e1c86a480aba76be704
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ + 1.0.0: Lần đầu phát hành
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Plane
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Plane/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Plane/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.ScreenRecordingWithSound
 Architecture: iphoneos-arm
 Version: 1.0.0
