@@ -1678,19 +1678,19 @@ Icon: file:///Applications/Cydia.app/Sections/t.png
 
 Package: HoangDinhPhong.Plane
 Architecture: iphoneos-arm
-Version: 1.0.0
+Version: 1.0.01
 Section: Widget tĩnh
 Maintainer: Hoàng Đình Phong
-Filename: ./Deb/HoangDinhPhong.Plane_1.0.0_iphoneos-arm.deb
-Size: 45205512
-MD5sum: 31ab709a1b3fb2d5153d44fc0cab50db
-SHA1: 3afc03fbea9106d3e9fcb284a141a8b0110c34ce
-SHA256: e2373e4f7d7170ae159cdd4ca5cea5dd2298b5ff21afe777b5ee12fbaad6e98b
-SHA512: 06911fae6959d3b7b2b57749dc3a379d3817132eb0294889d5f964422dea717a8c53a1e48a942a398a256f6257f688653238b0ab83b49e1c86a480aba76be704
+Filename: ./Deb/HoangDinhPhong.Plane_1.0.01_iphoneos-arm.deb
+Size: 45205644
+MD5sum: 499ab04a2b8cc718e2bce752d87ac4ae
+SHA1: fb538fdd4c1abe0f9815bca6e3c6655be54356dd
+SHA256: 74208eace7044a8aeccec507018201c21d0ba2c5989ca231dc0764d0dceeb27f
+SHA512: a56f703f9db191ca17df45b14348f82f392b69507efeeecba91b796afe75130147d2b7026a1c78a1f6db36b6fd43110a1803b9ea4cdb79176f0d4b36e3191e92
 Description: Tiện ích dành cho Xen Html.
  - Hoạt động trên Màn hình chính
  - Các thiết lập tuỳ chỉnh trong cài đặt của nó
- + 1.0.0: Lần đầu phát hành
+ + 1.0.01: Lần đầu phát hành
  - Ủng hộ tôi để phát triển mạnh hơn 👌
 Name: Plane
 Author: Hoàng Đình Phong
