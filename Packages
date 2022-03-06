@@ -1384,6 +1384,29 @@ Depiction: http://hoangdinhphong.github.io/Info/Lightly/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/Lightly/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Lightly
+Architecture: iphoneos-arm
+Version: 1.0.02
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Lightly_1.0.02_iphoneos-arm.deb
+Size: 14798390
+MD5sum: 49b09615a2c3124de19f034ae7e3e255
+SHA1: 955ec90014097fb815f628bf495b01f719b93bf8
+SHA256: a4e57e33c2d383c923e9b51d4686bc66c135190d2179dd6eb456404fdaf36588
+SHA512: eff6d26cca2f7e183c61383dd68ada727cbd0c1e72ac48377eb278120832124ec9ce5bba46f123ced7d03ffdc832358e6b40918bebf4b8b64a4a60f114dab5f0
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ + 1.0.02: Thêm tuỳ chỉnh thời gian 24 giờ
+ + 1.0.01: Lần đầu phát hành
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Lightly
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Lightly/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Lightly/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.LineColor
 Architecture: iphoneos-arm
 Version: 1.0.5
