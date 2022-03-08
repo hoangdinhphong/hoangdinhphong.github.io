@@ -2298,3 +2298,24 @@ Name: libPDDokdo
 Author: Soongyu Kwon
 Icon: file:///Applications/Cydia.app/Sections/s.png
 
+Package: com.matchstic.xenhtml
+Architecture: iphoneos-arm
+Version: 2.0.21
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: mobilesubstrate
+Filename: ./Deb/com.matchstic.xenhtml_2.0.21_iphoneos-arm.deb
+Size: 8254266
+MD5sum: b8b812bc5bea4f04ff6838b5825d529e
+SHA1: b85c0c02c9ca5700e11641ba11445ca79ea309a8
+SHA256: 695c01139b507329a0d88c4439171a12da5586a91e3a8886e5b65f926dab9915
+SHA512: 0b6c6e293b238a1583045d04804421a82674c01a29eb91825b0babe4dee4a483fb24d435bce0b51a3ca464ce842a91957a7195fedb8fa5c9ca792ccac14e9759
+Description: Thêm tiện ích lên màn hình chính và màn hình khoá
+ - Đã dịch sang tiếng Việt sát nghĩa nhất có thể
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Xen HTML Việt Nam
+Author: Matt Clarke
+Depiction: http://hoangdinhphong.github.io/Info/XenHTML/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/XenHTML/?p=info
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
