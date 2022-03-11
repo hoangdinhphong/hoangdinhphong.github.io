@@ -1296,6 +1296,28 @@ Depiction: http://hoangdinhphong.github.io/Info/Infinity/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/Infinity/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Infinity
+Architecture: iphoneos-arm
+Version: 2.0.6
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Infinity_2.0.6_iphoneos-arm.deb
+Size: 47533474
+MD5sum: eb21b757b60b868753064c2ea4bed418
+SHA1: 5c32bb68d7b9c1b3354c4807c600ea54946b45c5
+SHA256: 5235998aef45dcf44f893440f28202c9602b395276b96b35c04552ac303b498f
+SHA512: 8c216c47cca3b5411da28c7c95e7f44dd6c3ac3d7ee69ae9b0a8c429ad3c33e74417d1c8eb1eac140b568e0e0f71972260e68ddbcd8a7977a17f44e80a7a96b4
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính & Màn hình khoá
+ - Nội dung hiển thị: Thời tiết, đồng hồ, lịch âm, lịch dương & pin
+ + Cập nhật thay đổi dạng cài đặt. Sửa một số lỗi & chỉnh lại một số chỗ
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Infinity
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Infinity/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Infinity/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Juno
 Architecture: iphoneos-arm
 Version: 422
@@ -2211,6 +2233,27 @@ Depiction: http://hoangdinhphong.github.io/Info/XenHTML/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/XenHTML/?p=info
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: com.matchstic.xenhtml
+Architecture: iphoneos-arm
+Version: 2.0.21
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: mobilesubstrate
+Filename: ./Deb/HoangDinhPhong.XenHTML_2.0.21_iphoneos-arm.deb
+Size: 8254266
+MD5sum: b8b812bc5bea4f04ff6838b5825d529e
+SHA1: b85c0c02c9ca5700e11641ba11445ca79ea309a8
+SHA256: 695c01139b507329a0d88c4439171a12da5586a91e3a8886e5b65f926dab9915
+SHA512: 0b6c6e293b238a1583045d04804421a82674c01a29eb91825b0babe4dee4a483fb24d435bce0b51a3ca464ce842a91957a7195fedb8fa5c9ca792ccac14e9759
+Description: Thêm tiện ích lên màn hình chính và màn hình khoá
+ - Đã dịch sang tiếng Việt sát nghĩa nhất có thể
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Xen HTML Việt Nam
+Author: Matt Clarke
+Depiction: http://hoangdinhphong.github.io/Info/XenHTML/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/XenHTML/?p=info
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
 Package: HoangDinhPhong.Ybht
 Architecture: iphoneos-arm
 Version: 1.0.6
@@ -2297,25 +2340,4 @@ Description: Gói hỗ trợ thời tiết cho tinh chỉnh Dodo
 Name: libPDDokdo
 Author: Soongyu Kwon
 Icon: file:///Applications/Cydia.app/Sections/s.png
-
-Package: com.matchstic.xenhtml
-Architecture: iphoneos-arm
-Version: 2.0.21
-Section: Tweaks
-Maintainer: Hoàng Đình Phong
-Depends: mobilesubstrate
-Filename: ./Deb/com.matchstic.xenhtml_2.0.21_iphoneos-arm.deb
-Size: 8254266
-MD5sum: b8b812bc5bea4f04ff6838b5825d529e
-SHA1: b85c0c02c9ca5700e11641ba11445ca79ea309a8
-SHA256: 695c01139b507329a0d88c4439171a12da5586a91e3a8886e5b65f926dab9915
-SHA512: 0b6c6e293b238a1583045d04804421a82674c01a29eb91825b0babe4dee4a483fb24d435bce0b51a3ca464ce842a91957a7195fedb8fa5c9ca792ccac14e9759
-Description: Thêm tiện ích lên màn hình chính và màn hình khoá
- - Đã dịch sang tiếng Việt sát nghĩa nhất có thể
- - Ủng hộ tôi để phát triển mạnh hơn 👌
-Name: Xen HTML Việt Nam
-Author: Matt Clarke
-Depiction: http://hoangdinhphong.github.io/Info/XenHTML/?p=info
-SileoDepiction: http://hoangdinhphong.github.io/Info/XenHTML/?p=info
-Icon: file:///Applications/Cydia.app/Sections/t.png
 
