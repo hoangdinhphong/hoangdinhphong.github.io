@@ -2215,19 +2215,19 @@ Icon: file:///Applications/Cydia.app/Sections/w.png
 
 Package: HoangDinhPhong.Tranquility
 Architecture: iphoneos-arm
-Version: 1.0.04
+Version: 1.0.05
 Section: Widget tĩnh
 Maintainer: Hoàng Đình Phong
-Filename: ./Deb/HoangDinhPhong.Tranquility_1.0.04_iphoneos-arm.deb
-Size: 2051294
-MD5sum: 602e1b78083041bf4d0338936fffd392
-SHA1: 3dd104a7d58baef6687cbd1a48b7ce139ef06bad
-SHA256: 961b9bd42f8638d636455efe269370f8262d0c7b97ed06f36c212bf6ecb4d11b
-SHA512: 6ac9fa737073c84b1412723266779a26dc8bdb6bc523e0fbb88cc20149acb89f7e13d97c749337c404c398ecdb1b6531df077703cff04d66e384c903a8f6a815
+Filename: ./Deb/HoangDinhPhong.Tranquility_1.0.05_iphoneos-arm.deb
+Size: 2051322
+MD5sum: b51c7ba8f73574f015b956ff82c44237
+SHA1: b1666c7f6a4f626256eb5427bad6d208c45f71b4
+SHA256: 6cf86ce6a00ed862659b1f86c131d579b15a103aeb3784e2bd68e79d8b3bc591
+SHA512: 2d9768c1a4ad5336c675222fbe88e1f862f7642d34fe6b35e5a8387e51889987ab1bb2c2cbd178c3ba4cf178e220d6f447d74856f68a5843c6fdbd8229acbdf7
 Description: Tiện ích dành cho Xen Html.
  - Hoạt động trên Màn hình chính & Màn hình khoá
  - Nội dung hiển thị: Thời tiết, đồng hồ, lời chào, lịch âm, lịch dương, pin & trình phát Media.
- + 1.0.04: Thêm lịch âm. Thay đổi vị trí 1 số thành phần. Thêm tuỳ chỉnh màu sắc vào cài đặt
+ + 1.0.05: Thêm lịch âm. Thay đổi vị trí một số thành phần. Thêm tuỳ chỉnh màu sắc vào cài đặt. .v.v...
  + 1.0.01: Sửa lỗi trên iPhone X
  + 1.0.0: Lần đầu phát hành
  - Ủng hộ tôi để phát triển mạnh hơn 👌
