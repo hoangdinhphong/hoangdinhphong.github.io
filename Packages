@@ -2190,6 +2190,28 @@ Depiction: http://hoangdinhphong.github.io/Info/TapMe/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/TapMe/?p=info
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.Tranquility
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Tranquility_1.0.0_iphoneos-arm.deb
+Size: 2048676
+MD5sum: 8063cea933643f4e2aeb2f66babf9633
+SHA1: e28bac04d9927923ce75207d17955cf82c024eff
+SHA256: 16d26063d761c4aefd208ab95efb21a5130d0bd83e6c621a61db17eed0b6fd8c
+SHA512: ce571c5f674bd7aaea1b88dd19f8f957c60ba160da249e8f41dfee3109a762895aac2b24cd4d51fb544548ef919c2fe229a0667bad5aee879adbae3b3ce2fc1a
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính & Màn hình khoá
+ - Nội dung hiển thị: Thời tiết, đồng hồ, lời chào, lịch, pin & media.
+ + 1.0.0: Lần đầu phát hành
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Tranquility
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Tranquility/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Tranquility/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Win10Clock
 Architecture: iphoneos-arm
 Version: 1.0.35
