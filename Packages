@@ -2239,6 +2239,31 @@ Icon: file:///Applications/Cydia.app/Sections/w.png
 
 Package: HoangDinhPhong.Tranquility
 Architecture: iphoneos-arm
+Version: 1.0.07
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Tranquility_1.0.07_iphoneos-arm.deb
+Size: 3817932
+MD5sum: 6398de46da3e344d4504ea892e513904
+SHA1: 611fc2e598d8e64e65e3de7542407617e156df51
+SHA256: 4bc84b7b73474947b84aa3c6e6da969959398bc6d646354961c337c5dc486d28
+SHA512: 335243c4ed62b8f498a967e7eb7f3c1f43b897a1ca528f35e8186fb3310bc329bbe18fcb66d9ef8ab89e4df83199596df7b8bd4df6e17cb98688155fe54ada87
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính & Màn hình khoá
+ - Nội dung hiển thị: Thời tiết, đồng hồ, lời chào, lịch âm, lịch dương, pin & trình phát Media.
+ + 1.0.07: Thêm một số tuỳ chỉnh vào cài đặt. Sửa lỗi nền nhoà ko hiển thị trên một số máy
+ + 1.0.05: Thêm lịch âm. Thay đổi vị trí một số thành phần. Thêm tuỳ chỉnh màu sắc vào cài đặt. .v.v...
+ + 1.0.01: Sửa lỗi trên iPhone X
+ + 1.0.0: Lần đầu phát hành
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Tranquility
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Tranquility/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Tranquility/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Tranquility
+Architecture: iphoneos-arm
 Version: 1.0.0
 Section: Widget tĩnh
 Maintainer: Hoàng Đình Phong
