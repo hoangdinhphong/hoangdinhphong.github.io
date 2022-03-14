@@ -878,6 +878,28 @@ Depiction: http://hoangdinhphong.github.io/Info/Faint/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/Faint/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Flower
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Flower_1.0.0_iphoneos-arm.deb
+Size: 143650
+MD5sum: 8eb4ad3d763dd7017c51e0f521fe07ba
+SHA1: 6a22f9bc19d779ace49633a38bca6b01cda4dae9
+SHA256: 27f2a8cb49b51c871dee2f0869820f2bbf8f5e089f8d616092598fbf91d2adbf
+SHA512: cfced100ecc3b451bf5940ef31760424e24217ed59edefe98bf390448a2a602e5b708ef085a6fff387b4f0bf1a3593f15e001dd76d9ceaf3ea5e7c652221b7ba
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính & Màn hình khoá
+ - Nội dung hiển thị: Đồng hồ Analog
+ + 1.0.0: Lần đầu phát hành
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Flower
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Flower/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Flower/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.FlyingBirds
 Architecture: iphoneos-arm
 Version: 1.0.1
