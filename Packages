@@ -1588,6 +1588,25 @@ Icon: file:///Applications/Cydia.app/Sections/t.png
 
 Package: HoangDinhPhong.NiceBarX13VN
 Architecture: iphoneos-arm
+Version: 1.0.2.61
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.NiceBarX13VN_1.0.2.61_iphoneos-arm.deb
+Size: 20834
+MD5sum: b05a4abd0fa3dc12bc805c9e0d274a2e
+SHA1: 4f4ddc27b494862ac68a58f57ae9fa2015aca9bb
+SHA256: ceef7563c5a5560f8d0cd0be25d2a41928c29c124cf0cc8f7e8b16aa4c8a949f
+SHA512: 2dd140ac914597330d01f803508ae28d908ebcd60bba9038b43363cee41002c493bc19579f0804f073b9e88434c076760b7d79b4cc17d7ce8f371d7fe7733e09
+Description: Biên dịch lại cho tinh chỉnh NiceBarX iOS 13
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: NiceBarX 13 gói tiếng Việt chuẩn
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/NiceBarX13VN/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/NiceBarX13VN/?p=info
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
+Package: HoangDinhPhong.NiceBarX13VN
+Architecture: iphoneos-arm
 Version: 1.0.2.6
 Section: Tweaks
 Maintainer: Hoàng Đình Phong
