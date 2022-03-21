@@ -1833,6 +1833,28 @@ Depiction: http://hoangdinhphong.github.io/Info/Plane/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/Plane/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Pyramid
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Pyramid_1.0.0_iphoneos-arm.deb
+Size: 702012
+MD5sum: 0d69ca2ec79205f90fb9143ed315b37d
+SHA1: a5362b65d3a1a8313f3df62f50dafcddce586f9e
+SHA256: 7de68c3fadd806c8d675a10a0988f55b87639f3865b40b102f6ba3a91ad31e49
+SHA512: 26eb9a5cf0905ca2f434cb77458bbb5310dc22c7d8918af708babb0bc39f990eacc3cf71bee259cf5197a6500a4908869f85e8ee205540b4d09d11d284506adb
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính & Màn hình khoá
+ - Nội dung hiển thị: Đồng hồ, lịch âm, lịch dương & thời tiết.
+ + 1.0.0: Lần đầu phát hành
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Pyramid
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Pyramid/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Pyramid/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.ScreenRecordingWithSound
 Architecture: iphoneos-arm
 Version: 1.0.0
