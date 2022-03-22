@@ -1,0 +1,26 @@
+<html><head>
+<title>Author Hoàng Đình Phong</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></head>
+<body>
+<div id="Clock"></div>
+<div id="Weekday"></div>
+<div id="DateMonth"><a id="Date"></a> <a id="Month"></a></div>
+<div id="City">??</div>
+<div id="Line"></div>
+<img id="WeIcon" src="Scripts/Js/Blank.js"></img>
+<div id="Hilo"></div>
+<div id="Temp">??</div>
+<script src="Scripts/Js/Clock.js"></script>
+<script src="Scripts/Js/Jquery.js"></script>
+<script src="Scripts/Js/Lang.js"></script>
+<script src="Scripts/Js/Mode.js"></script>
+<script src="Scripts/Js/Settings.js"></script>
+<script src="Scripts/Js/Weather.js"></script>
+<script>
+clock({ twentyfour : config.Time24, padzero : true, refresh : 5000, success: function(clock) {
+document.getElementById("Clock").innerHTML = clock.hour() + ':' + clock.minute();
+document.getElementById('Weekday').innerHTML = days[clock.day()];
+document.getElementById('Date').innerHTML = clock.datepadded();
+document.getElementById('Month').innerHTML = months[clock.month()]; }});
+</script>
+</body></html>

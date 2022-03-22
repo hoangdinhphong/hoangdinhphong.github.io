@@ -1,0 +1,85 @@
+:root{
+--textCl: #000;
+}
+
+body{
+font-family: 'Fra';
+text-transform: var(--textStyle);
+}
+
+@font-face{
+font-family: 'Fra';
+src: url(../Scripts/../Fonts/SanFrancisco.ttf);
+}
+
+#Clock{
+position: absolute;
+top: 75px;
+left: 5%;
+width: 47%;
+text-align: left;
+font-size: 53px;
+color: var(--textCl);
+}
+
+#DateMonth{
+position: absolute;
+top: 132px;
+left: 5%;
+width: 47%;
+font-size: 16px;
+text-align: left;
+font-weight: bold;
+color: var(--textCl);
+}
+
+#Weekday{
+position: absolute;
+top: 153px;
+left: 5%;
+width: 47%;
+font-size: 16px;
+text-align: left;
+font-weight: bold;
+color: var(--textCl);
+}
+
+#City{
+position: absolute;
+top: 153px;
+right: 5%;
+width: 47%;
+font-size: 16px;
+text-align: right;
+font-weight: bold;
+color: var(--textCl);
+}
+
+#WeIcon{
+position: absolute;
+top: 70px;
+left: 50%;
+width: 120px;
+transform: translateX(-50%);
+}
+
+#Temp{
+position: absolute;
+top: 75px;
+right: 5%;
+width: 47%;
+font-size: 53px;
+text-align: right;
+color: var(--textCl);
+}
+
+#Hilo{
+position: absolute;
+top: 132px;
+right: 5%;
+width: 47%;
+font-size: 16px;
+text-align: right;
+font-weight: bold;
+color: var(--textCl);
+}

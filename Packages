@@ -1593,6 +1593,28 @@ Depiction: http://hoangdinhphong.github.io/Info/NanoBanners/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/NanoBanners/?p=info
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.Narrow
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Narrow_1.0.0_iphoneos-arm.deb
+Size: 2129768
+MD5sum: ddf38ad66d6996b016b231f870f14f48
+SHA1: f0de63819a2051f78f232b31445477425d616244
+SHA256: 92fc6812970620f4ed94711baca8d47194c5d5227e116e5214373297152e3a40
+SHA512: a47e82db93a3cbad74df53347fc4004fcec71eba863e5f4dbd8a49656df22074190c4db737aef60cbb99148fa9bc9c157fa4e2bad73c2749a04feae3b6ad6049
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính & Màn hình khoá
+ - Nội dung hiển thị: Đồng hồ, lịch & thời tiết.
+ + 1.0.0: Lần đầu phát hành
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Narrow
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Narrow/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Narrow/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.NiceBarX13VN
 Architecture: iphoneos-arm
 Version: 1.0.2.5
