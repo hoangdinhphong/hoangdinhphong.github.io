@@ -8,10 +8,10 @@ html{
 }
 
 body{
-  margin: 0;
-  padding: 0;
+  margin: 0px;
+  padding: 0px;
   line-height: 1.6;
-  background: #ffffff00;
+  background: #FFFFFF;
   text-shadow: 0 1px 1px rgba(0,0,0, 0);
 }
 
@@ -44,19 +44,19 @@ p{
 h2{
   font-size: 16px;
   text-align: center;
-  filter: drop-shadow(0px 2px 4px #0008);
+  filter: drop-shadow(0px 2px 4px #00000088);
 }
 
 panel-body{
-  margin: 0;
+  margin: 0px;
   width: auto;
-  color: #666666;
+  color: #000000;
   display: block;
   text-align: left;
   font-size: 15px;
   overflow: hidden;
-  margin-left: 0;
-  margin-right: 0;
+  margin-left: 0px;
+  margin-right: 0px;
   padding: 15px 20px;
 }
 
@@ -75,9 +75,9 @@ main{
 }
 
 panel-header{
-  margin: 0;
+  margin: 0px;
   font-size: 22px;
-  padding-left: 0;
+  padding-left: 0px;
   padding-top: 0px;
 }
 
@@ -113,22 +113,22 @@ panel-header{
 }
 
 .information>tbody>tr>td:first-child{
-  margin: 0;
-  color: #888;
+  margin: 0px;
+  color: #888888;
   font-size: 12px;
   font-weight: bold;
   text-transform: uppercase;
-  text-shadow: 0 1px 1px rgba(0,0,0, 0);
+  text-shadow: 0px 1px 1px rgba(0,0,0, 0);
 }
 
 .information>tbody>tr>td:nth-child(2){
-  color: #000;
+  color: #000000;
   text-align: left;
   font-size: 16px;
   padding-top: 0;
   font-weight: 600;
-  padding-bottom: 0;
-  margin: .425rem 0 .625rem;
+  padding-bottom: 0px;
+  margin: .425rem 0px 0.625rem;
 }
 
 img{
@@ -169,18 +169,18 @@ img{
 }
 
 .screenshot-viewer>li:first-child{
-  margin-left: 0;
+  margin-left: 0px;
 }
 
 .screenshot-viewer>li:last-child{
-  margin-right: 0;
+  margin-right: 0px;
 }
 
 .screenshot-viewer>li img{
-  margin: 0;
+  margin: 0px;
   width: auto;
   overflow: hidden;
-  border: 3px solid #666;
+  border: 3px solid #666666;
   border-radius: 16px!important;
   box-shadow: 0px 2px 4px rgba(0,0,0, 0);
   z-index: 1;
