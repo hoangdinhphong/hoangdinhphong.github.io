@@ -387,6 +387,28 @@ Depiction: http://hoangdinhphong.github.io/Info/Analog/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/Analog/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.AndoPro
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.AndoPro_1.0.0_iphoneos-arm.deb
+Size: 3836020
+MD5sum: 041b968ce205c6fad4632fbfcce40fd8
+SHA1: 2bcd87db2416b133e2eb310cbff526c98f56f520
+SHA256: 65f0442cc8eede8fa49b24cc9c647718eecd3461a786f148672e15e89aa285b7
+SHA512: e0b17a9f4c43dd405da9b8cc8383010a305226cf0fb4b9bfb49c9323d34dbe317076d5164a453b93c7145fd589dcae3ec73338a4151d4d95a80979f083def446
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính & Màn hình khoá
+ - Nội dung hiển thị: Đồng hồ, lịch & thời tiết.
+ + 1.0.0: Lần đầu phát hành
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Ando Pro
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/AndoPro/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/AndoPro/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Anime
 Architecture: iphoneos-arm
 Version: 1.0.92
