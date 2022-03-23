@@ -1694,6 +1694,28 @@ Depiction: http://hoangdinhphong.github.io/Info/NiceBarX13VN/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/NiceBarX13VN/?p=info
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.Peaceful
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Peaceful_1.0.0_iphoneos-arm.deb
+Size: 306174
+MD5sum: e9531f86347a4a6fc3a777ffa77982ce
+SHA1: c17d6d9bfa93385310568a946b0f425c6cbe619d
+SHA256: f1244fe2956ec42ac4abc223b7e34fa0e9f04cb146ffc9020adba39aa800b562
+SHA512: 505e7b84399d6c0d40a1f011c24e2a8cdd5a8b5b5a0cf5563339b28e1be9a4459a5581fe782a977d72f934a0e4af9b9178844c40811179acd579e2181928e626
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính & Màn hình khoá
+ - Nội dung hiển thị: Đồng hồ, lịch & văn bản.
+ + 1.0.0: Lần đầu phát hành
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Peaceful
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Peaceful/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Peaceful/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Peak
 Architecture: iphoneos-arm
 Version: 1.0.071
