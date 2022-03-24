@@ -2597,6 +2597,27 @@ Depiction: http://hoangdinhphong.github.io/Info/XenHTML/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/XenHTML/?p=info
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: com.matchstic.xenhtml
+Architecture: iphoneos-arm
+Version: 3.0.21
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: mobilesubstrate
+Filename: ./Deb/HoangDinhPhong.XenHTML_3.0.21_iphoneos-arm.deb
+Size: 8253506
+MD5sum: 024edccb6004ce2dc1a74f5af6322ce0
+SHA1: cd71dc5604a73d77f088d41e00452cc0fdaa2af2
+SHA256: 4dd3349861290a9568978c0f45cad5585eaa1c37c641c8e7b63e0bef28b04508
+SHA512: e73a6fd05f802b1aac6b837801f934c113bcb1835203630be0cde295256bc8afa6d1cd34d3e520988966577b278245f127668fc40bee16b2e6ca0a53378e10b3
+Description: Thêm tiện ích lên màn hình chính và màn hình khoá
+ - Đã dịch sang tiếng Việt sát nghĩa nhất có thể
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Xen HTML Việt Nam
+Author: Matt Clarke
+Depiction: http://hoangdinhphong.github.io/Info/XenHTML/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/XenHTML/?p=info
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
 Package: HoangDinhPhong.Ybht
 Architecture: iphoneos-arm
 Version: 1.0.6
