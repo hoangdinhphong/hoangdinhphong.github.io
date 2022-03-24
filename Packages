@@ -1614,6 +1614,28 @@ Depiction: http://hoangdinhphong.github.io/Info/Lynx/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/Lynx/?p=info
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.Meteor
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Meteor_1.0.0_iphoneos-arm.deb
+Size: 689178
+MD5sum: adb54e0df29eb8bca26b79c2fc5069fb
+SHA1: 66bdca61e4bd30c6c984c6765612ea7f972b6206
+SHA256: 69f8e3782bb43db97623d3b8ff12b32fbce87de83bd632d3c6b4c336809df657
+SHA512: 67a1f3c6d9755219bf68844b25b1f6957556f6337b3f10cac2b5acd7eef2a41f5084a950f6488117e7d39f3ef8f733e8844fec5ba060727a3e3a7025090d060e
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính & Màn hình khoá
+ - Nội dung hiển thị: Đồng hồ, lịch & thời tiết.
+ + 1.0.0: Lần đầu phát hành
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Meteor
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Meteor/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Meteor/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.MuDark
 Architecture: iphoneos-arm
 Version: 1.0.61
