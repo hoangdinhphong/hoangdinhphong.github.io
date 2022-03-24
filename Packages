@@ -1616,19 +1616,19 @@ Icon: file:///Applications/Cydia.app/Sections/t.png
 
 Package: HoangDinhPhong.Meteor
 Architecture: iphoneos-arm
-Version: 1.0.0
+Version: 1.0.01
 Section: Widget tĩnh
 Maintainer: Hoàng Đình Phong
-Filename: ./Deb/HoangDinhPhong.Meteor_1.0.0_iphoneos-arm.deb
+Filename: ./Deb/HoangDinhPhong.Meteor_1.0.01_iphoneos-arm.deb
 Size: 689178
-MD5sum: adb54e0df29eb8bca26b79c2fc5069fb
-SHA1: 66bdca61e4bd30c6c984c6765612ea7f972b6206
-SHA256: 69f8e3782bb43db97623d3b8ff12b32fbce87de83bd632d3c6b4c336809df657
-SHA512: 67a1f3c6d9755219bf68844b25b1f6957556f6337b3f10cac2b5acd7eef2a41f5084a950f6488117e7d39f3ef8f733e8844fec5ba060727a3e3a7025090d060e
+MD5sum: c5de827b0754de285017ec5720e47953
+SHA1: 22a388012dc931be247fd546ae5fa81acf5d10f3
+SHA256: e7b341419c9cf615627471e300eb95a2a3b9ab9f1d1fee97f0ca609725daaff5
+SHA512: 3ae99d644c8e190d653e05adf46a9d61bb62a247e471dd77d340b6749530286d1ebfc098f1e9af6ed9531ff2f11a52c12bb96b18e14eac48908110c5c47e9ffd
 Description: Tiện ích dành cho Xen Html.
  - Hoạt động trên Màn hình chính & Màn hình khoá
  - Nội dung hiển thị: Đồng hồ, lịch & thời tiết.
- + 1.0.0: Lần đầu phát hành
+ + 1.0.01: Lần đầu phát hành
  - Ủng hộ tôi để phát triển mạnh hơn 👌
 Name: Meteor
 Author: Hoàng Đình Phong
