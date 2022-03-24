@@ -609,6 +609,28 @@ Depiction: http://hoangdinhphong.github.io/Info/Carbon/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/Carbon/?p=info
 Icon: file:///Applications/Cydia.app/Sections/th.png
 
+Package: HoangDinhPhong.Circle
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Circle_1.0.0_iphoneos-arm.deb
+Size: 1157320
+MD5sum: 95959527c7d45f56ec1b0d2c368fd174
+SHA1: 582153acaa2827ed6ffee9a8b2269e309c117493
+SHA256: a58435dcfe732e9fc8c6804584b96b57100725595a5e8cfb0e67888dc0dbe542
+SHA512: 1f7bebaa176d2a8607e1d47842299f56c75156c36a8dc0155b3f7180fab14c61d7af259f92fe6e9f16a87e647e637c9a541a9b00dff643c16e3216ea79361cf5
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính & Màn hình khoá
+ - Nội dung hiển thị: Đồng hồ, lịch & thời tiết.
+ + 1.0.0: Lần đầu phát hành
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Circle
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Circle/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Circle/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.ClassicWatches
 Architecture: iphoneos-arm
 Version: 1.0.0
