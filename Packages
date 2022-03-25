@@ -749,6 +749,33 @@ Depiction: http://hoangdinhphong.github.io/Info/Cover/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/Cover/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Cover
+Architecture: iphoneos-arm
+Version: 1.7.1
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.Cover_1.7.1_iphoneos-arm.deb
+Size: 2969926
+MD5sum: d4c33ad05ec54c04f2ff3a2820421df7
+SHA1: 895f51b6a8ca84c7be553edb0984b1b87fea42f8
+SHA256: 6bb352e613da51ae193f7cdd2447d733657a373b3cf08a9d59c6ec5a55d22992
+SHA512: 75e61ae467d2cbf921640d8da74f6ac53a21606cc05e20bf2a14286be0817fd6d6291d5129c3c83b9a9e841869375143a9e003a0e93bd2b9b8d2ca7decef24fd
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính
+ - Các thiết lập tuỳ chỉnh trong cài đặt của nó
+ .
+ + Ver 1.7.1: Thêm 11 phông chữ. Thay đổi điền phông sang chọn phông.
+ + Ver 1.7.0: Thêm chế độ rút gọn. Thêm tuỳ chỉnh vào cài đặt. Tối ưu hoá lại cho nhẹ nhất.
+ + Ver 1.6.7: Thêm Font mới. Thêm hiệu ứng Play, Next, Prev vào ảnh bìa bài hát. Thêm chạm vào vòng tròn để mở ứng dụng đang phát nhạc. Thêm ảnh bìa cho YouTube.
+ + Ver 1.6.6: Sửa lỗi và hoàn thiện lại mọi chi tiết. Thêm nhiều màu cho khung nền. Thay đổi và loại bỏ nhiều chức năng nhằm tối ưu hoá cho tiện ích. Giờ đây những dòng máy từ iPhone 6 tới iPhone X sẽ không còn giật lag và nóng máy như mọi phiên bản trước nữa.
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Cover
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Cover/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Cover/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Cydown
 Architecture: iphoneos-arm
 Version: 7.1.1
