@@ -2711,6 +2711,28 @@ Depiction: http://hoangdinhphong.github.io/Info/YouTubeReborn/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/YouTubeReborn/?p=info
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.iClock
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.iClock_1.0.0_iphoneos-arm.deb
+Size: 2247184
+MD5sum: bad0bfda2f8ce663a204e73ee7345808
+SHA1: c76e15ce431c3dc2caf90e0b241dc0e02ef62faa
+SHA256: cbd1e17f9a90c9958754125e6862029cd50025052cfb46c89fd669487d7f8d27
+SHA512: 7f3f695c8c82f1d5e9f5dc08efeddf2606dcd56c26b6ba0691fed12aaeec01d324eb3a8aa75f494285b41606fccb75954f9848fdbeb4ed944a05d2edd974216b
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính & Màn hình khoá
+ - Nội dung hiển thị: Đồng hồ & lịch.
+ + 1.0.0: Lần đầu phát hành
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: iClock
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/iClock/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/iClock/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.libPDDokdo
 Architecture: iphoneos-arm
 Version: 1.3
