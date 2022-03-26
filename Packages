@@ -2326,6 +2326,26 @@ Name: SourceIconHDP
 Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/s.png
 
+Package: HoangDinhPhong.SpectrumVietNam
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: mobilesubstrate, HoangDinhPhong.LibSkittyColor, firmware (>= 13.0)
+Filename: ./Deb/HoangDinhPhong.SpectrumVietNam_1.1_iphoneos-arm.deb
+Size: 104462
+MD5sum: 6ff853e14cd042d579470c47ea24cf74
+SHA1: d7edf0f25c38ee6311169ce48da8dc11a7426cd3
+SHA256: 3f4c6ed0aadb43d275e02138b19e62dcfbc48665a52159d4d7bee174d1fc6e1e
+SHA512: 9c0f66f85a03b61364b1ead3d844a158cea5382b5406954e10bdf1d8982db7f00c22ca33ebd4fc06792c3c1475c1d9d186217fe63dc232da709dd2775974d689
+Description: Tùy chỉnh màu sắc hệ thống!
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Spectrum Việt Nam
+Author: Skitty & EvenDev
+Depiction: http://hoangdinhphong.github.io/Info/Spectrum/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Spectrum/?p=info
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
 Package: HoangDinhPhong.StarDock
 Architecture: iphoneos-arm
 Version: 1.0.5
