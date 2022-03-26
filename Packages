@@ -1549,6 +1549,22 @@ Depiction: http://hoangdinhphong.github.io/Info/LetoPro/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/LetoPro/?p=info
 Icon: file:///Applications/Cydia.app/Sections/th.png
 
+Package: HoangDinhPhong.LibSkittyColor
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: System
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.LibSkittyColor_1.0.0_iphoneos-arm.deb
+Size: 49120
+MD5sum: 02029e6561464638e6e0b8bded02909e
+SHA1: 2970ef335944b3e8a7bf3583034f4108adad99b9
+SHA256: 97f80bcf70e9e19c23f9a77fdf52f9b8787af1f28bef8dc4b5da6ed134cd386d
+SHA512: ecbf3afcd0df011386d7bf15134905b55625fd3987bb35790d34d6b2e145a1bfb52c2fa8c6bd113bee4d47e9f4f37d398cb81ab0c01b7fae902d058388fa5c67
+Description: Gói hỗ trợ màu cho một số tweaks
+Name: LibSkittyColor
+Author: Skitty
+Icon: file:///Applications/Cydia.app/Sections/s.png
+
 Package: HoangDinhPhong.Lightly
 Architecture: iphoneos-arm
 Version: 1.0.01
