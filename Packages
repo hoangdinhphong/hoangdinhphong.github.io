@@ -2680,6 +2680,30 @@ Depiction: http://hoangdinhphong.github.io/Info/Venus/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/Venus/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Venus
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Depends: HoangDinhPhong.Fonts
+Filename: ./Deb/HoangDinhPhong.Venus_1.0.1_iphoneos-arm.deb
+Size: 7123824
+MD5sum: c44b1feab09680e65f4f22f8d737b90f
+SHA1: 67ce4cea35b5f613df9b9a70152708b254b006c4
+SHA256: e84b023477d876d9ba97181ff43f7f35a4a56f5b9ab9e78ae0719f7c0c936810
+SHA512: b666e30fdc2f244c079177b24b69a6131b48346aa0bb10508fe707aa6139f4bea28c4c71e6b3cc4e530e4f21d79066879f0f7c1391115693edf9b1f04e0dcc0e
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính & Màn hình khoá
+ - Nội dung hiển thị: Đồng hồ, lịch dương, lịch âm, thời tiết & pin.
+ + 1.0.1: Thêm nền & viền
+ + 1.0.0: Lần đầu phát hành
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Venus
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Venus/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Venus/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Win10Clock
 Architecture: iphoneos-arm
 Version: 1.0.35
