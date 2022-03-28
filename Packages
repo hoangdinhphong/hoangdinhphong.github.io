@@ -409,6 +409,29 @@ Depiction: http://hoangdinhphong.github.io/Info/AndoPro/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/AndoPro/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Angel
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Depends: HoangDinhPhong.Fonts
+Filename: ./Deb/HoangDinhPhong.Angel_1.0.0_iphoneos-arm.deb
+Size: 3056920
+MD5sum: fa1dadc11bfcfc020e95357a8731a253
+SHA1: 4e0357d5711b96fca1958029684f24ac33e8bf89
+SHA256: bc9a0c5b6c83dbeaa265d6bb09ce13b3d0cac43636495b1fa88a667b373f1e97
+SHA512: e49fc1b7199662ff97ac38f9928051abb27337693f16d59587295644fe9b29c553b59327d8a941e5d86b96b84394079ceeae606d3c6073304dfbb3b2bd421752
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính & Màn hình khoá
+ - Nội dung hiển thị: Đồng hồ, lịch & cánh chim.
+ + 1.0.0: Lần đầu phát hành
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Angel
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Angel/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Angel/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Anime
 Architecture: iphoneos-arm
 Version: 1.0.92
