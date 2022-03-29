@@ -1899,6 +1899,29 @@ Depiction: http://hoangdinhphong.github.io/Info/Narrow/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/Narrow/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Neon
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Depends: hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Neon_1.0.0_iphoneos-arm.deb
+Size: 223686
+MD5sum: 501cebef71b1d692af14c9cce425c6f8
+SHA1: 6a42f832133742c7fc4fe01085e9af62219944e8
+SHA256: 3316aaa0f76f3ddb23351860800b160329915e459426817d039aa5ac3c2fa8da
+SHA512: f2efc4815fd56abdcc47aa19de829fdf7ff093023ee20d6c32bc1fdc709b4ec9d56e962da74690c706b6db4c8c822aafab1ed01e286ae36cf08b3f9f2539c2d2
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính & Màn hình khoá
+ - Nội dung hiển thị: Đồng hồ, lịch, pin & thời tiết.
+ + 1.0.0: Lần đầu phát hành
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Neon
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Neon/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Neon/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.NiceBarX13VN
 Architecture: iphoneos-arm
 Version: 1.0.2.5
