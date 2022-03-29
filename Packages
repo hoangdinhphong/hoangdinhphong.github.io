@@ -1743,6 +1743,29 @@ Depiction: http://hoangdinhphong.github.io/Info/Lynx/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/Lynx/?p=info
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.Mars
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget động
+Maintainer: Hoàng Đình Phong
+Depends: HoangDinhPhong.Fonts
+Filename: ./Deb/HoangDinhPhong.Mars_1.0.0_iphoneos-arm.deb
+Size: 146246
+MD5sum: b13591579b5155cb88879f3c1e7d73a8
+SHA1: a89b1eb000832f7bed0b652918bf27fd494a3c18
+SHA256: 0a1f0191b301ceee7ae9c2c9df434c77f92214a66982c0a314f277b579974c12
+SHA512: 0b650969d0ef9e04df2dea7a1fedf0ed43912767a6bf29d245331dc653bb95834857999541a655ba532a26787a9f4f5abec827dc03e19556ef7b42fb6b54f710
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính & Màn hình khoá
+ - Nội dung hiển thị: Đồng hồ, lịch & thời tiết.
+ + 1.0.0: Lần đầu phát hành
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Mars
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Mars/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Mars/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Meteor
 Architecture: iphoneos-arm
 Version: 1.0.01
