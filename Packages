@@ -1764,6 +1764,30 @@ Icon: file:///Applications/Cydia.app/Sections/t.png
 
 Package: HoangDinhPhong.Mars
 Architecture: iphoneos-arm
+Version: 1.0.013
+Section: Widget động
+Maintainer: Hoàng Đình Phong
+Depends: hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Mars_1.0.013_iphoneos-arm.deb
+Size: 146294
+MD5sum: 32295b99a5ec84e49e65bcbcbb56d085
+SHA1: 05e8a4cbeab901bdb929e27376c68221db126421
+SHA256: f87b6fbb4f3103db95e91f166c9065c83d7e2c10fb941f0a85ab8e277d835cbd
+SHA512: 1ee7ac8cc82693c57f6db0f7043be131170c77f6185f4c218df00b7fc8213d01ce6941654a0b5c743e53b3f5d87ec1ecfccdbcf77c558d3ed50873260ddca3fa
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính & Màn hình khoá
+ - Nội dung hiển thị: Đồng hồ, lịch & thời tiết.
+ + 1.0.013: Sửa lỗi không tải được gói Fonts cho Sileo
+ + 1.0.0: Lần đầu phát hành
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Mars
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Mars/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Mars/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.Mars
+Architecture: iphoneos-arm
 Version: 1.0.0
 Section: Widget động
 Maintainer: Hoàng Đình Phong
