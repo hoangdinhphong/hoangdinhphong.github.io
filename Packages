@@ -1856,16 +1856,16 @@ Icon: file:///Applications/Cydia.app/Sections/w.png
 
 Package: HoangDinhPhong.MuDark
 Architecture: iphoneos-arm
-Version: 1.0.7
+Version: 1.0.70
 Section: Widget động
 Maintainer: Hoàng Đình Phong
 Depends: hoangdinhphong.fonts
-Filename: ./Deb/HoangDinhPhong.MuDark_1.0.7_iphoneos-arm.deb
+Filename: ./Deb/HoangDinhPhong.MuDark_1.0.70_iphoneos-arm.deb
 Size: 14604662
-MD5sum: ff97ff78366171e2e3b65fb20a6392c8
-SHA1: a2e099cca901b43f1bae8ddc14411fa5cac71583
-SHA256: e52c5c2384bdde060c73493c458694ff86ea4c55258f7dc5b8898eb8167f8502
-SHA512: 62af8e77cf11405d5e8bc208c05f4f0b5cbfcd20eb9ca575acddef234ece38b05253e6681d7aa7273a67198d0cbf33c06da32a62598c16ad29e736f278893241
+MD5sum: 83efe719e28f390e9e2c8e5079e4849f
+SHA1: b416cab143035549a4421c71af967ba166afc42c
+SHA256: 8971a378a88d86b17fd8379cc81e26afe40ba5c615ce6c622bef2d80945c0ba8
+SHA512: d717aa9fdc731df308efe4e3e965b7d9af2e4ff911f9e9d842fcbf9afddd595894f99968a533abbf944ad5e42f40eea6720437f34e76ee0b43147113d1caac22
 Description: Tiện ích dành cho Xen Html.
  - Hoạt động trên Màn hình chính
  - Nội dung hiển thị: Lịch. Thời tiết. Trình phát nhạc & Pin
