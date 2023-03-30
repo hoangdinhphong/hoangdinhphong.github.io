@@ -2606,6 +2606,27 @@ Depiction: http://hoangdinhphong.github.io/Info/StatusBarWeather/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/StatusBarWeather/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.SymbianBelle
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Themes
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.SymbianBelle_1.0.0_iphoneos-arm.deb
+Size: 2675664
+MD5sum: 03dcf47481acc12be3b20e3daac414cf
+SHA1: 2a12b75c8cf6cd504c80f855720aa6a3a681bb04
+SHA256: 911596e1637d92515b064a3e3f589f7c2e5b83cfb18e9a1e0204426c4a64a981
+SHA512: 8c0ff2844117d1cf9c0fee829012e4495191b611ce1656170715a0a6f740366274ded149042ebb81224116c1f38c5c85498fd309159acda982a13b150da51265
+Description: Chủ đề theo Nokia N9.
+ - Hoạt động trên Snowboard, iTheme,...
+ - Tổng 146 biểu tượng
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Symbian Belle
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/SymbianBelle/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/SymbianBelle/?p=info
+Icon: file:///Applications/Cydia.app/Sections/th.png
+
 Package: HoangDinhPhong.SystemInfo
 Architecture: iphoneos-arm
 Version: 2.7.2-2
