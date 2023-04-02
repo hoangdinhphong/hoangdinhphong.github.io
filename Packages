@@ -2186,6 +2186,29 @@ Depiction: http://hoangdinhphong.github.io/Info/PicoBanners/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/PicoBanners/?p=info
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.PicoBanners
+Architecture: iphoneos-arm
+Version: 0.0.1b2-9
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>= 12.0), firmware (<= 12.5.7), mobilesubstrate
+Filename: ./Deb/HoangDinhPhong.PicoBanners_0.0.1b2-9_iphoneos-arm.deb
+Size: 72798
+MD5sum: 1f7ee2c27a5bc0f41f7f0979aeaca226
+SHA1: c128014704f40cc81acc4fd1d71c7226e8694150
+SHA256: 39be5a96a5c432d6a66f7fa65b6582d1452fe9c053aa709c6fc14db6a53fc1f9
+SHA512: 97ecb3293f2d615d330c8e7bc0160e6aa3a344098dbef44efdc0f090390c511c8276d3bc805ebae0a6f5fb68389451cced99c75f295bdb31d6a67daba9f50951
+Description: Thu nhỏ thanh thông báo trên màn hình chính và trong ứng dụng
+ - Hỗ trợ riêng cho iOS 12.0 - 12.5.7
+ - Không có tuỳ chỉnh trong cài đặt
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: PicoBanners
+Author: Michele Primavera
+Depiction: http://hoangdinhphong.github.io/Info/PicoBanners/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/PicoBanners/?p=info
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
 Package: HoangDinhPhong.Plane
 Architecture: iphoneos-arm
 Version: 1.0.01
