@@ -541,6 +541,28 @@ Depiction: http://hoangdinhphong.github.io/Info/AprilTTP/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/AprilTTP/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.AutoBrightness
+Architecture: iphoneos-arm
+Version: 0.1-6
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Pre-Depends: firmware (>= 11.0)
+Depends: com.opa334.ccsupport
+Filename: ./Deb/HoangDinhPhong.AutoBrightness_0.1-6_iphoneos-arm.deb
+Size: 17972
+MD5sum: 0d4ca7866ba8a13d64542a81397b5d14
+SHA1: 9171632f79c810856dbd950ff26da857fc92f4b7
+SHA256: d64e55320643f3aa82053eccf0aa8b35389c3d4f4d42023a387ec507f665166c
+SHA512: 585b22e2c40cde3eb271160b46cca75738477b7d298cf33454e99aaf93ae002b369eeecc89091f364328a2e010ba3a86d8200d03b40dbc6def24cd12d412738e
+Description: Bật/Tắt Độ sáng tự động trong trung tâm điều khiển.
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Name: AutoBrightnessToggle
+Author: Ichitaso
+Depiction: http://hoangdinhphong.github.io/Info/AutoBrightness/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/AutoBrightness/?p=info
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
 Package: HoangDinhPhong.BigAnalog
 Architecture: iphoneos-arm
 Version: 1.6.0
