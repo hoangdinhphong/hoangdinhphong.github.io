@@ -543,17 +543,17 @@ Icon: file:///Applications/Cydia.app/Sections/w.png
 
 Package: HoangDinhPhong.AutoBrightness
 Architecture: iphoneos-arm
-Version: 0.1-6
+Version: 0.1-7
 Section: Tweaks
 Maintainer: Hoàng Đình Phong
 Pre-Depends: firmware (>= 11.0)
 Depends: com.opa334.ccsupport
-Filename: ./Deb/HoangDinhPhong.AutoBrightness_0.1-6_iphoneos-arm.deb
-Size: 17972
-MD5sum: 0d4ca7866ba8a13d64542a81397b5d14
-SHA1: 9171632f79c810856dbd950ff26da857fc92f4b7
-SHA256: d64e55320643f3aa82053eccf0aa8b35389c3d4f4d42023a387ec507f665166c
-SHA512: 585b22e2c40cde3eb271160b46cca75738477b7d298cf33454e99aaf93ae002b369eeecc89091f364328a2e010ba3a86d8200d03b40dbc6def24cd12d412738e
+Filename: ./Deb/HoangDinhPhong.AutoBrightness_0.1-7_iphoneos-arm.deb
+Size: 17602
+MD5sum: 62dd01da37394130abd2914b19b6affd
+SHA1: f9d604ad5771de44690d79e3c5147711fbe5d0aa
+SHA256: 26ea4c43d4be66403b73dc6fbc010f5642ad7e88758b4237da5d787601502fb4
+SHA512: 031ad9654bb9631f2a4dff5fdbb431753617e616d85053767e6332c1a3da7f2039d05fa09f7fa8d7aa68fe78c92a57b30987b0de04d34408f3690b2f1d15eda6
 Description: Bật/Tắt Độ sáng tự động trong trung tâm điều khiển.
  - Ủng hộ tôi để phát triển mạnh hơn 👌
 Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
