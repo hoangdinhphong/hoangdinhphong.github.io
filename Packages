@@ -1634,6 +1634,30 @@ Depiction: http://hoangdinhphong.github.io/Info/Joyous/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/Joyous/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Joyous
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Depends: hoangdinhphong.fonts
+Filename: ./Deb/HoangDinhPhong.Joyous_1.0.1_iphoneos-arm.deb
+Size: 25084640
+MD5sum: 7ea43aeb2d7d6d287db0e50c0a9128ac
+SHA1: 8de2ac8f7703e5ca23dd9a9ccc68a3d311b29bda
+SHA256: 27eb004c42afc0ea7f76a5df2f197cdb0d19ffad9487e8dd731c803a5e13e521
+SHA512: 252864eb44b214e7189cb6374e1da99c3b38d345384b5e9904297b77f8eb341cbe7be366c8f350af1163a2c7cd53043c26c4ca400225391478195e5de832dee9
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính
+ - Nội dung hiển thị: Lịch & Thời tiết
+ - Cập nhật: Thêm tuỳ chỉnh vị trí Lịch
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Joyous
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Joyous/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Joyous/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Juno
 Architecture: iphoneos-arm
 Version: 422
