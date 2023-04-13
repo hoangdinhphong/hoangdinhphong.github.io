@@ -2617,6 +2617,29 @@ Depiction: http://hoangdinhphong.github.io/Info/SnowBoard/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/SnowBoard/?p=info
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.SnowFlake
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widget động
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.SnowFlake_1.0.0_iphoneos-arm.deb
+Size: 85108
+MD5sum: 1c6f313c021384f9d5c8fa452fce5868
+SHA1: b0db3a46ca0c67d54a7edc0d60fd69b1d8e804a9
+SHA256: ecf1b5efef03396b7f10880a9369636fe44a4b51b200fe9a1a78b126823112d6
+SHA512: 8e1520e89990689d6398edb09a04ea52406deeceb004cace53feb5dd8b2afad807b858437af935479c38f60f98c58837e4dfcc8b1acf2a321eba1542252425cd
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính & Màn hình khoá
+ - Nội dung hiển thị: Bông tuyết rơi
+ - Lần đầu phát hành
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: SnowFlake
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/SnowFlake/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/SnowFlake/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.SourceIconHDP
 Architecture: iphoneos-arm
 Version: 1.0.2
