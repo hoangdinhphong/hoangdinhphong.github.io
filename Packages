@@ -1569,6 +1569,32 @@ Depiction: http://hoangdinhphong.github.io/Info/Ice/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/Ice/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Ice
+Architecture: iphoneos-arm
+Version: 1.0.36
+Section: Widget tĩnh
+Maintainer: Hoàng Đình Phong
+Depends: HoangDinhPhong.Fonts
+Filename: ./Deb/HoangDinhPhong.Ice_1.0.36_iphoneos-arm.deb
+Size: 1382316
+MD5sum: acd09d8740e1229351f620880203fac9
+SHA1: 128e5bc3a9c6dd68c8b757c825553dc7f735d998
+SHA256: bfe44757e576490eb62f47362c4aaf990a50c0b26d836188f78c9a256a25d9ea
+SHA512: 00ee2c95394f2ff743b38c3d1848de065bc81c54535eea7401ff949383a79c817b07ae8c4087f1f3e1d0d7bebbbb0f0c9fa84dd83a9caa8b4bfa76f3f8e30be8
+Description: Tiện ích dành cho Xen Html.
+ - Hoạt động trên Màn hình chính & Màn hình khoá
+ - Nội dung hiển thị: Đồng hồ, lịch, thời tiết, nhạc & pin.
+ + 1.0.36: Trang trí thêm cho vòng tròn, thêm hiệu ứng cho đồng hồ & thay đổi chỉ báo khi sạc pin
+ + 1.0.31: Thay đổi một số thành phần & làm đẹp hơn
+ + 1.0.23: Sửa lỗi mất nền & căn chỉnh lại một số thành phần bị lệch
+ + 1.0.0: Lần đầu phát hành
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Ice
+Author: Hoàng Đình Phong
+Depiction: http://hoangdinhphong.github.io/Info/Ice/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/Ice/?p=info
+Icon: file:///Applications/Cydia.app/Sections/w.png
+
 Package: HoangDinhPhong.Infinity
 Architecture: iphoneos-arm
 Version: 2.0.4
