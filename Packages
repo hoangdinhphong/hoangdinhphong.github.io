@@ -1,21 +1,3 @@
-Package: HoangDinhPhong.iPhoneRemix
-Architecture: iphoneos-arm
-Version: 0.0.1
-Section: Sound
-Maintainer: Hoàng Đình Phong
-Depends: HoangDinhPhong.RingManager
-Filename: ./Deb/HoangDinhPhong. iPhoneRemix _0.01_ iphoneos-arm.deb
-Size: 424660
-MD5sum: e60d3b6876eb32c8dff98c1c420307a8
-SHA1: 703413e9d1fd841929252f6d743f78ab12821531
-SHA256: 56b60b3b8c3f61b58284ce9313b4c4e4d00342914d855e1d1a8f4441dca466c6
-SHA512: 4fb68d946ee896942d5b7b0b19ea5bf718a57717859cbb1a48487ceb4240e943b9845383bba6d27495edacfb9ab8f331c5153d390822a9f4a87865c770aa1d42
-Description: Nhạc chuông hay.
- - Ủng hộ tôi để phát triển mạnh hơn 👌
-Name: iPhone Remix
-Author: Hoàng Đình Phong
-Icon: file:///Applications/Cydia.app/Sections/r.png
-
 Package: HoangDinhPhong.ActivatorVietNam
 Architecture: iphoneos-arm
 Version: 1.9.13
@@ -350,6 +332,25 @@ Depiction: http://hoangdinhphong.github.io/Info/AlertController/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/AlertController/?p=info
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.Allrise
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Nhạc chuông
+Maintainer: Hoàng Đình Phong
+Depends: HoangDinhPhong.RingManager
+Filename: ./Deb/HoangDinhPhong.Allrise_0.0.1_iphoneos-arm.deb
+Size: 256132
+MD5sum: e558b12aae78221f532875ddc231b1c6
+SHA1: 05877ac8b8d603fc2c3672a4b22bf66c19c0d59d
+SHA256: fd5dc07f2bfe136581cd8d5f246777ed35415491b160f19e8fd1f9d83c73edb1
+SHA512: 0e221b409e5c1edcb9fa6cb448f33dfd4c51ef55a06cafe6ffeebedf1f052b8274272ea18e263501cd7a97ed2e36142ee4497b3b5f8e5b72368ff489255faac7
+Description: Nhạc chuông
+ - Nhạc chuông nước ngoài
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Allrise
+Author: Blue
+Icon: file:///Applications/Cydia.app/Sections/r.png
+
 Package: HoangDinhPhong.AmLichVaDanhNgon
 Architecture: iphoneos-arm
 Version: 1.8.8-1
@@ -580,6 +581,25 @@ Author: Ichitaso
 Depiction: http://hoangdinhphong.github.io/Info/AutoBrightness/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/AutoBrightness/?p=info
 Icon: file:///Applications/Cydia.app/Sections/t.png
+
+Package: HoangDinhPhong.BabyOneMoreTime
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Nhạc chuông
+Maintainer: Hoàng Đình Phong
+Depends: HoangDinhPhong.RingManager
+Filename: ./Deb/HoangDinhPhong.BabyOneMoreTime_0.0.1_iphoneos-arm.deb
+Size: 253562
+MD5sum: 0d71fffd49aa01d163d078feddcee666
+SHA1: 3428a4a87eb807cac63681b82485ab64fd0fdbc1
+SHA256: 9d337da3178e08c00b7e4df2f3a51683c1ee0046592628f171afa6bb59641b06
+SHA512: f573d55ff4e03a15ae83488562f172ef5c103cd213b05afc66cf3f6d0d05c2cf85fb68a11bc34a99fd55113d44327a6e3213daa5bcca0d3acabacf834b144c7b
+Description: Nhạc chuông
+ - Nhạc chuông nước ngoài
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Baby one more time
+Author: Britney Spears
+Icon: file:///Applications/Cydia.app/Sections/r.png
 
 Package: HoangDinhPhong.BigAnalog
 Architecture: iphoneos-arm
@@ -839,6 +859,44 @@ Depiction: http://hoangdinhphong.github.io/Info/Cover/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/Cover/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Crimimal
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Nhạc chuông
+Maintainer: Hoàng Đình Phong
+Depends: HoangDinhPhong.RingManager
+Filename: ./Deb/HoangDinhPhong.Crimimal_0.0.1_iphoneos-arm.deb
+Size: 259392
+MD5sum: 07459201ddfa6818ad6d575cd9c70125
+SHA1: 409a12ed0ac53912c0689203e78a0b84d6558309
+SHA256: 9f4876673867312336a25d453b66ed1057af268d1158e71185381168179687d8
+SHA512: 42895e15fc62ad6023e58513b5daaf75c86649cca6b2f68c1a6af67c4b5456e06de49921e8907bc00866fa5323ff36bfb7b53106ac920f47bd10e4d3ec17695a
+Description: Nhạc chuông
+ - Nhạc chuông nước ngoài
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Crimimal
+Author: Britney Spears
+Icon: file:///Applications/Cydia.app/Sections/r.png
+
+Package: HoangDinhPhong.CuVoiVang
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Nhạc chuông
+Maintainer: Hoàng Đình Phong
+Depends: HoangDinhPhong.RingManager
+Filename: ./Deb/HoangDinhPhong.CuVoiVang_0.0.1_iphoneos-arm.deb
+Size: 353810
+MD5sum: a1f46b934452534732bfa9317e15d8e0
+SHA1: ceaa9dbf1f772d682aafd0d105124d697c021a87
+SHA256: c115cfcf9beb5aa23b8a31afc2d532a3dbf758bcc1dbff2d9dde173c3d433deb
+SHA512: 0c8ecf47ed3dc6d1349fbdb47102fd740cbedeaa953bb486c7953396fcd2c36e3f1a19f9a013404d849810ad72e9245af745389e5c5b3b8b43428d99f10f86df
+Description: Nhạc chuông
+ - Nhạc chuông Việt Nam
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Cứ vội vàng
+Author: Rô Ti
+Icon: file:///Applications/Cydia.app/Sections/r.png
+
 Package: HoangDinhPhong.Cydown
 Architecture: iphoneos-arm
 Version: 7.1.1
@@ -1001,6 +1059,25 @@ Author: Hoàng Đình Phong
 Depiction: http://hoangdinhphong.github.io/Info/EdwartPro/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/EdwartPro/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.EmGaiMua
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Nhạc chuông
+Maintainer: Hoàng Đình Phong
+Depends: HoangDinhPhong.RingManager
+Filename: ./Deb/HoangDinhPhong.EmGaiMua_0.0.1_iphoneos-arm.deb
+Size: 204730
+MD5sum: 7dcb267ca71b74c291e9fe34b0a62074
+SHA1: ebc57d595195c0d992277616be563242a8aee6c7
+SHA256: 64a6a94a8287d33d34009df4a6e6462892810d01c3dd98fd8f0f3e4d9f8da6a9
+SHA512: 46fa42ccc63e1be8ca385b6852b9692258bea4a6e73ce62d345a4dadcc19494d509a4e6853ad9a592d2ce587105297aabb643ac2fe74588af4f2a20efd2cd5d9
+Description: Nhạc chuông
+ - Nhạc chuông Việt Nam
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Em gái mưa
+Author: Hương Tràm
+Icon: file:///Applications/Cydia.app/Sections/r.png
 
 Package: HoangDinhPhong.ExtraCGP
 Architecture: iphoneos-arm
@@ -1278,6 +1355,25 @@ Author: Hoàng Đình Phong
 Depiction: http://hoangdinhphong.github.io/Info/FutureWeather/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/FutureWeather/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.GiaVoThuongAnhDuocKhong
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Nhạc chuông
+Maintainer: Hoàng Đình Phong
+Depends: HoangDinhPhong.RingManager
+Filename: ./Deb/HoangDinhPhong.GiaVoThuongAnhDuocKhong_0.0.1_iphoneos-arm.deb
+Size: 254672
+MD5sum: a123b782413f3f3552e2726900ddd974
+SHA1: 1ff1cb74e6036f4f69a26ca59799985bf17295b3
+SHA256: 892d6d9908b3d75a124c596b28ce2084c1a1ca8d1c4af13455bc4cd7e15e2eee
+SHA512: beb192906216fb298b911d9360d52b0aa4baa4d2cb231e5341322e83185e28d464644d9e79b447fdb8b24147cbeedd872cdb1f87cb68eca71f8c30b3ea0af96c
+Description: Nhạc chuông
+ - Nhạc chuông Việt Nam
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Giả vờ thương anh được không
+Author: Chu Bin
+Icon: file:///Applications/Cydia.app/Sections/r.png
 
 Package: HoangDinhPhong.HDPJuly
 Architecture: iphoneos-arm
@@ -2017,6 +2113,25 @@ Depiction: http://hoangdinhphong.github.io/Info/MuDark/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/MuDark/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.MyLove
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Nhạc chuông
+Maintainer: Hoàng Đình Phong
+Depends: HoangDinhPhong.RingManager
+Filename: ./Deb/HoangDinhPhong.MyLove_0.0.1_iphoneos-arm.deb
+Size: 255150
+MD5sum: cc7e193088a3843034fd89fac5436582
+SHA1: f0ddaa2f26c97dfa37696dd3bd431a73532b76cd
+SHA256: d694d01c0ee1c0c1269bbe07dc5530d3beb4683939785bcd460b4b66e5d5e893
+SHA512: baab11168cadd204bfa4a1fe49c5c2cbb8844dbb94095e416f70b0b7b14409d4524da500534b0d5d4253624d9df081a142a271afe57a59241f5652ea35182ca4
+Description: Nhạc chuông
+ - Nhạc chuông nước ngoài
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: My love
+Author: Westlife
+Icon: file:///Applications/Cydia.app/Sections/r.png
+
 Package: HoangDinhPhong.NanoBanners
 Architecture: iphoneos-arm
 Version: 1.1.1
@@ -2084,6 +2199,25 @@ Author: Hoàng Đình Phong
 Depiction: http://hoangdinhphong.github.io/Info/Neon/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/Neon/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.NgamHoaLeRoi
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Nhạc chuông
+Maintainer: Hoàng Đình Phong
+Depends: HoangDinhPhong.RingManager
+Filename: ./Deb/HoangDinhPhong.NgamHoaLeRoi_0.0.1_iphoneos-arm.deb
+Size: 241876
+MD5sum: 009748828b9f4c912162ae3abb05f8dc
+SHA1: b64f878aa2dc06036d440cff22fd4c90e1fa9e93
+SHA256: ff63ab5e16c566b539cd757ea3269741ce34ef3c859adc021600eb89117ae70c
+SHA512: 32476a9f2758f46aef5c147864741caaaa7a54bdb30c4438eedc345a3644f46413df638ddb9d55540068420b99dbe095eff7432b156a8443677148a9fdbdc89c
+Description: Nhạc chuông
+ - Nhạc chuông Việt Nam
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Ngắm hoa lệ rơi
+Author: Ưng Hoàng Phúc
+Icon: file:///Applications/Cydia.app/Sections/r.png
 
 Package: HoangDinhPhong.NiceBarX13VN
 Architecture: iphoneos-arm
@@ -3061,6 +3195,25 @@ Depiction: http://hoangdinhphong.github.io/Info/Tranquility/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/Tranquility/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.UntilYou
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Nhạc chuông
+Maintainer: Hoàng Đình Phong
+Depends: HoangDinhPhong.RingManager
+Filename: ./Deb/HoangDinhPhong.UntilYou_0.0.1_iphoneos-arm.deb
+Size: 207614
+MD5sum: de93064e128a5df683214a3d6e47f23b
+SHA1: 2f4358efdbbeb0ceb489fe77f78386e19a84720a
+SHA256: 6498d066ce3a1f9472291ce871afc71456941ca4fb20a03d6b7068ab1a519e2d
+SHA512: 4c99881249a8ee9eaca7d672756acfbf20c73e35e394b26fea0de30027cd966202e10b3b0a2f84acd506a43d9322450429bca5d20254770c0c90807ba850812a
+Description: Nhạc chuông
+ - Nhạc chuông nước ngoài
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Until you
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/r.png
+
 Package: HoangDinhPhong.Venus
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -3193,6 +3346,25 @@ Depiction: http://hoangdinhphong.github.io/Info/XenHTML/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/XenHTML/?p=info
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.XinDungLangIm
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Nhạc chuông
+Maintainer: Hoàng Đình Phong
+Depends: HoangDinhPhong.RingManager
+Filename: ./Deb/HoangDinhPhong.XinDungLangIm_0.0.1_iphoneos-arm.deb
+Size: 244574
+MD5sum: 266006b915f78f944ff6c0a4685aacba
+SHA1: 1e23c7d0dd72f49f7c42be9609f2b65fffa0aa8a
+SHA256: 1ab0b21d7a6302632a4a59031b200f65c3f7a9add6bd4af19f616cb57f8ec9e5
+SHA512: 7ff378f558198ff9a69eea5ec5e42c994208d3df566ba1f258e0422cea4f5428dfd5753ac0c67e81ffb29dcc17c16a26233f398b08ed8c49a30f8fb8cc8e141b
+Description: Nhạc chuông
+ - Nhạc chuông Việt Nam
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Xin đừng lặng im
+Author: Soobin Hoàng Sơn
+Icon: file:///Applications/Cydia.app/Sections/r.png
+
 Package: HoangDinhPhong.Ybht
 Architecture: iphoneos-arm
 Version: 1.0.6
@@ -3285,6 +3457,25 @@ Author: Hoàng Đình Phong
 Depiction: http://hoangdinhphong.github.io/Info/iClock/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/iClock/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
+
+Package: HoangDinhPhong.iPhoneRemix
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Nhạc chuông
+Maintainer: Hoàng Đình Phong
+Depends: HoangDinhPhong.RingManager
+Filename: ./Deb/HoangDinhPhong.iPhoneRemix_0.0.2_iphoneos-arm.deb
+Size: 424680
+MD5sum: d6f3cb8f5e88b44b36f77f1e2578caa7
+SHA1: 9c0b722b69ca0a0670fd5746bde5bd5d16b1380b
+SHA256: b4694776c6fbfd85f8ff2352589049a4d1416b276f995666495ab83fffb878f6
+SHA512: c43c3c3d5e7b16133cc42027dabc8f7095438c07c17aebc61c9b80488ca422674a276395ded4f9e65ad30cb9fbd88433e400ec8690ffe5bb35280bea515d4394
+Description: Nhạc chuông
+ - Nhạc chuông nước ngoài
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: iPhone remix
+Author: Apple
+Icon: file:///Applications/Cydia.app/Sections/r.png
 
 Package: HoangDinhPhong.libPDDokdo
 Architecture: iphoneos-arm
