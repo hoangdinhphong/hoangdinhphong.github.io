@@ -3197,21 +3197,21 @@ Icon: file:///Applications/Cydia.app/Sections/w.png
 
 Package: HoangDinhPhong.UntilYou
 Architecture: iphoneos-arm
-Version: 0.0.1
+Version: 0.0.2
 Section: Nhạc chuông
 Maintainer: Hoàng Đình Phong
 Depends: HoangDinhPhong.RingManager
-Filename: ./Deb/HoangDinhPhong.UntilYou_0.0.1_iphoneos-arm.deb
-Size: 207614
-MD5sum: de93064e128a5df683214a3d6e47f23b
-SHA1: 2f4358efdbbeb0ceb489fe77f78386e19a84720a
-SHA256: 6498d066ce3a1f9472291ce871afc71456941ca4fb20a03d6b7068ab1a519e2d
-SHA512: 4c99881249a8ee9eaca7d672756acfbf20c73e35e394b26fea0de30027cd966202e10b3b0a2f84acd506a43d9322450429bca5d20254770c0c90807ba850812a
+Filename: ./Deb/HoangDinhPhong.UntilYou_0.0.2_iphoneos-arm.deb
+Size: 207618
+MD5sum: 9fc375d75c7284d363f7bb6f43fa45f9
+SHA1: 47b91d1e16fa86353a453f590ea35ef8bf259598
+SHA256: 53e2a739ba3bfe8626151eddfe350bdcb5fb64ea07c61efbb15a75426b711159
+SHA512: a0a99572d9d17f3993b1949dd93e36cb7e14e47b9c91d610c105d72ed3fcb6f5b55a027b81a8b6b00063ca59e2da8dfef1557bd85c8c7940aaef3b0a0201f3d2
 Description: Nhạc chuông
  - Nhạc chuông nước ngoài
  - Ủng hộ tôi để phát triển mạnh hơn 👌
 Name: Until you
-Author: Hoàng Đình Phong
+Author: Shayne Ward
 Icon: file:///Applications/Cydia.app/Sections/r.png
 
 Package: HoangDinhPhong.Venus
