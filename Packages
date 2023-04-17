@@ -1,3 +1,21 @@
+Package: HoangDinhPhong.iPhoneRemix
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Sound
+Maintainer: Hoàng Đình Phong
+Depends: HoangDinhPhong.RingManager
+Filename: ./Deb/HoangDinhPhong. iPhoneRemix _0.01_ iphoneos-arm.deb
+Size: 424660
+MD5sum: e60d3b6876eb32c8dff98c1c420307a8
+SHA1: 703413e9d1fd841929252f6d743f78ab12821531
+SHA256: 56b60b3b8c3f61b58284ce9313b4c4e4d00342914d855e1d1a8f4441dca466c6
+SHA512: 4fb68d946ee896942d5b7b0b19ea5bf718a57717859cbb1a48487ceb4240e943b9845383bba6d27495edacfb9ab8f331c5153d390822a9f4a87865c770aa1d42
+Description: Nhạc chuông hay.
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: iPhone Remix
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/r.png
+
 Package: HoangDinhPhong.ActivatorVietNam
 Architecture: iphoneos-arm
 Version: 1.9.13
@@ -2374,6 +2392,27 @@ Depiction: http://hoangdinhphong.github.io/Info/Pyramid/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/Pyramid/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.RingManager
+Architecture: iphoneos-arm
+Version: 1.0.0-2
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: firmware (>= 7.0), mobilesubstrate
+Conflicts: com.cydia.love.toneenabler,com.cydiavip.toneenabler,cn.yttxcs.toneenabler,com.wxhbts.toneenabler,com.cydiami.toneenabler,apt.cydiakk.toneenabler,com.abcydia.toneenabler
+Filename: ./Deb/HoangDinhPhong.RingManager _1.0.0-2_iphoneos-arm.deb
+Size: 200208
+MD5sum: 8ef2f21aea55475c7c59886ae490a828
+SHA1: 0bca22278694d7084862101bea21ca3aee8ef469
+SHA256: 6acb564969175d776048cd7df9c22eeb04c9957feb87f221e590263f3c0c3d09
+SHA512: af4bc81ed00f969c643424bc22c61e2e2c58968071977ee0e2b576474018513ab3632ee4589cc80dacca2703a9c224295eb71297db7fbabae5b4ec0fe9db1160
+Description: Tiện ích hỗ trợ cài đặt nhạc chuông.
+ - Hỗ trợ từ iOS 7 đến iOS 13. iOS khác chưa được thử nghiệm
+ - Không có thiết lập trong cài đặt
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: RingManager
+Author: MacOS
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
 Package: HoangDinhPhong.ScreenRecordingWithSound
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -2703,6 +2742,23 @@ MD5sum: 4fc638b050912161d625e6361f4d2127
 SHA1: 9096f9d1c109c5e100efd17ffba4903041ed25d4
 SHA256: cb9ab5e3a0cb4b6f1db50dbd25e8a72aeeac7b5be550ee2eb76019b8b6448595
 SHA512: 3abd11e13fbdae6213a8a5d96662d4d69802b80430935163ac77e02437e12bc73412f07f40d839c27de749d30e67c4646c5f08d06c67aeaf2be3ddfd85f9cb43
+Description: Gói biểu tượng cho nguồn Hoàng Đình Phong
+Name: SourceIconHDP
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/s.png
+
+Package: HoangDinhPhong.SourceIconHDP
+Architecture: iphoneos-arm
+Version: 1.0.3
+Essential: yes
+Section: System
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.SourceIconHDP_1.0.3_iphoneos-arm.deb
+Size: 105852
+MD5sum: a00c1f90fba5dd0ac46f727589a813a8
+SHA1: 877139591d54cbf924736a17a9495c04ef0aa24f
+SHA256: c414dc80d6b6c8b3ef52e8fb0d9dfe0cc283377b42def02bb064b9269d29ed0f
+SHA512: 6f3d16718d83aafad13c8b6a29a39ca404440d63489a3fa66b48a2dc4f0f6b02be2cd8f05c09456199368a2e478aaad56629589f639dc29383eaed54d832501a
 Description: Gói biểu tượng cho nguồn Hoàng Đình Phong
 Name: SourceIconHDP
 Author: Hoàng Đình Phong
