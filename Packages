@@ -2528,16 +2528,16 @@ Icon: file:///Applications/Cydia.app/Sections/w.png
 
 Package: HoangDinhPhong.RingManager
 Architecture: iphoneos-arm
-Version: 1.0.0-3
+Version: 1.0.0-4
 Section: Tweaks
 Maintainer: Hoàng Đình Phong
 Depends: firmware (>= 7.0), mobilesubstrate
-Filename: ./Deb/HoangDinhPhong.RingManager_1.0.0-3_iphoneos-arm.deb
-Size: 200130
-MD5sum: 2d825e1ea85dcf9afa07ea3ae18aca91
-SHA1: 6a326530f6fbae25046a6c08f07e125de5207277
-SHA256: 7c70e9ebc74f45b5c52f1a290d22c860d5ddb142bf9e271be3874a03618882bd
-SHA512: 9a8dcc80a352b991ef6636ab67fd99b878051e9b5a697db1e4fb9bc91d2a4533cfe1017f94773a8fc12834be7d90b25ce69b41cb86c8c3318c7f22f474281fdb
+Filename: ./Deb/HoangDinhPhong.RingManager_1.0.0-4_iphoneos-arm.deb
+Size: 200090
+MD5sum: a88b3287c53460b6de685e939a5aa4b1
+SHA1: 19f0ce091299ba45b4bcaca1b858680031e6f11b
+SHA256: eb54576c2b932a6279badb2f666145d21287acbc8e32fcf8bdd3704ecf7fc4ff
+SHA512: edf7bd1062397d6f0e5fa4d6d4bc903e6b7224b31386fa2edfd81f460fc01228939d3451ea2468e3815c61e4b7ed5a7c88ad477f77b0bcf7a19d513b201f16ad
 Description: Tiện ích hỗ trợ cài đặt nhạc chuông.
  - Hỗ trợ từ iOS 7 đến iOS 13. iOS khác chưa được thử nghiệm
  - Không có thiết lập trong cài đặt
