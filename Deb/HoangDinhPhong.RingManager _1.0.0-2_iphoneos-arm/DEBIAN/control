@@ -1,0 +1,13 @@
+Package: HoangDinhPhong.RingManager
+Name: RingManager
+Architecture: iphoneos-arm
+Depends: firmware (>= 7.0), mobilesubstrate
+Description: Tiện ích hỗ trợ cài đặt nhạc chuông.
+ - Hỗ trợ từ iOS 7 đến iOS 13. iOS khác chưa được thử nghiệm
+ - Không có thiết lập trong cài đặt
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Maintainer: Hoàng Đình Phong
+Author: MacOS
+Section: Tweaks
+Version: 1.0.0-3
+Icon: file:///Applications/Cydia.app/Sections/t.png

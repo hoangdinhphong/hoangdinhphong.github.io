@@ -1,0 +1,15 @@
+#!/bin/bash
+
+if [ ! -d "/Library/Ringtones/" ];then
+mkdir /Library/Ringtones
+else
+echo "Thư viện nhạc chuông đã có và không cần tạo"
+fi
+ln -s /Library/Ringtones /User/Documents/RingManager
+uicache
+declare -a cydia
+cydia=($CYDIA)
+if [[ ${CYDIA+@} ]]; then
+    eval "echo 'finish:restart' >&${cydia[0]}"
+fi
+exit 0

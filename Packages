@@ -2528,17 +2528,16 @@ Icon: file:///Applications/Cydia.app/Sections/w.png
 
 Package: HoangDinhPhong.RingManager
 Architecture: iphoneos-arm
-Version: 1.0.0-2
+Version: 1.0.0-3
 Section: Tweaks
 Maintainer: Hoàng Đình Phong
 Depends: firmware (>= 7.0), mobilesubstrate
-Conflicts: com.cydia.love.toneenabler,com.cydiavip.toneenabler,cn.yttxcs.toneenabler,com.wxhbts.toneenabler,com.cydiami.toneenabler,apt.cydiakk.toneenabler,com.abcydia.toneenabler
-Filename: ./Deb/HoangDinhPhong.RingManager _1.0.0-2_iphoneos-arm.deb
-Size: 200208
-MD5sum: 8ef2f21aea55475c7c59886ae490a828
-SHA1: 0bca22278694d7084862101bea21ca3aee8ef469
-SHA256: 6acb564969175d776048cd7df9c22eeb04c9957feb87f221e590263f3c0c3d09
-SHA512: af4bc81ed00f969c643424bc22c61e2e2c58968071977ee0e2b576474018513ab3632ee4589cc80dacca2703a9c224295eb71297db7fbabae5b4ec0fe9db1160
+Filename: ./Deb/HoangDinhPhong.RingManager_1.0.0-3_iphoneos-arm.deb
+Size: 200130
+MD5sum: 2d825e1ea85dcf9afa07ea3ae18aca91
+SHA1: 6a326530f6fbae25046a6c08f07e125de5207277
+SHA256: 7c70e9ebc74f45b5c52f1a290d22c860d5ddb142bf9e271be3874a03618882bd
+SHA512: 9a8dcc80a352b991ef6636ab67fd99b878051e9b5a697db1e4fb9bc91d2a4533cfe1017f94773a8fc12834be7d90b25ce69b41cb86c8c3318c7f22f474281fdb
 Description: Tiện ích hỗ trợ cài đặt nhạc chuông.
  - Hỗ trợ từ iOS 7 đến iOS 13. iOS khác chưa được thử nghiệm
  - Không có thiết lập trong cài đặt
