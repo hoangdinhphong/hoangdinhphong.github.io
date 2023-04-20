@@ -2219,6 +2219,25 @@ Name: Ngắm hoa lệ rơi
 Author: Ưng Hoàng Phúc
 Icon: file:///Applications/Cydia.app/Sections/r.png
 
+Package: HoangDinhPhong.NhuGioVoiMay
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Nhạc chuông
+Maintainer: Hoàng Đình Phong
+Depends: HoangDinhPhong.RingManager
+Filename: ./Deb/HoangDinhPhong.NhuGioVoiMay_0.0.1_iphoneos-arm.deb
+Size: 258680
+MD5sum: 1d8b761cf5895533674f93fed8e50363
+SHA1: 50465440d8c304a0af409d05fd00d18491ee2076
+SHA256: 3f959e913ffee465d14fe6219947ebb74b9a237ec8383b55e1924bf4d18a5e54
+SHA512: 5369eab932993d5e3a0e8d3d7fccb6405a6bf9b8748142afa5159581c853b73c7b7625f1c40421ef57a5eb213d936f2d181fac5cf5615e7c9385675e370704d0
+Description: Nhạc chuông
+ - Nhạc chuông Việt Nam
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Như gió với mây
+Author: Đình Đại Vũ
+Icon: file:///Applications/Cydia.app/Sections/r.png
+
 Package: HoangDinhPhong.NiceBarX13VN
 Architecture: iphoneos-arm
 Version: 1.0.2.5
@@ -2863,6 +2882,25 @@ Depiction: http://hoangdinhphong.github.io/Info/SnowFlake/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/SnowFlake/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.Soledad
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Nhạc chuông
+Maintainer: Hoàng Đình Phong
+Depends: HoangDinhPhong.RingManager
+Filename: ./Deb/HoangDinhPhong.Soledad_0.0.1_iphoneos-arm.deb
+Size: 260822
+MD5sum: 3a10c91cd7f68bc4c018682f45a23a93
+SHA1: 8407a3027b90662e5ac02f1cd22828e57220bdd9
+SHA256: 4ad5e3365fe33ba92cae45cd4901725ca9df86d0a049273bf5b42b357e3143c0
+SHA512: 8c19ec2f73530171463f801459d5f84c736696cda98392e948783b116b709e884e2827fc8eaea5a77b1bc16af60d60398b61848fde9902f76e95b7f12592fd99
+Description: Nhạc chuông
+ - Nhạc chuông nước ngoài
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Soledad
+Author: Westlife
+Icon: file:///Applications/Cydia.app/Sections/r.png
+
 Package: HoangDinhPhong.SourceIconHDP
 Architecture: iphoneos-arm
 Version: 1.0.2
@@ -3073,6 +3111,25 @@ Author: alex_png
 Depiction: http://hoangdinhphong.github.io/Info/TapMe/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/TapMe/?p=info
 Icon: file:///Applications/Cydia.app/Sections/t.png
+
+Package: HoangDinhPhong.ThaRangNhuTheRemix
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Nhạc chuông
+Maintainer: Hoàng Đình Phong
+Depends: HoangDinhPhong.RingManager
+Filename: ./Deb/HoangDinhPhong.ThaRangNhuTheRemix_0.0.1_iphoneos-arm.deb
+Size: 260594
+MD5sum: 72b96afc75975e01f733267dcc3de800
+SHA1: ad5187247e7671aea10b49833958fd05cc28fd4d
+SHA256: 66c832fc9ecd61c9f5b4acb4ffd71b3480b0d41bc136598fa33ed205ee5177e2
+SHA512: 5935373623ad201fda271922d368aa57f3e96291fb721041b2b464b1377c2c8b41329f34930b7acf3591dd79bd68adcde55400d329fac6fcee2e405f18b1cb0f
+Description: Nhạc chuông
+ - Nhạc chuông Việt Nam
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Thà rằng như thế (Remix)
+Author: Ưng Hoàng Phúc
+Icon: file:///Applications/Cydia.app/Sections/r.png
 
 Package: HoangDinhPhong.Tranquility
 Architecture: iphoneos-arm
