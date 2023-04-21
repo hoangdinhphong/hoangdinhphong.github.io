@@ -3043,6 +3043,28 @@ Depiction: http://hoangdinhphong.github.io/Info/SystemInfo/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/SystemInfo/?p=info
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.SystemInfo
+Architecture: iphoneos-arm
+Version: 2.7.2-3
+Section: Tweaks
+Maintainer: Hoàng Đình Phong
+Depends: mobilesubstrate
+Filename: ./Deb/HoangDinhPhong.SystemInfo_2.7.2-3_iphoneos-arm.deb
+Size: 428038
+MD5sum: 2d6448d516184728bd11405e29a99559
+SHA1: a35ed266de732ced6dd6fdc0200bd05adede5a6f
+SHA256: 187b98e4a1b19111a292bdd0bb9938902aad83d85f9f6e69052a877bfe062ef0
+SHA512: b9513d76d90a6f8bd0a7b12ef717dacac57f976e67a7446841651d9dafd835cc3620892d2b3537a07df68e3f951b26b4b9d8404a23f2fa2d7861f08600d4bcc2
+Description: Thông tin hệ thống trong ứng dụng Cài đặt -> Cài đặt chung -> Giới thiệu và các phần khác. Đặt boot-nonce, lưu SHSH, thông tin pin, v.v.
+ + Cập nhật khắc phục sự cố iofbres trong khi cố gắng thiết lập đặt lại độ phân giải trên unc0ver. Khắc phục sự cố chế độ xem pin ứng dụng trên thiết bị A12
+ .
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: System Info Việt Nam
+Author: ARX8x
+Depiction: http://hoangdinhphong.github.io/Info/SystemInfo/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/SystemInfo/?p=info
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
 Package: HoangDinhPhong.T9Dialer
 Architecture: iphoneos-arm
 Version: 1.2.0
