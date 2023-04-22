@@ -1037,6 +1037,86 @@ Depiction: http://hoangdinhphong.github.io/Info/Dodo/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/Dodo/?p=info
 Icon: file:///Applications/Cydia.app/Sections/t.png
 
+Package: HoangDinhPhong.DustryBlue
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Chủ đề Laetus
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.DustryBlue_1.0.0_iphoneos-arm.deb
+Size: 4917656
+MD5sum: 2ea9233eb18c3d7df50b50d6ccde7842
+SHA1: 821fd6557d21e86b280ba1d1acbc7d499511fd8c
+SHA256: 5c0869e5af47b0442797be5676404a2db18982be44c4b87170b396e3080d6810
+SHA512: 609354d042e902679067313a49511f5d66a187bc8afddeb1cbb98d70794e16b733c7a50dfa08650616d2d2cc79226d48fa8ea0c4f77d19f4ac35b4c3457f94a9
+Description: Chủ đề bàn phím cho Laetus.
+ - Kiểu dáng hiện đại với màu Xanh dương tuyệt vời
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Dustry Blue
+Author: Polyphian
+Depiction: http://hoangdinhphong.github.io/Info/DustryBlue/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/DustryBlue/?p=info
+Icon: file:///Applications/Cydia.app/Sections/th.png
+
+Package: HoangDinhPhong.DustryGreen
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Chủ đề Laetus
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.DustryGreen_1.0.0_iphoneos-arm.deb
+Size: 4710368
+MD5sum: b595872d668ed7dec2293e5b78f620ea
+SHA1: df9deddea3129ddbec61dc0571fd4e764bc40df1
+SHA256: d9ef95ce070ed428c431b677dab0b6db2074ceb5b4e962447138fd343de34989
+SHA512: cced04096af73a61eeb197d06f7aa07df7aa08d4f5c9eb7ef10de1f73f8cd200bd87cb2be68a78726d74aed305e5b5f2c1e4936a037602b789e2a93a10e139cd
+Description: Chủ đề bàn phím cho Laetus.
+ - Kiểu dáng hiện đại với màu Xanh lá mạ tuyệt vời
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Dustry Green
+Author: Polyphian
+Depiction: http://hoangdinhphong.github.io/Info/DustryGreen/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/DustryGreen/?p=info
+Icon: file:///Applications/Cydia.app/Sections/th.png
+
+Package: HoangDinhPhong.DustryOrange
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Chủ đề Laetus
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.DustryOrange_1.0.0_iphoneos-arm.deb
+Size: 4705146
+MD5sum: b8e4ffb5b67b049ad35422bfaa5d214f
+SHA1: 0d0ae518353f6de518c083d7c756364084edadc0
+SHA256: 9a52e57fb3e8c9e66c2675188630496b66d234440db35a5060a642697a2d5c01
+SHA512: 66d964795647b717aef96286f79038645de76950b3e587c038deb3a8c19cd87d51b2ed3342c2f3fb52c116c659376f565eaadc4bcd92a35799612f3009192d34
+Description: Chủ đề bàn phím cho Laetus.
+ - Kiểu dáng hiện đại với màu Cam tuyệt vời
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Dustry Orange
+Author: Polyphian
+Depiction: http://hoangdinhphong.github.io/Info/DustryOrange/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/DustryOrange/?p=info
+Icon: file:///Applications/Cydia.app/Sections/th.png
+
+Package: HoangDinhPhong.DustryRed
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Chủ đề Laetus
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.DustryRed_1.0.0_iphoneos-arm.deb
+Size: 4698498
+MD5sum: d8d51c5af6d0f9c8cf2a5cca9f8495fc
+SHA1: a4aa6a74e645f2d93a533725494f8ba64ffd6df7
+SHA256: 2991dcd9a804ab9a1337d2d0fa02ae831e3a6ab7ed82d672ae41e61d5395361c
+SHA512: 53e83e5bf171bb2620f09d2ed21bbe7bbc490a6421638d2f424a49d72f8586cdc6751971e033702c1257a718eda72fc8f04927cdc0cb35b35dfcb8b40e428861
+Description: Chủ đề bàn phím cho Laetus.
+ - Kiểu dáng hiện đại với màu Đỏ tuyệt vời
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Dustry Red
+Author: Polyphian
+Depiction: http://hoangdinhphong.github.io/Info/DustryRed/?p=info
+SileoDepiction: http://hoangdinhphong.github.io/Info/DustryRed/?p=info
+Icon: file:///Applications/Cydia.app/Sections/th.png
+
 Package: HoangDinhPhong.EdwartPro
 Architecture: iphoneos-arm
 Version: 1.0.2
