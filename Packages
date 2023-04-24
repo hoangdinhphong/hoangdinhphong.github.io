@@ -2193,6 +2193,29 @@ Depiction: http://hoangdinhphong.github.io/Info/MuDark/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/MuDark/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.MusicArtworkSave
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: ETHN
+Filename: ./Deb/HoangDinhPhong.MusicArtworkSave_1.2_iphoneos-arm.deb
+Size: 16226
+MD5sum: 5228cc03c7f2fd2a7a546603f1b68f6e
+SHA1: c26ab4b4f85a08b6e3a791df5ae0c72f627c257d
+SHA256: 25783c4b68d31246d3d5a67ae95cc944006b11ce9a37bedaff03d58bb82841ad
+SHA512: c0f7127d3b97c7a5bdd0570dd0148844349a1ac6d7c229e50812847c1bbcf249c47b4268ae7451d85a2571a008dd0a04a213ca652a9b8ff9e49e6fe7da191cbd
+Homepage: https://hoangdinhphong.github.io
+Description: Save Album Artwork in Music.app!
+Tag: role::enduser
+Name: MusicArtworkSave
+Depiction: https://hoangdinhphong.github.io/Info/Html/MusicArtworkSave.html
+SileoDepiction: https://hoangdinhphong.github.io/Info/Js/MusicArtworkSave.json
+ModernDepiction: https://hoangdinhphong.github.io/Info/Js/MusicArtworkSave.json
+Tags: compatible_min::ios13.0, compatible_max::ios16.4
+Author: ETHN
+SomeOtherEntryToControl: True
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
 Package: HoangDinhPhong.MyLove
 Architecture: iphoneos-arm
 Version: 0.0.1
