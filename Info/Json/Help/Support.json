@@ -3,5 +3,4 @@
 {"class":"DepictionTableButtonView","title":"Email của Phong","action":"mailto:truongtamphong686@gmail.com","openExternal":"true","tintColor":"#5777B8"},
 {"class":"DepictionMarkdownView","markdown":"Bạn cũng có thể liên hệ với tôi qua các ứng dụng sau:"},
 {"class":"DepictionTableButtonView","title":"Twitter","action":"https://twitter.com/TamPh0ng","openExternal":"true","tintColor":"#5777B8"},
-{"class":"DepictionTableButtonView","title":"Facebook","action":"https://www.facebook.com/Truong.Tam.Phong.1988?mibextid=LQQJ4d","openExternal":"true","tintColor":"#5777B8"}
-}
+{"class":"DepictionTableButtonView","title":"Facebook","action":"https://www.facebook.com/Truong.Tam.Phong.1988?mibextid=LQQJ4d","openExternal":"true","tintColor":"#5777B8"}]}

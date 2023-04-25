@@ -10,19 +10,19 @@
 
 {"class":"DepictionTableTextView","title":"Nhà phát triển","text":"ETHN"},
 
-{"class":"DepictionTableTextView","title":"Phiên bản","text":"1.2"},
+{"class":"DepictionTableTextView","title":"Thể loại","text":"Tweaks"},
+
+{"class":"DepictionTableTextView","title":"Ngày tải lên","text":"25/04/2023"},
 
 {"class":"DepictionTableTextView","title":"Khả năng tương thích","text":"iOS 13.0 đến 16.4"},
 
-{"class":"DepictionTableTextView","title":"Thể loại","text":"Tweaks"},
-
-{"class":"DepictionSpacerView"},{"class":"DepictionTableButtonView","title":"Liên hệ hỗ trợ","action":"depiction-https://hoangdinhphong.github.io/Info/Js/Help/Support.json","openExternal":"true","tintColor":"#5777B8"},
+{"class":"DepictionSpacerView"},{"class":"DepictionTableButtonView","title":"Liên hệ hỗ trợ","action":"depiction-https://hoangdinhphong.github.io/Info/Json/Help/Support.json","openExternal":"true","tintColor":"#5777B8"},
 {"class":"DepictionLabelView","text":"","textColor":"#999999","fontSize":"10.0","alignment":1}],"class":"DepictionStackView"},{"tabname":"Nhật ký thay đổi","views":
 
 [{"class":"DepictionMarkdownView","markdown":"#### Phiên bản 1.2\n\nĐã thêm hỗ trợ Spotify"},
 
 {"class":"DepictionMarkdownView","markdown":"#### Phiên bản 1.1\n\nĐã sửa lỗi nút quá cao"},
 
-{"class":"DepictionMarkdownView","markdown":"#### Phiên bản 1.0\n\nLần đầu phát hành."},
+{"class":"DepictionMarkdownView","markdown":"#### Phiên bản 1.0\n\nLần đầu phát hành"},
 
 {"class":"DepictionLabelView","text":"","textColor":"#999999","fontSize":"10.0","alignment":1}],"class":"DepictionStackView"}],"class":"DepictionTabView"}
