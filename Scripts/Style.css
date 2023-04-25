@@ -410,6 +410,7 @@ a.pkg-button.cydia {
 }
 
 .caption_center_footer {
+position: absolute; left: 50%; transform: translateX(-50%); 
   display: flex;
   column-gap: 20px;
   justify-content: space-between;
