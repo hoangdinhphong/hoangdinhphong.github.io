@@ -7,9 +7,9 @@
 }
 
 .imageChange {
-max-width: 100px;
-height: auto;
-filter: drop-shadow(0px 2px 4px #00000088);
+  max-width: 100px;
+  height: auto;
+  filter: drop-shadow(0px 2px 4px #00000088);
 }
 
 .wrapper {
@@ -20,13 +20,13 @@ filter: drop-shadow(0px 2px 4px #00000088);
 }
 
 .text_center{
-text-align: center;
+  text-align: center;
 }
 
 img.image_center {
-display: block; 
-margin-left: auto; 
-margin-right: auto;
+  display: block; 
+  margin-left: auto; 
+  margin-right: auto;
 }
 
 .card {
@@ -73,14 +73,14 @@ margin-right: auto;
   width: 100%;
   height: 100%;
   -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
   position: absolute;
   top: 0;
   left: 0;
   border-radius: 10px;
 }
 .card .info {
-    margin: -10px;
+  margin: -10px;
   position: absolute;
   z-index: 3;
   color: white;
@@ -93,7 +93,7 @@ margin-right: auto;
   text-align: center;
 }
 .card .info p {
-    margin: -10px;
+  margin: -10px;
   letter-spacing: 1px;
   font-size: 10px;
   text-align: center;
@@ -132,19 +132,19 @@ margin-right: auto;
   }
 
   .scroll_view {
-    width: calc(100vw - 60px);
+   width: calc(100vw - 60px);
   }
 }
 
 @media only screen and (min-width: 601px) {
-    .body {
-        width: 500px;
-        margin-left: auto;
-        margin-right: auto;
-    }
-    .scroll_view {
-        width: calc(500px - 40px);
-    }
+  .body {
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  }
+  .scroll_view {
+  width: calc(500px - 40px);
+  }
 }
 
 h1, h2, h3, h4, h5, h6, p {
@@ -364,7 +364,7 @@ a.pkg-button {
   border: 1px solid gray;
   padding: 10px;
   border-radius: 10px;
-  color: #FFFFFF;
+  color: #FFF;
   display: inline-block;
   width: 100%;
   background: linear-gradient(to left, rgba(200, 200, 200, 0.12) 15%, rgba(200, 200, 200, 0.25));
@@ -413,23 +413,25 @@ a.pkg-button.cydia {
 
 @media (prefers-color-scheme: dark) {
   body {
-    background: #111;
-    color: white;
+  background: #1c1c1e;
+  color: white;
   }
 
   .subtle_link, .subtle_link>div>div, .subtle_link>div>div>p {
-    color: white;
+  color: white;
   }
 
   #pkgSelect {
-    color: #FFFFFF !important;
+    color: #FFF !important;
   }
 }
 
 .caption_center_footer {
-position: absolute; left: 50%; transform: translateX(-50%); 
+  position: absolute;
+  left: 50%; 
+  text-align: center;
+  transform: translateX(-50%); 
   display: flex;
   column-gap: 20px;
   justify-content: space-between;
-  text-align: center;
 }
