@@ -23,7 +23,7 @@
   text-align: center;
 }
 
-img.image_center {
+img.image_Center {
   display: block; 
   margin-left: auto; 
   margin-right: auto;
@@ -45,16 +45,20 @@ img.image_center {
   transition: 0.4s ease-out;
   box-shadow: 0px 7px 10px rgba(0, 0, 0, 0.5);
 }
+
 .card:hover {
   transform: translateY(10px);
 }
+
 .card:hover:before {
   opacity: 1;
 }
+
 .card:hover .info {
   opacity: 1;
   transform: translateY(5px);
 }
+
 .card:before {
   content: "";
   position: absolute;
@@ -69,6 +73,7 @@ img.image_center {
   transition: 0.5s;
   opacity: 0;
 }
+
 .card img {
   width: 100%;
   height: 100%;
@@ -79,6 +84,7 @@ img.image_center {
   left: 0;
   border-radius: 10px;
 }
+
 .card .info {
   margin: -10px;
   position: absolute;
@@ -88,10 +94,12 @@ img.image_center {
   opacity: 0;
   text-align: center;
 }
+
 .card .info h1 {
   margin: -20px;
   text-align: center;
 }
+
 .card .info p {
   margin: -10px;
   letter-spacing: 1px;
@@ -101,6 +109,7 @@ img.image_center {
   inline-size: 72px;
   overflow-wrap: break-word;
 }
+
 .card .info button {
   height: 72px;
   width: 72px;
@@ -114,6 +123,7 @@ img.image_center {
   cursor: pointer;
   transition: 0.4s ease;
 }
+
 .card .info button:hover {
   background: black;
   color: white;
@@ -191,12 +201,17 @@ h1, h2, h3, h4, h5, h6, p {
 .scroll_view>.img_card {
   background-color: #000;
   width: 250px;
-  margin: 5px;
-  border-radius: 10px;
+  margin-left: 0px;
+  margin-right: 15px;
+  margin-top: 20px;
+  margin-bottom: 90px;
+  border-radius: 36px;
+  border: 4px solid #666;
   font-weight: bold;
   position: relative;
   display: inline-block;
   font-size: 0px;
+  -webkit-box-reflect: below 0em -webkit-gradient(linear,left top, left bottom, from(transparent), color-stop(80%, transparent), to(rgba(0,0,0, 0.3)));
 }
 
 .card>p {
