@@ -4,7 +4,7 @@
 
 {"url":"https://hoangdinhphong.github.io/Images/MusicArtworkSave/screenshot/02.jpg","accessibilityText":"Screenshot"},
 
-{"url":"https://hoangdinhphong.github.io/Images/MusicArtworkSave/screenshot/03.jpg","accessibilityText":"Screenshot"}],"itemCornerRadius":20,"itemSize":"{210,454}","itemBorder":"{4px solid #666}"},
+{"url":"https://hoangdinhphong.github.io/Images/MusicArtworkSave/screenshot/03.jpg","accessibilityText":"Screenshot"}],"itemCornerRadius":20,"itemSize":"{210,454}","border-style": "solid","border-width": 2px,"border-color": "red"},
 
 {"markdown":"## Lưu ảnh bìa Album trong ứng dụng Nhạc!\n\nHoạt động trên iOS13-16! Không có tùy chọn để định cấu hình, sau khi cài đặt, bạn sẽ thấy nút lưu hình ảnh mới ở góc trên cùng bên phải của giao diện đang phát trong ứng dụng Nhạc.\n\n\n","useSpacing":"true","class":"DepictionMarkdownView"},{"class":"DepictionSpacerView"},{"class":"DepictionHeaderView", "title":"Thông tin"},
 
