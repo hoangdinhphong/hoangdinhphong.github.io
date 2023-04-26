@@ -57,7 +57,7 @@ xz -9fkev ./Packages > ./Packages.xz
 bzip2 -c9k ./Packages > ./Packages.bz2;
 echo "------------------"
 echo "Đang tạo tệp Release...."
-printf "Origin: Hoàng Đình Phong\nLabel: Hoàng Đình Phong\nSuite: stable\nVersion: 1.1\nCodename: ios\nArchitectures: iphoneos-arm iphoneos-arm64\nComponents: main\nDescription: Hoàng Đình Phong\nMD5Sum:\n "$(cat ./Packages | md5sum | cut -d ' ' -f 1)" "$(stat ./Packages --printf="%s")" Packages\n "$(cat ./Packages.bz2 | md5sum | cut -d ' ' -f 1)" "$(cat ./Packages.xz | md5sum | cut -d ' ' -f 1)" "$(cat ./Packages.gz | md5sum | cut -d ' ' -f 1)" "$(stat ./Packages.bz2 stat./Packages.xz stat./Packages.gz --printf="%s")" Packages.bz2\n" " Packages.xz\n" " Packages.gz\n">Release;
+printf "Origin: Hoàng Đình Phong\nLabel: Hoàng Đình Phong\nSuite: stable\nVersion: 1.1\nCodename: ios\nArchitectures: iphoneos-arm iphoneos-arm64\nComponents: main\nDescription: Hoàng Đình Phong\nSHA256:\n "$(cat ./Packages | md5sum | cut -d ' ' -f 1)" "$(stat ./Packages --printf="%s")" Packages\n "$(cat ./Packages.bz2 | md5sum | cut -d ' ' -f 1)" "$(cat ./Packages.xz | md5sum | cut -d ' ' -f 1)" "$(cat ./Packages.gz | md5sum | cut -d ' ' -f 1)" "$(stat ./Packages.bz2 stat./Packages.xz stat./Packages.gz --printf="%s")" Packages.bz2\n" " Packages.xz\n" " Packages.gz\n">Release;
 
 echo "------------------"
 echo "Xong! 👌"

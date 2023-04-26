@@ -6,6 +6,6 @@ Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: Hoàng Đình Phong
-MD5Sum:
+SHA256:
  95e40dbf597c205c9e735e6542f48e73 179899 Packages
- abf72f2cf2a3d113e7ec269321e40c30 86e23be0c28c47b441b80e79af4470fd 37b3d60e9b55cdef2f71514ff0e20992 36373 Packages.bz2
+ abf72f2cf2a3d113e7ec269321e40c30 86e23be0c28c47b441b80e79af4470fd 5598412c15ad1a11df29e3f92236f018 36373 Packages.bz2
