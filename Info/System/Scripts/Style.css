@@ -6,9 +6,13 @@
   box-sizing: border-box;
 }
 
+
 .imageChange {
-  max-width: 100px;
+  max-width: 140px;
   height: auto;
+  border-radius: 120px;
+  border: 4px solid #5777B899;
+  box-shadow: 0px 0px 18px #5777B8;
 }
 
 .wrapper {
@@ -204,18 +208,19 @@ h1, h2, h3, h4, h5, h6, p {
 
 .scroll_view>.img_card {
   background-color: #000;
-  width: 250px;
-  margin-left: 0px;
-  margin-right: 15px;
+  width: 210px;
+  margin-left: 1px;
+  margin-right: 14px;
   margin-top: 20px;
-  margin-bottom: 100px;
-  border-radius: 36px;
-  border: 4px solid #666;
+  margin-bottom: 40px;
+  border-radius: 32px;
+  border: 7px solid #000;
   font-weight: bold;
   position: relative;
   display: inline-block;
   font-size: 0px;
-  -webkit-box-reflect: below 0em -webkit-gradient(linear,left top, left bottom, from(transparent), color-stop(80%, transparent), to(rgba(0,0,0, 0.3)));
+  box-shadow: 0px 1px 0px #555660, 0px -1px 0px #555660, 1px 0px 0px #555660, -1px 0px 0px #555660;
+  -webkit-box-reflect: below 0em -webkit-gradient(linear,left top, left bottom, from(transparent), color-stop(90%, transparent), to(rgba(0,0,0, 0.3)));
 }
 
 .card>p {
