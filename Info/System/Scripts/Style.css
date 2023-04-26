@@ -9,7 +9,6 @@
 .imageChange {
   max-width: 100px;
   height: auto;
-  filter: drop-shadow(0px 2px 4px #00000088);
 }
 
 .wrapper {
@@ -19,8 +18,13 @@
   flex-wrap: wrap;
 }
 
+.text_cen{
+  text-align: center;
+}
+
 .text_center{
   text-align: center;
+  margin-top: 120px;
 }
 
 img.image_Center {
