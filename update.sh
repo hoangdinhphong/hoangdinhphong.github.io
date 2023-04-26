@@ -50,10 +50,11 @@ echo "{}]" >> all.pkgs
 }
 echo "------------------"
 echo "Đang tạo tệp Packages...."
-dpkg-scanpackages --multiversion ./Deb > Packages
+apt-ftparchive packages ./Deb > ./Packages;
+#sed -i -e '/^SHA/d' ./Packages;
 gzip -cf Packages > Packages.gz
 xz -9fkev Packages > Packages.xz
-bzip2 -cf Packages > Packages.bz2;
+bzip2 -c9k ./Packages > ./Packages.bz2;
 echo "------------------"
 echo "Đang tạo tệp Release...."
 printf "Origin: Hoàng Đình Phong\nLabel: Hoàng Đình Phong\nSuite: stable\nVersion: 1.1\nCodename: ios\nArchitectures: iphoneos-arm iphoneos-arm64\nComponents: main\nDescription: Hoàng Đình Phong\nMD5Sum:\n "$(cat ./Packages | md5sum | cut -d ' ' -f 1)" "$(stat ./Packages --printf="%s")" Packages\n "$(cat ./Packages.bz2 | md5sum | cut -d ' ' -f 1)" "$(stat ./Packages.bz2 --printf="%s")" Packages.bz2\n" >Release;
