@@ -57,7 +57,7 @@ xz -9fkev Packages > Packages.xz
 bzip2 -c9k ./Packages > ./Packages.bz2;
 echo "------------------"
 echo "Đang tạo tệp Release...."
-printf "Origin: Apple HDP Repo\nLabel: Hoang Dinh Phong\nSuite: stable\nVersion: 1.1\nCodename: ios\nArchitectures: iphoneos-arm iphoneos-arm64\nComponents: main\nDescription: Hoang Dinh Phong\nSHA256:\n "$(cat ./Packages | md5sum | cut -d ' ' -f 1)" "$(stat ./Packages --printf="%s")" Packages\n "$(cat ./Packages.bz2, Packages.xz, Packages.gz | md5sum | cut -d ' ' -f 1)" "$(stat ./Packages.bz2, Packages.xz, Packages.gz --printf="%s")" Packages.bz2, Packages.xz, Packages.gz\n" >Release;
+printf "Origin: Apple HDP Repo\nLabel: Hoang Dinh Phong\nSuite: stable\nVersion: 1.1\nCodename: ios\nArchitectures: iphoneos-arm iphoneos-arm64\nComponents: main\nDescription: Hoang Dinh Phong\nSHA256:\n "$(cat ./Packages | md5sum | cut -d ' ' -f 1)" "$(stat ./Packages --printf="%s")" Packages\n "$(cat ./Packages.bz2/Packages.xz,/Packages.gz | md5sum | cut -d ' ' -f 1)" "$(stat ./Packages.bz2/Packages.xz/Packages.gz --printf="%s")" Packages.bz2, Packages.xz, Packages.gz\n" >Release;
 
 echo "------------------"
 echo "Xong! 👌"
