@@ -50,7 +50,7 @@ echo "{}]" >> all.pkgs
 }
 echo "------------------"
 echo "Đang tạo tệp Packages...."
-apt-ftparchive packages ./debfiles > ./Packages;
+apt-ftparchive packages ./Deb > ./Packages;
 #sed -i -e '/^SHA/d' ./Packages;
 bzip2 -c9k ./Packages > ./Packages.bz2;
 echo "------------------"
