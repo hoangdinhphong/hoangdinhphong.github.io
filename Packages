@@ -2983,6 +2983,40 @@ Icon: file:///Applications/Cydia.app/Sections/r.png
 
 Package: HoangDinhPhong.SourceIconHDP
 Architecture: iphoneos-arm
+Version: 1.0.2
+Essential: yes
+Section: System
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.SourceIconHDP_1.0.2_iphoneos-arm.deb
+Size: 90790
+MD5sum: 4fc638b050912161d625e6361f4d2127
+SHA1: 9096f9d1c109c5e100efd17ffba4903041ed25d4
+SHA256: cb9ab5e3a0cb4b6f1db50dbd25e8a72aeeac7b5be550ee2eb76019b8b6448595
+SHA512: 3abd11e13fbdae6213a8a5d96662d4d69802b80430935163ac77e02437e12bc73412f07f40d839c27de749d30e67c4646c5f08d06c67aeaf2be3ddfd85f9cb43
+Description: Gói biểu tượng cho nguồn Hoàng Đình Phong
+Name: SourceIconHDP
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/s.png
+
+Package: HoangDinhPhong.SourceIconHDP
+Architecture: iphoneos-arm
+Version: 1.0.3
+Essential: yes
+Section: System
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.SourceIconHDP_1.0.3_iphoneos-arm.deb
+Size: 105852
+MD5sum: a00c1f90fba5dd0ac46f727589a813a8
+SHA1: 877139591d54cbf924736a17a9495c04ef0aa24f
+SHA256: c414dc80d6b6c8b3ef52e8fb0d9dfe0cc283377b42def02bb064b9269d29ed0f
+SHA512: 6f3d16718d83aafad13c8b6a29a39ca404440d63489a3fa66b48a2dc4f0f6b02be2cd8f05c09456199368a2e478aaad56629589f639dc29383eaed54d832501a
+Description: Gói biểu tượng cho nguồn Hoàng Đình Phong
+Name: SourceIconHDP
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/s.png
+
+Package: HoangDinhPhong.SourceIconHDP
+Architecture: iphoneos-arm
 Version: 1.0.4
 Essential: yes
 Section: System
