@@ -1,11 +1,11 @@
-Origin: Apple HDP Repo
-Label: Apple HDP Repo
+Origin: Hoang Dinh Phong
+Label: Hoàng Đình Phong
 Suite: stable
-Version: 1.1
+Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm iphoneos-arm64
+Architecture: iphoneos-arm
 Components: main
-Description: Hello To The Future
-SHA256:
- 95e40dbf597c205c9e735e6542f48e73 179899 Packages
- abf72f2cf2a3d113e7ec269321e40c30 36373 Packages.bz2
+Description: Say Hello To The Future
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 Packages
+ 4059d198768f9f8dc9372dc1c54bc3c3 14 Packages.bz2
