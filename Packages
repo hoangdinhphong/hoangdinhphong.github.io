@@ -3032,6 +3032,23 @@ Name: SourceIconHDP
 Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/Sy.png
 
+Package: HoangDinhPhong.SourceIconHDP
+Architecture: iphoneos-arm
+Version: 1.0.5
+Essential: yes
+Section: System
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.SourceIconHDP_1.0.5_iphoneos-arm.deb
+Size: 62478
+MD5sum: 5395c43a03b4fa30147cae943259712d
+SHA1: 8cd03acf2454ba5c08885533f925293b57cc84a3
+SHA256: a8e9502b2d3c7a5ff71090f8ba752056b65fed72b0c2ebb9b8e3ab8804ab5cb6
+SHA512: a559ccf888fbac0b7f0dd4d1ad52e099facb538af5b48171df713df38cf5e8c749f38876b6ea26569be1d95bd9a99d52be09f1cb7e633bc17c43c03ba89e5b11
+Description: Gói biểu tượng cho nguồn Hoàng Đình Phong
+Name: SourceIconHDP
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/s.png
+
 Package: HoangDinhPhong.SpectrumVietNam
 Architecture: iphoneos-arm
 Version: 1.1
