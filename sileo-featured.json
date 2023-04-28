@@ -1,2 +1,2 @@
-{"class":"FeaturedBannersView","itemSize":"{263, 148}","itemCornerRadius":8,"banners":[{"package":"hoangdinhphong.musicartworksave","title":"MusicArtworkSave","url":"https://hoangdinhphong.github.io/Images/MusicArtworkSave/Banner.jpg","hideShadow":"false"},
-{"package":"hoangdinhphong.musicartworksave-rootless","title":"MusicArtworkSave-Rootless","url":"https://hoangdinhphong.github.io/Images/MusicArtworkSave/Banner.jpg","hideShadow":"false"}]}
+{"class":"FeaturedBannersView","itemSize":"{263, 148}","itemCornerRadius":8,"banners":[{"package":"HoangDinhPhong.MusicArtworkSave","title":"MusicArtworkSave","url":"https://hoangdinhphong.github.io/Images/MusicArtworkSave/Banner.jpg","hideShadow":"false"},
+{"package":"HoangDinhPhong.MusicArtworkSave-Rootless","title":"MusicArtworkSave-Rootless","url":"https://hoangdinhphong.github.io/Images/MusicArtworkSave/Banner.jpg","hideShadow":"false"}]}
