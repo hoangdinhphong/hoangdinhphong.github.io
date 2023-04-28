@@ -1,0 +1,6 @@
+{"class":"DepictionStackView","tintColor":"#5777B8","title":"Liên hệ hỗ trợ","views":[
+{"class":"DepictionMarkdownView","markdown":"Nếu cần giúp đỡ, bạn có thể liên hệ với tôi qua email"},
+{"class":"DepictionTableButtonView","title":"Email", "action":"mailto:truongtamphong686@gmail.com","openExternal":"true","tintColor":"#5777B8"},
+{"class":"DepictionMarkdownView","markdown":"Bạn cũng có thể liên hệ với tôi qua các ứng dụng"},
+{"class":"DepictionTableButtonView","title":"Twitter", "action":"https://twitter.com/TamPh0ng","openExternal":"true","tintColor":"#5777B8"},
+{"class":"DepictionTableButtonView","title":"Facebook", "action":"https://www.facebook.com/Truong.Tam.Phong.1988?mibextid=LQQJ4d","openExternal":"true","tintColor":"#5777B8"}]}

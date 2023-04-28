@@ -1,0 +1,27 @@
+{"minVersion":"0.1","headerImage":"https://hoangdinhphong.github.io/Images/MusicArtworkSave/Banner.jpg","tintColor":"#5777B8","tabs":[{"tabname":"Chi tiết","views":[
+{"class":"DepictionScreenshotsView","screenshots":[{"url":"https://hoangdinhphong.github.io/Images/MusicArtworkSave/screenshot/01.jpg","accessibilityText":"Screenshot"},
+
+{"url":"https://hoangdinhphong.github.io/Images/MusicArtworkSave/screenshot/02.jpg","accessibilityText":"Screenshot"},
+
+{"url":"https://hoangdinhphong.github.io/Images/MusicArtworkSave/screenshot/03.jpg","accessibilityText":"Screenshot"}],"itemCornerRadius":20,"itemSize":"{210,454}"},
+
+{"markdown":"## Lưu ảnh bìa Album trong ứng dụng Nhạc!\n\nHoạt động trên iOS15 - 16! Không có tùy chọn để định cấu hình, sau khi cài đặt, bạn sẽ thấy nút lưu hình ảnh mới ở góc trên cùng bên phải của giao diện đang phát trong ứng dụng Nhạc.\n\n\n","useSpacing":"true","class":"DepictionMarkdownView"},{"class":"DepictionSpacerView"},{"class":"DepictionHeaderView", "title":"Thông tin"},
+
+{"class":"DepictionTableTextView","title":"Nhà phát triển", "text":"ETHN"},
+
+{"class":"DepictionTableTextView","title":"Thể loại", "text":"Tweaks"},
+
+{"class":"DepictionTableTextView","title":"Ngày tải lên", "text":"28/04/2023"},
+
+{"class":"DepictionTableTextView","title":"Khả năng tương thích", "text":"iOS 15.0 đến 16.4"},
+
+{"class":"DepictionSpacerView"},{"class":"DepictionTableButtonView","title":"Liên hệ hỗ trợ","action":"depiction-https://hoangdinhphong.github.io/Info/Json/Support.json","openExternal":"true","tintColor":"#5777B8"},
+{"class":"DepictionLabelView","text":"","textColor":"#999999","fontSize":"10.0","alignment":1}],"class":"DepictionStackView"},{"tabname":"Nhật ký thay đổi","views":
+
+[{"class":"DepictionMarkdownView","markdown":"#### Phiên bản 1.2\n\nĐã thêm hỗ trợ Spotify"},
+
+{"class":"DepictionMarkdownView","markdown":"#### Phiên bản 1.1\n\nĐã sửa lỗi nút quá cao"},
+
+{"class":"DepictionMarkdownView","markdown":"#### Phiên bản 1.0\n\nLần đầu phát hành"},
+
+{"class":"DepictionLabelView","text":"","textColor":"#999999","fontSize":"10.0","alignment":1}],"class":"DepictionStackView"}],"class":"DepictionTabView"}
