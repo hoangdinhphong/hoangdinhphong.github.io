@@ -3032,6 +3032,23 @@ Name: SourceIconHDP
 Author: Hoàng Đình Phong
 Icon: file:///Applications/Cydia.app/Sections/Sy.png
 
+Package: HoangDinhPhong.SourceIconHDP
+Architecture: iphoneos-arm
+Version: 1.0.5
+Essential: yes
+Section: System
+Maintainer: Hoàng Đình Phong
+Filename: ./Deb/HoangDinhPhong.SourceIconHDP_1.0.5_iphoneos-arm.deb
+Size: 62478
+MD5sum: 5395c43a03b4fa30147cae943259712d
+SHA1: 8cd03acf2454ba5c08885533f925293b57cc84a3
+SHA256: a8e9502b2d3c7a5ff71090f8ba752056b65fed72b0c2ebb9b8e3ab8804ab5cb6
+SHA512: a559ccf888fbac0b7f0dd4d1ad52e099facb538af5b48171df713df38cf5e8c749f38876b6ea26569be1d95bd9a99d52be09f1cb7e633bc17c43c03ba89e5b11
+Description: Gói biểu tượng cho nguồn Hoàng Đình Phong
+Name: SourceIconHDP
+Author: Hoàng Đình Phong
+Icon: file:///Applications/Cydia.app/Sections/s.png
+
 Package: HoangDinhPhong.SpectrumVietNam
 Architecture: iphoneos-arm
 Version: 1.1
@@ -3667,50 +3684,4 @@ Description: Gói hỗ trợ thời tiết cho tinh chỉnh Dodo
 Name: libPDDokdo
 Author: Soongyu Kwon
 Icon: file:///Applications/Cydia.app/Sections/s.png
-
-Package: hoangdinhphong.musicartworksave-rootless
-Architecture: iphoneos-arm64
-Version: 1.2.1
-Section: Tweaks
-Maintainer: Hoàng Đình Phong
-Filename: ./Deb/hoangdinhphong.musicartworksave-rootless_1.2.1_iphoneos-arm64.deb
-Size: 16380
-MD5sum: 0eea76bbfa940172d4b3846aebb17e2a
-SHA1: 306b6670aa5e8061476f698efd54bffe48022218
-SHA256: f5eff5d19d523fe70f47df8a38db761f39b5e123854f77fcbe6ff585a017c63d
-SHA512: 5100f4f95d903a9eb8846877e37ed5263587e815484b45764fe96130d2e2bdc324b087933ef8194af8ab3149fcf4601438a797c4c49cd10658644573233da569
-Homepage: https://hoangdinhphong.github.io
-Description: Save Album Artwork in Music.app!
-Tag: role::enduser
-Name: MusicArtworkSave - Rootless
-Depiction: https://hoangdinhphong.github.io/Info/Html/MusicArtworkSave-Rootless.html
-SileoDepiction: https://hoangdinhphong.github.io/Info/Json/MusicArtworkSave-Rootless.json
-ModernDepiction: https://hoangdinhphong.github.io/Info/Json/MusicArtworkSave-Rootless.json
-Tags: compatible_min::ios15.0, compatible_max::ios16.4
-Author: ETHN
- Icon: file:///Applications/Cydia.app/Sections/Se.png
-SomeOtherEntryToControl: True
-
-Package: hoangdinhphong.musicartworksave
-Architecture: iphoneos-arm
-Version: 1.2.1
-Section: Tweaks
-Maintainer: Hoàng Đình Phong
-Filename: ./Deb/hoangdinhphong.musicartworksave_1.2.1_iphoneos-arm.deb
-Size: 16268
-MD5sum: a3dfbe0535597737047b466963f5cb61
-SHA1: 3476210e6a4669a5a3acd3801cd4859b2d37205e
-SHA256: 8e9171dcd0f156569bfa80c1959d6ab25aa76194773ef514829cc41a26191876
-SHA512: ba7910efaeeac1bc1953e731f377bf8354c6dbac473bd5a495c79b46cdb97a5d60627f92183a7d8bc8a33d94e4313a19cfcc4716d1249b4de081aa29061caafc
-Homepage: https://hoangdinhphong.github.io
-Description: Save Album Artwork in Music app!
-Tag: role::enduser
- Icon: file:///Applications/Cydia.app/Sections/Se.png
-Name: MusicArtworkSave
-Depiction: https://hoangdinhphong.github.io/Info/Html/MusicArtworkSave.html
-SileoDepiction: https://hoangdinhphong.github.io/Info/Json/MusicArtworkSave.json
-ModernDepiction: https://hoangdinhphong.github.io/Info/Json/MusicArtworkSave.json
-Tags: compatible_min::ios13.0, compatible_max::ios16.4
-Author: ETHN
-SomeOtherEntryToControl: True
 
