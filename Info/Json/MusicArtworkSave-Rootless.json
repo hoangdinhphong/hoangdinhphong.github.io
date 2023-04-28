@@ -1,4 +1,5 @@
-{"minVersion":"0.1","headerImage":"https://hoangdinhphong.github.io/Images/MusicArtworkSave/Banner.jpg","tintColor":"#5777B8","tabs":[{"tabname":"Chi tiết","views":[{"class":"DepictionScreenshotsView","screenshots":[{"url":"https://hoangdinhphong.github.io/Images/MusicArtworkSave/screenshot/01.jpg","accessibilityText":"Screenshot"},
+{"minVersion":"0.1","headerImage":"https://hoangdinhphong.github.io/Images/MusicArtworkSave/Banner.jpg","tintColor":"#5777B8","tabs":[{"tabname":"Chi tiết","views":[
+{"class":"DepictionScreenshotsView","screenshots":[{"url":"https://hoangdinhphong.github.io/Images/MusicArtworkSave/screenshot/01.jpg","accessibilityText":"Screenshot"},
 
 {"url":"https://hoangdinhphong.github.io/Images/MusicArtworkSave/screenshot/02.jpg","accessibilityText":"Screenshot"},
 
@@ -10,7 +11,7 @@
 
 {"class":"DepictionTableTextView","title":"Thể loại", "text":"Tweaks"},
 
-{"class":"DepictionTableTextView","title":"Ngày tải lên", "text":"27/04/2023"},
+{"class":"DepictionTableTextView","title":"Ngày tải lên", "text":"28/04/2023"},
 
 {"class":"DepictionTableTextView","title":"Khả năng tương thích", "text":"iOS 15.0 đến 16.4"},
 
