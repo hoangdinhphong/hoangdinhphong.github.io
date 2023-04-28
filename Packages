@@ -2193,6 +2193,52 @@ Depiction: http://hoangdinhphong.github.io/Info/MuDark/?p=info
 SileoDepiction: http://hoangdinhphong.github.io/Info/MuDark/?p=info
 Icon: file:///Applications/Cydia.app/Sections/w.png
 
+Package: HoangDinhPhong.MusicArtworkSave-Rootless
+Architecture: iphoneos-arm64
+Version: 1.2.1
+Section: Tweaks
+Maintainer: ETHN
+Filename: ./Deb/HoangDinhPhong.MusicArtworkSave-Rootless_1.2.1_iphoneos-arm64.deb
+Size: 16356
+MD5sum: 9ce99f2b207388d207fa8bd55137bf80
+SHA1: fa59b6a18f5d88bf427580d8ba33611ad1a21ae8
+SHA256: f83dbef56b88c450b6038b6354729d095fea95c1acf9dabe95d96748f9ed465b
+SHA512: f42f29e7c459e308de4b5b3afe208452312f33554897d00c266e879d9c919db2bdee5716de6484cc92f304eb2543976ea7934d58409398ba9337db788958bf4f
+Homepage: https://hoangdinhphong.github.io
+Description: Save Album Artwork in Music app!
+Tag: role::enduser
+Name: MusicArtworkSave - Rootless
+Depiction: https://hoangdinhphong.github.io/Info/Html/MusicArtworkSave-Rootless.html
+SileoDepiction: https://hoangdinhphong.github.io/Info/Json/MusicArtworkSave-Rootless.json
+ModernDepiction: https://hoangdinhphong.github.io/Info/Json/MusicArtworkSave-Rootless.json
+Tags: compatible_min::ios15.0, compatible_max::ios16.4
+Author: ETHN
+ Icon: file:///Applications/Cydia.app/Sections/t.png
+SomeOtherEntryToControl: True
+
+Package: HoangDinhPhong.MusicArtworkSave
+Architecture: iphoneos-arm
+Version: 1.2.1
+Section: Tweaks
+Maintainer: ETHN
+Filename: ./Deb/HoangDinhPhong.MusicArtworkSave_1.2.1_iphoneos-arm.deb
+Size: 16244
+MD5sum: a66379fe2db19e84b6f1234afb3701d6
+SHA1: 849ffee852d20f8a8880bb210a77e47e754a5467
+SHA256: f110592e80f518ed7923d296d161a9a7d9753a5be836374632377445a33ce801
+SHA512: c697be505dbc6a465edcca6a9ef01fb5a0a852a957f4d651ff69d5690e63705dac7999b0c3a56c5881ce7485670844aa7d32d5ea1cb5400962b193ba0ae7f6b2
+Homepage: https://hoangdinhphong.github.io
+Description: Save Album Artwork in Music app!
+Tag: role::enduser
+ Icon: file:///Applications/Cydia.app/Sections/t.png
+Name: MusicArtworkSave
+Depiction: https://hoangdinhphong.github.io/Info/Html/MusicArtworkSave.html
+SileoDepiction: https://hoangdinhphong.github.io/Info/Json/MusicArtworkSave.json
+ModernDepiction: https://hoangdinhphong.github.io/Info/Json/MusicArtworkSave.json
+Tags: compatible_min::ios13.0, compatible_max::ios16.4
+Author: ETHN
+SomeOtherEntryToControl: True
+
 Package: HoangDinhPhong.MyLove
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -3684,50 +3730,4 @@ Description: Gói hỗ trợ thời tiết cho tinh chỉnh Dodo
 Name: libPDDokdo
 Author: Soongyu Kwon
 Icon: file:///Applications/Cydia.app/Sections/s.png
-
-Package: hoangdinhphong.musicartworksave-rootless
-Architecture: iphoneos-arm64
-Version: 1.2.1
-Section: Tweaks
-Maintainer: Hoàng Đình Phong
-Filename: ./Deb/hoangdinhphong.musicartworksave-rootless_1.2.1_iphoneos-arm64.deb
-Size: 16380
-MD5sum: 0eea76bbfa940172d4b3846aebb17e2a
-SHA1: 306b6670aa5e8061476f698efd54bffe48022218
-SHA256: f5eff5d19d523fe70f47df8a38db761f39b5e123854f77fcbe6ff585a017c63d
-SHA512: 5100f4f95d903a9eb8846877e37ed5263587e815484b45764fe96130d2e2bdc324b087933ef8194af8ab3149fcf4601438a797c4c49cd10658644573233da569
-Homepage: https://hoangdinhphong.github.io
-Description: Save Album Artwork in Music.app!
-Tag: role::enduser
-Name: MusicArtworkSave - Rootless
-Depiction: https://hoangdinhphong.github.io/Info/Html/MusicArtworkSave-Rootless.html
-SileoDepiction: https://hoangdinhphong.github.io/Info/Json/MusicArtworkSave-Rootless.json
-ModernDepiction: https://hoangdinhphong.github.io/Info/Json/MusicArtworkSave-Rootless.json
-Tags: compatible_min::ios15.0, compatible_max::ios16.4
-Author: ETHN
- Icon: file:///Applications/Cydia.app/Sections/Se.png
-SomeOtherEntryToControl: True
-
-Package: hoangdinhphong.musicartworksave
-Architecture: iphoneos-arm
-Version: 1.2.1
-Section: Tweaks
-Maintainer: Hoàng Đình Phong
-Filename: ./Deb/hoangdinhphong.musicartworksave_1.2.1_iphoneos-arm.deb
-Size: 16268
-MD5sum: a3dfbe0535597737047b466963f5cb61
-SHA1: 3476210e6a4669a5a3acd3801cd4859b2d37205e
-SHA256: 8e9171dcd0f156569bfa80c1959d6ab25aa76194773ef514829cc41a26191876
-SHA512: ba7910efaeeac1bc1953e731f377bf8354c6dbac473bd5a495c79b46cdb97a5d60627f92183a7d8bc8a33d94e4313a19cfcc4716d1249b4de081aa29061caafc
-Homepage: https://hoangdinhphong.github.io
-Description: Save Album Artwork in Music app!
-Tag: role::enduser
- Icon: file:///Applications/Cydia.app/Sections/Se.png
-Name: MusicArtworkSave
-Depiction: https://hoangdinhphong.github.io/Info/Html/MusicArtworkSave.html
-SileoDepiction: https://hoangdinhphong.github.io/Info/Json/MusicArtworkSave.json
-ModernDepiction: https://hoangdinhphong.github.io/Info/Json/MusicArtworkSave.json
-Tags: compatible_min::ios13.0, compatible_max::ios16.4
-Author: ETHN
-SomeOtherEntryToControl: True
 
