@@ -1,0 +1,8 @@
+{"minVersion":"0.1","headerImage":"https://hoangdinhphong.github.io/Images/ClearRepo/Banner.jpg","tintColor":"#ff4444","tabs":[{"tabname":"Thông tin","views":[
+
+{"markdown":"# Vui lòng chuyển sang nguồn mới và xoá bỏ nguồn này!\n\n\n","useSpacing":"true","class":"DepictionMarkdownView"},
+
+
+{"markdown":"[**NHẤN VÀO ĐÂY**](https://apple-phong.github.io)\n\n\n","useSpacing":"true","class":"DepictionMarkdownView"},
+
+{"class":"DepictionLabelView","text":"","textColor":"#999999","fontSize":"10.0","alignment":1}],"class":"DepictionStackView"}],"class":"DepictionTabView"}
